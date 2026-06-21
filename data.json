@@ -1594,5 +1594,1247 @@
     "source": "Ils parlent breton.",
     "target": "Komz a reont brezhoneg.",
     "explanation": "S'il n'y a pas de sujet exprimé, le verbe de support s'accorde (reont = ils font)."
+  },
+  {
+    "type": "version",
+    "source": "Evañ a rin gwin.",
+    "target": "Je boirai du vin.",
+    "explanation": "Futur : infinitif (evañ) + particule a + verbe ober conjugué (rin)."
+  },
+  {
+    "type": "version",
+    "source": "Kompren a ri.",
+    "target": "Tu comprendras.",
+    "explanation": "Futur : ri (tu feras)."
+  },
+  {
+    "type": "version",
+    "source": "Prenañ a rafes se ?",
+    "target": "Tu achèterais ça ?",
+    "explanation": "Conditionnel : rafes (tu ferais)."
+  },
+  {
+    "type": "version",
+    "source": "Dont a rae alies.",
+    "target": "Il/elle venait souvent.",
+    "explanation": "Imparfait : rae."
+  },
+  {
+    "type": "version",
+    "source": "Komz a raent brezhoneg ?",
+    "target": "Parlaient-ils/elles breton ?",
+    "explanation": "Imparfait pluriel : raent."
+  },
+  {
+    "type": "version",
+    "source": "Debriñ a rafec'h anezho ?",
+    "target": "Les mangeriez-vous ?",
+    "explanation": "Conditionnel pluriel : rafec'h. anezho (cod 'les')."
+  },
+  {
+    "type": "version",
+    "source": "Gwelet a reot.",
+    "target": "Vous verrez.",
+    "explanation": "Futur pluriel : reot."
+  },
+  {
+    "type": "version",
+    "source": "Klevet a raent trouz.",
+    "target": "Ils/elles entendaient du bruit.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Selaou a ray anezhi ?",
+    "target": "Il/elle l'écoutera ?",
+    "explanation": "ray (il/elle fera), anezhi (la)."
+  },
+  {
+    "type": "version",
+    "source": "Klask a raimp.",
+    "target": "Nous essayerons.",
+    "explanation": "Futur 1ère pers pluriel : raimp."
+  },
+  {
+    "type": "theme",
+    "source": "Tu mangerais ça ?",
+    "target": "Debriñ a rafes se ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Il verra le chien de Pedro.",
+    "target": "Gwelet a ray ki Pedro.",
+    "explanation": "On peut aussi dire 'raio'."
+  },
+  {
+    "type": "theme",
+    "source": "Nous dormions mal.",
+    "target": "Kousket a raemp fall.",
+    "explanation": "On peut aussi dire 'Kousket fall a raemp'."
+  },
+  {
+    "type": "theme",
+    "source": "Ils lisaient beaucoup.",
+    "target": "Lenn a raent kalz.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Viendraient-ils ?",
+    "target": "Dont a rafent ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Vous le compreniez ?",
+    "target": "Kompren a raec'h anezhañ ?",
+    "explanation": "anezhañ (le, COD)."
+  },
+  {
+    "type": "theme",
+    "source": "Me comprendriez-vous ?",
+    "target": "Kompren a rafec'h ac'hanon ?",
+    "explanation": "ac'hanon (me, COD)."
+  },
+  {
+    "type": "theme",
+    "source": "Je trouvais ça bien.",
+    "target": "Kavout a raen se mat.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Nous perdions souvent.",
+    "target": "Koll a raemp alies.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "J'essayerai.",
+    "target": "Klask a rin.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Il riait souvent.",
+    "target": "C'hoarzhin a rae alies.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Je ne les comprends pas.",
+    "target": "Ne gomprenan ket anezho.",
+    "explanation": "Négation. gomprenan (mutation de kompren)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous ne voyez pas le nez de Bob ?",
+    "target": "Ne welit ket fri Bob ?",
+    "explanation": "Négation. welit (mutation de gwelout)."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ne mangent pas beaucoup le soir.",
+    "target": "Ne zebront ket kalz da noz.",
+    "explanation": "Mutation zebront. On peut aussi utiliser diouzh an noz."
+  },
+  {
+    "type": "theme",
+    "source": "Nous ne les entendons pas.",
+    "target": "Ne glevomp ket anezho.",
+    "explanation": "Mutation glevomp."
+  },
+  {
+    "type": "theme",
+    "source": "Nous ne les avons pas entendus.",
+    "target": "N'hon eus ket klevet anezho.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Elle ne parle pas avec la sœur de Phébus.",
+    "target": "Ne gomz ket gant c'hoar Phebus.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne gomzin ket.",
+    "target": "Je ne parlerai pas.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne respontfe ket ?",
+    "target": "Il/elle ne répondrait pas ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne lennemp ket alies.",
+    "target": "Nous ne lisions pas souvent.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne gompreno ket.",
+    "target": "Il/elle ne comprendra pas.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne welfent netra.",
+    "target": "Ils/elles ne verraient rien.",
+    "explanation": "netra remplace ket."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne comprendrait pas.",
+    "target": "Ne gomprenfe ket.",
+    "explanation": "Conditionnel: -fe."
+  },
+  {
+    "type": "theme",
+    "source": "Tu ne verras rien.",
+    "target": "Ne weli netra.",
+    "explanation": "On n'utilise pas ket avec netra."
+  },
+  {
+    "type": "theme",
+    "source": "Elles ne mangeaient pas assez.",
+    "target": "Ne zebrent ket trawalc'h.",
+    "explanation": "trawalc'h = assez."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'achetions pas ça.",
+    "target": "Ne brenemp ket se.",
+    "explanation": "Mutation p > b: brenemp."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ne boiront pas.",
+    "target": "Ne evint ket.",
+    "explanation": "Pas de mutation sur evint car voyelle."
+  },
+  {
+    "type": "theme",
+    "source": "Tu n'entendrais rien.",
+    "target": "Ne glevfes netra.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Peseurt shampooing a bren ?",
+    "target": "Quel shampooing achète-t-il ?",
+    "explanation": "Peseurt = quel/quelle."
+  },
+  {
+    "type": "version",
+    "source": "Petra a welez en ti-se ?",
+    "target": "Qu'est-ce que tu vois dans cette maison ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Piv a glevont ?",
+    "target": "Qui entendent-ils ?",
+    "explanation": "Piv = qui."
+  },
+  {
+    "type": "version",
+    "source": "Peseurt journal a lennez ?",
+    "target": "Quel journal lis-tu ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce que vous mangez ?",
+    "target": "Petra a zebrit ?",
+    "explanation": "Petra a ... (quoi)"
+  },
+  {
+    "type": "theme",
+    "source": "Qui vois-je dans mon garage ?",
+    "target": "Piv a welan em c'harrdi ?",
+    "explanation": "Piv = qui, em c'harrdi = dans mon garage."
+  },
+  {
+    "type": "theme",
+    "source": "Quelle radio écoutent-ils ?",
+    "target": "Peseurt radio a selaouont ?",
+    "explanation": "Peseurt = quel(le)."
+  },
+  {
+    "type": "theme",
+    "source": "Quelle viande manges-tu ?",
+    "target": "Peseurt kig a zebrez ?",
+    "explanation": "Kig = viande."
+  },
+  {
+    "type": "theme",
+    "source": "Que voyez-vous ?",
+    "target": "Petra a welit ?",
+    "explanation": "Présent."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'avez-vous vu ?",
+    "target": "Petra hoc'h eus gwelet ?",
+    "explanation": "Passé composé."
+  },
+  {
+    "type": "theme",
+    "source": "Qui entends-tu ?",
+    "target": "Piv a glevez ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qui ai-je entendu ?",
+    "target": "Piv am eus klevet ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qui voyez-vous dans la cuisine de Simon ?",
+    "target": "Piv a welit e kegin Simon ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce que j'entends ?",
+    "target": "Petra a glevan ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Tu entends ça ?",
+    "target": "Klevet a rez se ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Peseurt ti a breni ?",
+    "target": "Quelle maison achèteras-tu ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Kafe a rafec'h ?",
+    "target": "Vous feriez du café ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Yann a welen alies.",
+    "target": "Je voyais souvent Yann.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qui entendiez-vous ?",
+    "target": "Piv a glevec'h ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "C'est moi qu'ils verront.",
+    "target": "Me eo a welint.",
+    "explanation": "C'est moi = Me eo + relatif a."
+  },
+  {
+    "type": "theme",
+    "source": "Que mangerions-nous ?",
+    "target": "Petra a zebrfemp ?",
+    "explanation": "Ou: Petra a zebremp ?"
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce que tu fais ?",
+    "target": "Petra emaout oc'h ober ?",
+    "explanation": "Présent progressif avec emaout + oc'h + infinitif. Peut aussi se dire: Oc'h ober petra emaout ?"
+  },
+  {
+    "type": "theme",
+    "source": "Qui attendons-nous ?",
+    "target": "O c'hortoz piv emaomp ?",
+    "explanation": "Ou: Piv emaomp o c'hortoz ?"
+  },
+  {
+    "type": "theme",
+    "source": "Gloutroñ est en train de boire du pastis.",
+    "target": "Emañ Gloutroñ oc'h evañ pastis.",
+    "explanation": "Ou: Oc'h evañ pastis emañ Gloutroñ."
+  },
+  {
+    "type": "version",
+    "source": "Me a breno traoù.",
+    "target": "(Moi), j'achèterai des choses.",
+    "explanation": "Accent sur 'Moi' avec le sujet devant."
+  },
+  {
+    "type": "version",
+    "source": "Te a gomprene ac'hanon.",
+    "target": "(Toi), tu me comprenais.",
+    "explanation": "Accent sur 'Te' (toi). ac'hanon = me (COD)."
+  },
+  {
+    "type": "version",
+    "source": "Int a zebrfe se.",
+    "target": "(Eux), ils mangeraient ça.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Qui parlait breton là-bas ?",
+    "target": "Piv a gomze brezhoneg eno ?",
+    "explanation": "eno = là-bas / y."
+  },
+  {
+    "type": "theme",
+    "source": "Nous, nous les entendions bien.",
+    "target": "Ni a gleve anezho mat.",
+    "explanation": "Ni = Nous mis en valeur."
+  },
+  {
+    "type": "theme",
+    "source": "Toi, tu boirais ça ?!",
+    "target": "Te a evfe se ?!",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ur pesk ruz en doa.",
+    "target": "Il avait un poisson rouge.",
+    "explanation": "Avoir au passé (3e pers. sing. masc) se dit 'en doa'."
+  },
+  {
+    "type": "version",
+    "source": "N'he doa bugel ebet.",
+    "target": "Elle n'avait aucun enfant.",
+    "explanation": "Avoir au passé négatif (3e pers. sing. fem) : 'N'he doa ket' ou 'N'he doa'. 'ebet' s'ajoute pour dire 'aucun'."
+  },
+  {
+    "type": "theme",
+    "source": "Elle avait un chien chiant.",
+    "target": "Ur c'hi torr-penn he doa.",
+    "explanation": "'torr-penn' = casse-tête/chiant. On place l'objet possédé avant la forme d'avoir ('he doa')."
+  },
+  {
+    "type": "theme",
+    "source": "Ils n'avaient pas de voiture.",
+    "target": "N'o doa ket karr ebet.",
+    "explanation": "On peut dire 'N'o doa karr ebet' ou 'N'o doa ket karr ebet'."
+  },
+  {
+    "type": "version",
+    "source": "Me a oa o kousket.",
+    "target": "Je dormais.",
+    "explanation": "Passé progressif : Je(mis en valeur) + a oa (était) + o kousket (en train de dormir)."
+  },
+  {
+    "type": "version",
+    "source": "O kanañ e oas ?",
+    "target": "Tu chantais ?",
+    "explanation": "Passé progressif avec l'action en premier : 'O kanañ' + e (particule) + oas (tu étais)."
+  },
+  {
+    "type": "version",
+    "source": "Ni a oa o c'hortoz.",
+    "target": "Nous attendions.",
+    "explanation": "Nous (Ni) mis en avant suivi de 'a oa' et participe présent."
+  },
+  {
+    "type": "theme",
+    "source": "Que faisaient-ils à Las-Vegas ?",
+    "target": "Oc'h ober petra e oant e Las Vegas ?",
+    "explanation": "On peut aussi dire 'Petra e oant oc'h ober e Las Vegas ?'."
+  },
+  {
+    "type": "theme",
+    "source": "Nous étions en train d'écrire.",
+    "target": "O skrivañ e oamp.",
+    "explanation": "On met en avant l'action 'O skrivañ' suivie du verbe être. Ou 'Ni a oa o skrivañ'."
+  },
+  {
+    "type": "theme",
+    "source": "Où mangeaient-ils ?",
+    "target": "Pelec'h e oant o tebriñ ?",
+    "explanation": "'Pelec'h' (Où) suivi du verbe être de situation"
+  },
+  {
+    "type": "version",
+    "source": "Piv zo o vont da welet ?",
+    "target": "Qui va voir ?",
+    "explanation": "Ici 'Piv' est sujet dans cette phrase."
+  },
+  {
+    "type": "version",
+    "source": "Piv emañ o vont da welet ?",
+    "target": "Qui va-t-il (ou va-t-elle) voir ?",
+    "explanation": "Ici 'Piv' est COD (complément d'objet direct) dans cette phrase."
+  },
+  {
+    "type": "version",
+    "source": "O vont da zebriñ e oamp.",
+    "target": "Nous allions manger.",
+    "explanation": "Futur immédiat dans le passé : participe (o vont da) + e + verbe être à l'imparfait."
+  },
+  {
+    "type": "version",
+    "source": "Ne oas ket o vont da skiañ ?",
+    "target": "Tu n'allais pas skier ?",
+    "explanation": "Négation avec le verbe être à l'imparfait ('oas')."
+  },
+  {
+    "type": "version",
+    "source": "Ni a oa o vont da ziskuizhañ.",
+    "target": "Nous allions nous reposer.",
+    "explanation": "Verbe 'diskuizhañ'."
+  },
+  {
+    "type": "theme",
+    "source": "Ils allaient écrire.",
+    "target": "O vont da skrivañ e oant.",
+    "explanation": "On peut construire de plusieurs manières, par ex. 'Int a oa o vont da skrivañ' ou 'E oant o vont da skrivañ'."
+  },
+  {
+    "type": "theme",
+    "source": "Nous allions les chercher.",
+    "target": "O vont da glask anezho e oamp.",
+    "explanation": "Le pronom d'objet direct 'les' devient la préposition conjuguée 'anezho'."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce vous alliez dire ?",
+    "target": "Petra e oac'h o vont da lâret ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "J'allais lire Libération.",
+    "target": "O vont da lenn Libération e oan.",
+    "explanation": "Ou 'Me a oa o vont da lenn Libération'."
+  },
+  {
+    "type": "version",
+    "source": "Perak emaout o vont d'ober se ?",
+    "target": "Pourquoi vas-tu faire ça ?",
+    "explanation": "Emaout pour la 2e pers. singulier (situation)."
+  },
+  {
+    "type": "version",
+    "source": "Emaon o vont da brenañ ur walkman.",
+    "target": "Je vais acheter un walkman.",
+    "explanation": "Emaon = Je suis."
+  },
+  {
+    "type": "version",
+    "source": "C'hwi zo o vont da ganañ ?",
+    "target": "Vous, vous allez chanter ?",
+    "explanation": "C'hwi (Vous) est mis en avant avec 'zo'."
+  },
+  {
+    "type": "version",
+    "source": "N'emaint ket o vont da gouezhañ emichañs.",
+    "target": "Ils (ou Elles) ne vont pas tomber, j'espère.",
+    "explanation": "emichañs = j'espère / probablement."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h emaint o vont da zebriñ ?",
+    "target": "Où vont-ils manger ?",
+    "explanation": "Mutation adoucissante : da zebriñ."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce que tu vas faire ?",
+    "target": "Petra emaout o vont d'ober ?",
+    "explanation": "Peut aussi se dire 'O vont d'ober petra emaout ?'."
+  },
+  {
+    "type": "theme",
+    "source": "Qui va tomber dans le Mississipi ?",
+    "target": "Piv zo o vont da gouezhañ er Mississipi ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'allons pas apprendre ça.",
+    "target": "N'emaomp ket o vont da zeskiñ se.",
+    "explanation": "'N'emaomp ket' pour la négation du verbe être à la 1re pers. pluriel."
+  },
+  {
+    "type": "theme",
+    "source": "Il va travailler.",
+    "target": "Emañ o vont da labourat.",
+    "explanation": "Ou 'O vont da labourat emañ' / 'Eñ zo o vont da labourat'."
+  },
+  {
+    "type": "theme",
+    "source": "Vous allez rester ici.",
+    "target": "Emaoc'h o vont da chom amañ.",
+    "explanation": "Aussi : 'Amañ emaoc'h o vont da chom' ou 'C'hwi zo o vont da chom amañ'."
+  },
+  {
+    "type": "version",
+    "source": "'H a da ve'añ skuizh.",
+    "target": "Il/Elle va être fatigué(-e).",
+    "explanation": "Breton parlé pour 'Emañ o vont da vezañ skuizh'."
+  },
+  {
+    "type": "version",
+    "source": "'H ez da gompren.",
+    "target": "Tu vas comprendre.",
+    "explanation": "Breton parlé / familier."
+  },
+  {
+    "type": "version",
+    "source": "Pet'a 'h et d'o'r ?",
+    "target": "Qu'est-ce que vous allez faire ?",
+    "explanation": "Breton parlé pour 'Petra emaoc'h o vont d'ober ?'"
+  },
+  {
+    "type": "version",
+    "source": "N'an ket da gousket.",
+    "target": "Je ne vais pas dormir.",
+    "explanation": "Breton parlé pour la forme négative à la 1re personne."
+  },
+  {
+    "type": "version",
+    "source": "Peseu' film 'h amp da welet ?",
+    "target": "Quel film allons-nous voir ?",
+    "explanation": "Breton parlé."
+  },
+  {
+    "type": "theme",
+    "source": "Demain, il y aura du vent en Bretagne.",
+    "target": "Warc'hoazh e vo avel e Breizh.",
+    "explanation": "'vo' est le futur d'état (bezañ)."
+  },
+  {
+    "type": "theme",
+    "source": "Hier, il y avait une jeep dans mon garage.",
+    "target": "Dec'h e oa ur jeep em c'harrdi.",
+    "explanation": "'oa' est l'imparfait d'état."
+  },
+  {
+    "type": "version",
+    "source": "War an daol ez eus ur paotr hag ur plac'h.",
+    "target": "Il y a un garçon et une fille sur la table.",
+    "explanation": "On utilise 'ez eus' car le sujet ('ur paotr hag ur plac'h') est indéfini."
+  },
+  {
+    "type": "version",
+    "source": "War an daol emañ ar paotr hag ar plac'h.",
+    "target": "Le garçon et la fille sont sur la table.",
+    "explanation": "On utilise 'emañ' car le sujet ('ar paotr hag ar plac'h') est défini."
+  },
+  {
+    "type": "version",
+    "source": "Debret hon eus ganto.",
+    "target": "Nous avons mangé avec eux/avec elles.",
+    "explanation": "La préposition 'gant' se conjugue : ganto = avec eux/elles."
+  },
+  {
+    "type": "version",
+    "source": "Ganti en deus kousket.",
+    "target": "C'est avec elle qu'il a dormi.",
+    "explanation": "ganti = avec elle."
+  },
+  {
+    "type": "version",
+    "source": "Piv zo o vont da zañsal ganin ?",
+    "target": "Qui va danser avec moi ?",
+    "explanation": "ganin = avec moi."
+  },
+  {
+    "type": "version",
+    "source": "Ar spleen zo ganin.",
+    "target": "J'ai le spleen.",
+    "explanation": "Avoir momentané (détention, état physique) : bezañ (être) + gant (avec)."
+  },
+  {
+    "type": "version",
+    "source": "An tourista a oa gantañ.",
+    "target": "Il avait la tourista.",
+    "explanation": "gantañ = avec lui (il avait)."
+  },
+  {
+    "type": "version",
+    "source": "Ur c'himono gwenn zo ganeoc'h.",
+    "target": "Vous avez un kimono blanc.",
+    "explanation": "ganeoc'h = avec vous."
+  },
+  {
+    "type": "version",
+    "source": "Da bijama a vo ganti.",
+    "target": "Elle aura ton pyjama.",
+    "explanation": "ganti = avec elle."
+  },
+  {
+    "type": "version",
+    "source": "Emañ ma arc'hant ganit.",
+    "target": "Tu as mon argent.",
+    "explanation": "ganit = avec toi."
+  },
+  {
+    "type": "version",
+    "source": "N'emañ ket an eur ganimp.",
+    "target": "Nous n'avons pas l'heure.",
+    "explanation": "ganimp = avec nous."
+  },
+  {
+    "type": "theme",
+    "source": "Avez-vous un frisbee ?",
+    "target": "Ur frisbee zo ganeoc'h ?",
+    "explanation": "Le frisbee est indéfini, on utilise 'zo ganeoc'h'."
+  },
+  {
+    "type": "theme",
+    "source": "Elle avait un vélo hier soir.",
+    "target": "Ur velo a oa ganti dec'h da noz.",
+    "explanation": "On peut aussi dire 'Dec'h da noz e oa ur velo ganti'."
+  },
+  {
+    "type": "theme",
+    "source": "Avez-vous mon slip ?",
+    "target": "Ganeoc'h emañ ma slip ?",
+    "explanation": "On utilise 'emañ' car 'ma slip' est défini."
+  },
+  {
+    "type": "version",
+    "source": "Ma breur en doa un oto.",
+    "target": "Mon frère avait une auto.",
+    "explanation": "Il possédait une auto (kaout)."
+  },
+  {
+    "type": "version",
+    "source": "Un oto zo ganin.",
+    "target": "J'ai une auto.",
+    "explanation": "J'ai une auto avec moi / à disposition (bezañ + gant)."
+  },
+  {
+    "type": "version",
+    "source": "Ur c'hi du o deus.",
+    "target": "Ils ont un chien noir.",
+    "explanation": "Possession pérenne (o deus = ils ont)."
+  },
+  {
+    "type": "version",
+    "source": "Ur c'hazh a oa ganto ?",
+    "target": "Ils avaient un chat (avec eux) ?",
+    "explanation": "Étaient-ils accompagnés d'un chat ?"
+  },
+  {
+    "type": "theme",
+    "source": "Ils ont la montre de Yann.",
+    "target": "Montr Yann zo ganto.",
+    "explanation": "On peut aussi utiliser 'gante' (dialectal)."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as la clé ?",
+    "target": "An alc'hwez zo ganit ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'avons pas ton sac.",
+    "target": "N'emañ ket da sac'h ganimp.",
+    "explanation": "Sujet défini (da sac'h) = emañ."
+  },
+  {
+    "type": "theme",
+    "source": "Qui a le ketchup ?",
+    "target": "Gant piv emañ ar c'hetchup ?",
+    "explanation": "Défini = emañ."
+  },
+  {
+    "type": "theme",
+    "source": "Mon frère a la grippe.",
+    "target": "Emañ ar grip gant ma breur.",
+    "explanation": "Ou 'Ar grip zo gant ma breur'."
+  },
+  {
+    "type": "theme",
+    "source": "Avez-vous une télé à la maison ?",
+    "target": "Un tele hoc'h eus er gêr ?",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Il avait un poncho bleu.",
+    "target": "Ur poncho glas a oa gantañ.",
+    "explanation": "Si la phrase signifie : il portait un poncho bleu."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as la montre de Lord Sinclair ?",
+    "target": "Montr Lord Sinclair zo ganit ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h emañ ar re all ?",
+    "target": "Où sont les autres ?",
+    "explanation": "ar re all = les autres."
+  },
+  {
+    "type": "version",
+    "source": "Eben zo chomet er gêr.",
+    "target": "L'autre est restée à la maison.",
+    "explanation": "eben = l'autre (féminin)."
+  },
+  {
+    "type": "version",
+    "source": "Unan all ac'h eus kavet ?",
+    "target": "Tu en as trouvé un(e) autre ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Gant piv emañ egile ?",
+    "target": "Qui a l'autre ?",
+    "explanation": "egile = l'autre (masculin)."
+  },
+  {
+    "type": "theme",
+    "source": "Il y en a d'autres sous la chaise.",
+    "target": "Re(où) all zo dindan ar gador.",
+    "explanation": "Ou 'Dindan ar gador ez eus re all'."
+  },
+  {
+    "type": "theme",
+    "source": "Les autres sont tombés.",
+    "target": "Kouezhet eo ar re all.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Où se trouve l'autre ?",
+    "target": "Pelec'h emañ egile ?",
+    "explanation": "egile (si on parle de qqc de masculin) ou eben (féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Où as-tu trouvé celle-ci ?",
+    "target": "Pelec'h ec'h eus kavet homañ ?",
+    "explanation": "homañ = celle-ci."
+  },
+  {
+    "type": "theme",
+    "source": "Celui-là est resté à la maison.",
+    "target": "Chomet eo hennezh er gêr.",
+    "explanation": "hennezh = celui-là."
+  },
+  {
+    "type": "theme",
+    "source": "Je préfère ceux-ci.",
+    "target": "Gwell eo ar re-mañ ganin.",
+    "explanation": "ar re-mañ = ceux-ci."
+  },
+  {
+    "type": "version",
+    "source": "An hini gozh a oa skuizh.",
+    "target": "La vieille était fatiguée.",
+    "explanation": "an hini + adjectif = le/la (singulier). Ici mutation K>G = féminin."
+  },
+  {
+    "type": "version",
+    "source": "An hini bras zo klañv.",
+    "target": "Le grand est malade.",
+    "explanation": "Pas de mutation de bras = masculin."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h emañ ar re vihan ?",
+    "target": "Où sont les petits ?",
+    "explanation": "ar re = les (pluriel). Toujours mutation après 'ar re'."
+  },
+  {
+    "type": "version",
+    "source": "Ar re gozh zo ganin.",
+    "target": "Les vieux sont avec moi.",
+    "explanation": "Peut aussi signifier 'J'ai les vieux'."
+  },
+  {
+    "type": "version",
+    "source": "An hini kozh ne gan ket brav.",
+    "target": "Le vieux ne chante pas bien.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Prenet em eus an hini velen.",
+    "target": "J'ai acheté la jaune.",
+    "explanation": "Mutation M>V velen = féminin."
+  },
+  {
+    "type": "version",
+    "source": "Ar re wenn a gomz buan.",
+    "target": "Les blancs parlent vite.",
+    "explanation": "Mutation G>W (gwenn)."
+  },
+  {
+    "type": "theme",
+    "source": "Les grandes sont grandes.",
+    "target": "Ar re vras zo bras.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Le petit est petit.",
+    "target": "An hini bihan zo bihan.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Les blancs sont blancs.",
+    "target": "Ar re wenn zo gwenn.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Gwelet em eus unan bihan.",
+    "target": "J'(en) ai vu un petit.",
+    "explanation": "unan = un/une (indéfini)."
+  },
+  {
+    "type": "version",
+    "source": "Bez' ez eus re vihan ivez.",
+    "target": "Il y (en) a aussi des petits.",
+    "explanation": "re (ou reoù) = des (pluriel indéfini). Mutation systématique."
+  },
+  {
+    "type": "version",
+    "source": "Unan vras am eus ezhomm da gaout.",
+    "target": "J'(en) ai besoin d'une grande.",
+    "explanation": "Mutation B>V (vras) après 'unan' = féminin."
+  },
+  {
+    "type": "version",
+    "source": "Unan gwenn zo dindan an daol.",
+    "target": "Il y (en) a un blanc sous la table.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ne welez ket unan velen ?",
+    "target": "Tu ne (n'en) vois pas une jaune ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Re ruz am boa prenet.",
+    "target": "J'(en) avais acheté des rouges.",
+    "explanation": "re ruz = des rouges. Imparfait d'avoir : am boa."
+  },
+  {
+    "type": "theme",
+    "source": "Il a vu un grand à Abidjan.",
+    "target": "Gwelet en deus unan bras e Abidjan.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Nous avons vu des vieux à Malmö.",
+    "target": "Gwelet hon eus re gozh e Malmö.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "J'ai vu une grande à Oakland.",
+    "target": "Gwelet em eus unan vras e Oakland.",
+    "explanation": "unan vras = féminin (mutation B>V)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle a vu des malades à Riyad.",
+    "target": "Gwelet he deus re glañv e Riyad.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "N'eus netra tommoc'h.",
+    "target": "Il n'y a rien de plus chaud.",
+    "explanation": "Comparatif = adjectif + -oc'h."
+  },
+  {
+    "type": "version",
+    "source": "An hini vihan zo finoc'h.",
+    "target": "La petite est plus intelligente.",
+    "explanation": "finoc'h = plus maligne/intelligente."
+  },
+  {
+    "type": "version",
+    "source": "Gwennoc'h eo un tammig.",
+    "target": "Il/elle/c'est un peu plus blanc.",
+    "explanation": "un tammig = un petit peu."
+  },
+  {
+    "type": "version",
+    "source": "Hennezh zo rusoc'h.",
+    "target": "Celui-là est plus rouge.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Piv zo bihanoc'h evidon ?",
+    "target": "Qui est plus petit que moi ?",
+    "explanation": "evidon = préposition conjuguée formelle de 'que moi'."
+  },
+  {
+    "type": "version",
+    "source": "N'eo ket koshoc'h evit ar re all.",
+    "target": "Il n'est pas plus vieux que les autres.",
+    "explanation": "evit = que (comparaison formelle)."
+  },
+  {
+    "type": "version",
+    "source": "Petra zo nulloc'h evit ur fest-deiz ?",
+    "target": "Qu'y a-t-il de plus nul qu'un fest-deiz ?",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ma hini zo hiroc'h eget da hini.",
+    "target": "La mienne est plus longue que la tienne.",
+    "explanation": "eget = autre façon de dire 'que'. (eget da hini)."
+  },
+  {
+    "type": "version",
+    "source": "Petra zo skrijusoc'h eget ar film-se ?",
+    "target": "Qu'y a-t-il de plus effrayant que ce film ?",
+    "explanation": "skrijus = effrayant."
+  },
+  {
+    "type": "version",
+    "source": "Te zo efedusoc'h egeti.",
+    "target": "Tu es plus efficace qu'elle.",
+    "explanation": "egeti = qu'elle (préposition conjuguée)."
+  },
+  {
+    "type": "version",
+    "source": "Petra zo gwashoc'h evit gwin fall ?",
+    "target": "Qu'y a-t-il de pire que du mauvais vin ?",
+    "explanation": "gwashoc'h = pire (irrégulier de fall)."
+  },
+  {
+    "type": "version",
+    "source": "Evañ wiski n'eo ket gwelloc'h.",
+    "target": "Boire du whisky n'est pas mieux.",
+    "explanation": "gwelloc'h = mieux (irrégulier de mat)."
+  },
+  {
+    "type": "version",
+    "source": "N'on ket ken abred ha se.",
+    "target": "Je ne suis pas si tôt que ça.",
+    "explanation": "Egalité : ken + adjectif + ha(g)."
+  },
+  {
+    "type": "version",
+    "source": "N'oc'h ket ken koñ ha hi.",
+    "target": "Vous n'êtes pas aussi con qu'elle.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Homañ n'eo ket ken glas ha honnezh.",
+    "target": "Celle-ci n'est pas aussi bleue que celle-là.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Yann a oa ken klañv ha c'hwi.",
+    "target": "Yann était aussi malade que vous.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Hilary zo ken seksi ha Monica.",
+    "target": "Hilary est aussi sexy que Monica.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "An ti-mañ n'eo ket koulz.",
+    "target": "Cette maison n'est pas aussi bien.",
+    "explanation": "koulz = aussi bien (irrégulier de mat)."
+  },
+  {
+    "type": "version",
+    "source": "N'emañ ket keit-se.",
+    "target": "Il/elle ne se trouve pas aussi/si loin.",
+    "explanation": "keit = aussi loin/longtemps (irrégulier de pell/hir)."
+  },
+  {
+    "type": "version",
+    "source": "Yann zo ken gwazh hag e vreur.",
+    "target": "Yann est aussi mauvais que son frère.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ken kozh ha ken kozh omp.",
+    "target": "Nous sommes aussi vieux l'un que l'autre.",
+    "explanation": "Double égalité : Ken (adj) ha ken (adj)."
+  },
+  {
+    "type": "version",
+    "source": "Ken fur ha ken fur e oant.",
+    "target": "Ils/elles étaient aussi sensés l'un(e) que l'autre.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Piv eo ar brasañ ?",
+    "target": "Qui est le plus grand ?",
+    "explanation": "Superlatif : adjectif + -añ précédé de l'article (ar brasañ)."
+  },
+  {
+    "type": "version",
+    "source": "Hennezh eo an hini koshañ.",
+    "target": "C'est celui-là le plus vieux.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Ar c'hoshañ den eus San Diego.",
+    "target": "La plus vieille personne de San Diego.",
+    "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Petra eo ar vro gaerañ ?",
+    "target": "Quel est le plus beau pays ?",
+    "explanation": "kaerañ (le plus beau), mutation K>G (gaerañ) car bro est féminin."
+  },
+  {
+    "type": "version",
+    "source": "An hini vrasañ zo kouezhet.",
+    "target": "La plus grande est tombée.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "Il y a beaucoup de fumée.",
+    "target": "Kalz moged zo.",
+    "explanation": "On peut aussi dire 'Bez' ez eus kalz moged' ou avec la particule 'a' (kalz a voged)."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as besoin de plus de vacances ?",
+    "target": "Ezhomm ec'h eus da gaout muioc'h a vakañsoù ?",
+    "explanation": "Ou 'Muioc'h a vakañsoù ac'h eus ezhomm da gaout ?'."
+  },
+  {
+    "type": "theme",
+    "source": "Qui fait le plus de bruit ?",
+    "target": "Piv a ra ar muiañ a drouz ?",
+    "explanation": "'ar muiañ a' = le plus de. Entraîne une mutation adoucissante (trouz -> drouz)."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'y avait pas autant de pommes de terre.",
+    "target": "Ne oa ket kement a batatez.",
+    "explanation": "'kement a' = autant de. Mutation (patatez -> batatez)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous sommes moins riches que vous.",
+    "target": "Paouroc'h omp evidoc'h.",
+    "explanation": "Le breton préfère utiliser le comparatif de supériorité de l'adjectif inverse (Plus pauvres = paouroc'h). On peut aussi dire 'N'omp ket ken pinvidik ha c'hwi' (Nous ne sommes pas aussi riches que vous)."
+  },
+  {
+    "type": "theme",
+    "source": "Le petit verre et la grande chambre.",
+    "target": "Ar werenn vihan hag ar gambr vras.",
+    "explanation": "Mutations féminin singulier : gwerenn (g->w) + bihan (b->v) et kambr (k->g) + bras (b->v)."
+  },
+  {
+    "type": "theme",
+    "source": "La grosse souris et le lièvre ventru.",
+    "target": "Al logodenn dev hag ar c'had kofek.",
+    "explanation": "logodenn est féminin singulier : dev (t->d)."
+  },
+  {
+    "type": "theme",
+    "source": "Les maris aveugles et une langue vivante.",
+    "target": "Ar wazed dall hag ur yezh vev.",
+    "explanation": "yezh (langue) est féminin singulier : bev (b->v)."
+  },
+  {
+    "type": "theme",
+    "source": "La triste image et les grands verres.",
+    "target": "Ar skeudenn drist hag ar gwer bras.",
+    "explanation": "Pluriel de choses (gwer) : l'adjectif ne mute pas (bras)."
+  },
+  {
+    "type": "theme",
+    "source": "Les souris aveugles et les gros maris.",
+    "target": "Al logod dall hag ar wazed tev.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "La petite chambre et les petits frères.",
+    "target": "Ar gambr vihan hag ar vreudeur vihan.",
+    "explanation": "Pluriel masculin de personnes : mutation de l'adjectif (bihan -> vihan)."
+  },
+  {
+    "type": "theme",
+    "source": "La bonne cuillère et les Bretons lourds.",
+    "target": "Al loa vat hag ar Vretoned ponner.",
+    "explanation": "loa (cuillère) est un féminin singulier : mutation de mat en vat."
+  },
+  {
+    "type": "theme",
+    "source": "La fumeuse et les Bretons.",
+    "target": "Ar vutunerez hag ar Vretoned.",
+    "explanation": "Fumeuse (butunerez) est féminin = mutation adoucissante (vutunerez)."
+  },
+  {
+    "type": "theme",
+    "source": "Une Galloise et les peignes.",
+    "target": "Ur Gembreadez hag ar c'hriboù.",
+    "explanation": "Galloise (Kembreadez) est féminin = mutation K -> G après Ur."
+  },
+  {
+    "type": "theme",
+    "source": "Le canon et la mer.",
+    "target": "Ar c'hanol hag ar mor.",
+    "explanation": "kanol = canon (K -> C'h)."
+  },
+  {
+    "type": "theme",
+    "source": "Les canons et le canal.",
+    "target": "Ar c'hanolioù hag ar ganol.",
+    "explanation": "kanol peut se traduire par canal au féminin (k -> g) ou par canon en masculin (K -> C'h, pluriel)."
+  },
+  {
+    "type": "theme",
+    "source": "Le patron de péniche et la leçon.",
+    "target": "Ar gobarer hag ar gentel.",
+    "explanation": "kentel (leçon) est féminin = K -> G (gentel)."
+  },
+  {
+    "type": "theme",
+    "source": "Le Breton et les toits.",
+    "target": "Ar Breton hag an toennoù.",
+    "explanation": ""
+  },
+  {
+    "type": "theme",
+    "source": "La maison et le moulin.",
+    "target": "An ti hag ar vilin.",
+    "explanation": "milin (moulin) est féminin = vilin (M -> V)."
+  },
+  {
+    "type": "theme",
+    "source": "Les frères et une tour.",
+    "target": "Ar vreudeur hag un tour.",
+    "explanation": ""
   }
 ]
