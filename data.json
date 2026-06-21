@@ -31,14 +31,14 @@
   },
   {
     "type": "version",
-    "source": "Ur vaouez zo aze.",
+    "source": "Ur vaouez a zo aze.",
     "target": "Il y a une femme là-bas.",
     "explanation": "Après l'article indéfini 'ur', les noms féminins singuliers subissent une mutation adoucissante. 'Maouez' (femme) devient 'vaouez'."
   },
   {
     "type": "theme",
     "source": "J'ai un chien.",
-    "target": "Ur c'hi zo ganin.",
+    "target": "Ur c'hi a zo ganin.",
     "explanation": "Le verbe 'avoir' n'existe pas en breton. On utilise la tournure 'Il y a avec moi' (zo ganin). De plus, K mute en C'H après 'ur' au masculin."
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "type": "version",
-    "source": "Da di zo bras.",
+    "source": "Da di a zo bras.",
     "target": "Ta maison est grande.",
     "explanation": "Le possessif 'da' (ton/ta) provoque une mutation adoucissante. 'Ti' (maison) devient 'di'."
   },
@@ -721,7 +721,7 @@
   },
   {
     "type": "version",
-    "source": "Pell zo n'am eus ket gwelet anezhañ.",
+    "source": "Pell a zo n'am eus ket gwelet anezhañ.",
     "target": "Il y a longtemps que je ne l'ai pas vu.",
     "explanation": "Tournure temporelle inversée (pell zo)."
   },
@@ -962,7 +962,7 @@
   {
     "type": "theme",
     "source": "Quatre-vingt-un hommes sont venus.",
-    "target": "Un den ha pevar-ugent zo deuet.",
+    "target": "Un den ha pevar-ugent a zo deuet.",
     "explanation": "Pour 81, on utilise 'un' au masculin devant 'den' (homme) + et 80 (pevar-ugent, 4 vingtaines). L'unité précède 'ha pevar-ugent'."
   },
   {
@@ -1016,7 +1016,7 @@
   {
     "type": "theme",
     "source": "Quatre-vingt-douze personnes sont présentes.",
-    "target": "Daouzek den ha pevar-ugent zo amañ.",
+    "target": "Daouzek den ha pevar-ugent a zo amañ.",
     "explanation": "92 = 12 (daouzek) + personne (den) + et 80 (pevar-ugent)."
   },
   {
@@ -1039,7 +1039,7 @@
   },
   {
     "type": "version",
-    "source": "Teir gador ha hanter-kant zo er sal.",
+    "source": "Teir gador ha hanter-kant a zo er sal.",
     "target": "Il y a cinquante-trois chaises dans la salle.",
     "explanation": "3 (féminin : teir) + chaises (kador > gador, avec mutation) + et 50. Total : 53 chaises."
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "type": "version",
-    "source": "Ur c'harr ha tregont zo e gwerzh.",
+    "source": "Ur c'harr ha tregont a zo e gwerzh.",
     "target": "Trente-et-une voitures sont en vente.",
     "explanation": "1 (article devant nom masc: ur) + voiture (karr > c'harr) + et 30."
   },
@@ -1148,7 +1148,7 @@
   {
     "type": "theme",
     "source": "Cette eau est dangereuse.",
-    "target": "An dour-mañ zo dañjerus.",
+    "target": "An dour-mañ a zo dañjerus.",
     "explanation": "Le démonstratif (ce/cette) se forme en encadrant le nom : l'article défini (An) + nom (dour) + suffixe (-mañ pour ici, -se pour là)."
   },
   {
@@ -1196,7 +1196,7 @@
   {
     "type": "theme",
     "source": "Moi, je suis allé en ville.",
-    "target": "Me zo bet e kêr.",
+    "target": "Me a zo bet e kêr.",
     "explanation": "Insistance avec 'Me' suivi de la particule 'zo' (car le sujet est juste avant le verbe)."
   },
   {
@@ -1323,7 +1323,7 @@
     "type": "theme",
     "source": "La mère de Liza est passée.",
     "target": "Bet eo mamm Liza.",
-    "explanation": "On utilise 'bet eo' pour dire 'elle est passée'. On aurait aussi pu dire 'Mamm Liza zo bet'."
+    "explanation": "On utilise 'bet eo' pour dire 'elle est passée'. On aurait aussi pu dire 'Mamm Liza a zo bet'."
   },
   {
     "type": "theme",
@@ -1399,7 +1399,7 @@
   },
   {
     "type": "version",
-    "source": "Piv zo bet o welet ?",
+    "source": "Piv a zo bet o welet ?",
     "target": "Qui est allé voir ?",
     "explanation": "'Bet o welet' : être allé voir. Attention, la particule 'o' provoque une mutation adoucissante (Gwelet -> welet)."
   },
@@ -1423,13 +1423,13 @@
   },
   {
     "type": "version",
-    "source": "Me zo bet o welet.",
+    "source": "Me a zo bet o welet.",
     "target": "Moi, je suis allé voir.",
     "explanation": "Ne pas confondre ! Ici 'o welet' (en train de voir) signifie 'aller voir'."
   },
   {
     "type": "version",
-    "source": "Me zo bet gwelet.",
+    "source": "Me a zo bet gwelet.",
     "target": "Moi, j'ai été vu.",
     "explanation": "Sans la particule 'o', c'est la voix passive. Le sujet subit l'action d'être vu."
   },
@@ -2065,7 +2065,7 @@
   },
   {
     "type": "version",
-    "source": "Piv zo o vont da welet ?",
+    "source": "Piv a zo o vont da welet ?",
     "target": "Qui va voir ?",
     "explanation": "Ici 'Piv' est sujet dans cette phrase."
   },
@@ -2131,7 +2131,7 @@
   },
   {
     "type": "version",
-    "source": "C'hwi zo o vont da ganañ ?",
+    "source": "C'hwi a zo o vont da ganañ ?",
     "target": "Vous, vous allez chanter ?",
     "explanation": "C'hwi (Vous) est mis en avant avec 'zo'."
   },
@@ -2156,7 +2156,7 @@
   {
     "type": "theme",
     "source": "Qui va tomber dans le Mississipi ?",
-    "target": "Piv zo o vont da gouezhañ er Mississipi ?",
+    "target": "Piv a zo o vont da gouezhañ er Mississipi ?",
     "explanation": ""
   },
   {
@@ -2169,13 +2169,13 @@
     "type": "theme",
     "source": "Il va travailler.",
     "target": "Emañ o vont da labourat.",
-    "explanation": "Ou 'O vont da labourat emañ' / 'Eñ zo o vont da labourat'."
+    "explanation": "Ou 'O vont da labourat emañ' / 'Eñ a zo o vont da labourat'."
   },
   {
     "type": "theme",
     "source": "Vous allez rester ici.",
     "target": "Emaoc'h o vont da chom amañ.",
-    "explanation": "Aussi : 'Amañ emaoc'h o vont da chom' ou 'C'hwi zo o vont da chom amañ'."
+    "explanation": "Aussi : 'Amañ emaoc'h o vont da chom' ou 'C'hwi a zo o vont da chom amañ'."
   },
   {
     "type": "version",
@@ -2245,13 +2245,13 @@
   },
   {
     "type": "version",
-    "source": "Piv zo o vont da zañsal ganin ?",
+    "source": "Piv a zo o vont da zañsal ganin ?",
     "target": "Qui va danser avec moi ?",
     "explanation": "ganin = avec moi."
   },
   {
     "type": "version",
-    "source": "Ar spleen zo ganin.",
+    "source": "Ar spleen a zo ganin.",
     "target": "J'ai le spleen.",
     "explanation": "Avoir momentané (détention, état physique) : bezañ (être) + gant (avec)."
   },
@@ -2263,7 +2263,7 @@
   },
   {
     "type": "version",
-    "source": "Ur c'himono gwenn zo ganeoc'h.",
+    "source": "Ur c'himono gwenn a zo ganeoc'h.",
     "target": "Vous avez un kimono blanc.",
     "explanation": "ganeoc'h = avec vous."
   },
@@ -2288,7 +2288,7 @@
   {
     "type": "theme",
     "source": "Avez-vous un frisbee ?",
-    "target": "Ur frisbee zo ganeoc'h ?",
+    "target": "Ur frisbee a zo ganeoc'h ?",
     "explanation": "Le frisbee est indéfini, on utilise 'zo ganeoc'h'."
   },
   {
@@ -2311,7 +2311,7 @@
   },
   {
     "type": "version",
-    "source": "Un oto zo ganin.",
+    "source": "Un oto a zo ganin.",
     "target": "J'ai une auto.",
     "explanation": "J'ai une auto avec moi / à disposition (bezañ + gant)."
   },
@@ -2330,13 +2330,13 @@
   {
     "type": "theme",
     "source": "Ils ont la montre de Yann.",
-    "target": "Montr Yann zo ganto.",
+    "target": "Montr Yann a zo ganto.",
     "explanation": "On peut aussi utiliser 'gante' (dialectal)."
   },
   {
     "type": "theme",
     "source": "Tu as la clé ?",
-    "target": "An alc'hwez zo ganit ?",
+    "target": "An alc'hwez a zo ganit ?",
     "explanation": ""
   },
   {
@@ -2355,7 +2355,7 @@
     "type": "theme",
     "source": "Mon frère a la grippe.",
     "target": "Emañ ar grip gant ma breur.",
-    "explanation": "Ou 'Ar grip zo gant ma breur'."
+    "explanation": "Ou 'Ar grip a zo gant ma breur'."
   },
   {
     "type": "theme",
@@ -2372,7 +2372,7 @@
   {
     "type": "theme",
     "source": "Tu as la montre de Lord Sinclair ?",
-    "target": "Montr Lord Sinclair zo ganit ?",
+    "target": "Montr Lord Sinclair a zo ganit ?",
     "explanation": ""
   },
   {
@@ -2383,7 +2383,7 @@
   },
   {
     "type": "version",
-    "source": "Eben zo chomet er gêr.",
+    "source": "Eben a zo chomet er gêr.",
     "target": "L'autre est restée à la maison.",
     "explanation": "eben = l'autre (féminin)."
   },
@@ -2402,7 +2402,7 @@
   {
     "type": "theme",
     "source": "Il y en a d'autres sous la chaise.",
-    "target": "Re(où) all zo dindan ar gador.",
+    "target": "Re(où) all a zo dindan ar gador.",
     "explanation": "Ou 'Dindan ar gador ez eus re all'."
   },
   {
@@ -2443,7 +2443,7 @@
   },
   {
     "type": "version",
-    "source": "An hini bras zo klañv.",
+    "source": "An hini bras a zo klañv.",
     "target": "Le grand est malade.",
     "explanation": "Pas de mutation de bras = masculin."
   },
@@ -2455,7 +2455,7 @@
   },
   {
     "type": "version",
-    "source": "Ar re gozh zo ganin.",
+    "source": "Ar re gozh a zo ganin.",
     "target": "Les vieux sont avec moi.",
     "explanation": "Peut aussi signifier 'J'ai les vieux'."
   },
@@ -2480,19 +2480,19 @@
   {
     "type": "theme",
     "source": "Les grandes sont grandes.",
-    "target": "Ar re vras zo bras.",
+    "target": "Ar re vras a zo bras.",
     "explanation": ""
   },
   {
     "type": "theme",
     "source": "Le petit est petit.",
-    "target": "An hini bihan zo bihan.",
+    "target": "An hini bihan a zo bihan.",
     "explanation": ""
   },
   {
     "type": "theme",
     "source": "Les blancs sont blancs.",
-    "target": "Ar re wenn zo gwenn.",
+    "target": "Ar re wenn a zo gwenn.",
     "explanation": ""
   },
   {
@@ -2515,7 +2515,7 @@
   },
   {
     "type": "version",
-    "source": "Unan gwenn zo dindan an daol.",
+    "source": "Unan gwenn a zo dindan an daol.",
     "target": "Il y (en) a un blanc sous la table.",
     "explanation": ""
   },
@@ -2563,7 +2563,7 @@
   },
   {
     "type": "version",
-    "source": "An hini vihan zo finoc'h.",
+    "source": "An hini vihan a zo finoc'h.",
     "target": "La petite est plus intelligente.",
     "explanation": "finoc'h = plus maligne/intelligente."
   },
@@ -2575,13 +2575,13 @@
   },
   {
     "type": "version",
-    "source": "Hennezh zo rusoc'h.",
+    "source": "Hennezh a zo rusoc'h.",
     "target": "Celui-là est plus rouge.",
     "explanation": ""
   },
   {
     "type": "version",
-    "source": "Piv zo bihanoc'h evidon ?",
+    "source": "Piv a zo bihanoc'h evidon ?",
     "target": "Qui est plus petit que moi ?",
     "explanation": "evidon = préposition conjuguée formelle de 'que moi'."
   },
@@ -2593,31 +2593,31 @@
   },
   {
     "type": "version",
-    "source": "Petra zo nulloc'h evit ur fest-deiz ?",
+    "source": "Petra a zo nulloc'h evit ur fest-deiz ?",
     "target": "Qu'y a-t-il de plus nul qu'un fest-deiz ?",
     "explanation": ""
   },
   {
     "type": "version",
-    "source": "Ma hini zo hiroc'h eget da hini.",
+    "source": "Ma hini a zo hiroc'h eget da hini.",
     "target": "La mienne est plus longue que la tienne.",
     "explanation": "eget = autre façon de dire 'que'. (eget da hini)."
   },
   {
     "type": "version",
-    "source": "Petra zo skrijusoc'h eget ar film-se ?",
+    "source": "Petra a zo skrijusoc'h eget ar film-se ?",
     "target": "Qu'y a-t-il de plus effrayant que ce film ?",
     "explanation": "skrijus = effrayant."
   },
   {
     "type": "version",
-    "source": "Te zo efedusoc'h egeti.",
+    "source": "Te a zo efedusoc'h egeti.",
     "target": "Tu es plus efficace qu'elle.",
     "explanation": "egeti = qu'elle (préposition conjuguée)."
   },
   {
     "type": "version",
-    "source": "Petra zo gwashoc'h evit gwin fall ?",
+    "source": "Petra a zo gwashoc'h evit gwin fall ?",
     "target": "Qu'y a-t-il de pire que du mauvais vin ?",
     "explanation": "gwashoc'h = pire (irrégulier de fall)."
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "type": "version",
-    "source": "Hilary zo ken seksi ha Monica.",
+    "source": "Hilary a zo ken seksi ha Monica.",
     "target": "Hilary est aussi sexy que Monica.",
     "explanation": ""
   },
@@ -2671,7 +2671,7 @@
   },
   {
     "type": "version",
-    "source": "Yann zo ken gwazh hag e vreur.",
+    "source": "Yann a zo ken gwazh hag e vreur.",
     "target": "Yann est aussi mauvais que son frère.",
     "explanation": ""
   },
@@ -2713,7 +2713,7 @@
   },
   {
     "type": "version",
-    "source": "An hini vrasañ zo kouezhet.",
+    "source": "An hini vrasañ a zo kouezhet.",
     "target": "La plus grande est tombée.",
     "explanation": ""
   },
