@@ -748,5 +748,185 @@
     "source": "Kenavo ar c'hentañ gwech !",
     "target": "Au revoir à la prochaine fois !",
     "explanation": "Clôture traditionnelle et idiomatique."
+  },
+  {
+    "type": "theme",
+    "source": "Demain, j'irai à la plage.",
+    "target": "Warc'hoazh ez in d'an aod.",
+    "explanation": "Le futur du verbe irrégulier mont (aller) à la 1ère personne du singulier est 'in'. Précédé d'un adverbe de temps (warc'hoazh), on place la particule 'ez' ('e' devant voyelle)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous mangerons du poisson ce soir.",
+    "target": "Pesk a zebrimp fenoz.",
+    "explanation": "Le futur de debriñ à la 1ère pers. du pluriel est 'debrimp'. 'Pesk' étant antéposé, on utilise la particule 'a', causant la mutation D > Z."
+  },
+  {
+    "type": "theme",
+    "source": "Tu auras une belle voiture.",
+    "target": "Ur c'harr brav az po.",
+    "explanation": "'az po' est le futur à la 2e personne du singulier pour exprimer la possession (verbe 'avoir', kaout)."
+  },
+  {
+    "type": "theme",
+    "source": "Il fera beau demain.",
+    "target": "Brav e vo an amzer warc'hoazh.",
+    "explanation": "Futur du verbe être (bezañ) à la 3e pers. du singulier : 'vo'. Il est précédé de la particule 'e' car l'adjectif 'Brav' est placé en tête."
+  },
+  {
+    "type": "theme",
+    "source": "Ils achèteront une maison.",
+    "target": "Un ti a brenint.",
+    "explanation": "La terminaison '-int' marque la 3ème personne du pluriel au futur."
+  },
+  {
+    "type": "theme",
+    "source": "Vous verrez ce film.",
+    "target": "Gwelet a reot ar film-mañ.",
+    "explanation": "Ici, on utilise la périphrase verbale (infinitif + verbe auxiliaire ober). 'Reot' est la 2e personne du pluriel du futur de 'ober' (faire)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle lira ce livre.",
+    "target": "Al levr-mañ a lenno.",
+    "explanation": "Le sujet nominal n'est pas exprimé, la forme 'lenno' correspond à la 3e pers. du singulier du verbe lenn (lire)."
+  },
+  {
+    "type": "theme",
+    "source": "Je serai content de te voir.",
+    "target": "Laouen e vezin o welet ac'hanout.",
+    "explanation": "'Vezin' (ou 'bezin') est la forme du futur de 'bezañ' (être) à la première personne du singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Le chien dormira dans la maison.",
+    "target": "Ar c'hi a gousko en ti.",
+    "explanation": "Terminaison '-o' pour la 3e personne singulier du futur (kousket > kousko). La particule verbale 'a' entraîne la mutation adoucissante K > G."
+  },
+  {
+    "type": "theme",
+    "source": "Nous boirons un café plus tard.",
+    "target": "Ur banne kafe a evimp diwezhatoc'h.",
+    "explanation": "Terminaison '-imp' pour la 1ère pers. au pluriel du futur (evañ > evimp)."
+  },
+  {
+    "type": "theme",
+    "source": "Tes amis viendront demain.",
+    "target": "Da vignoned a zeuio warc'hoazh.",
+    "explanation": "Le verbe 'dont' a pour futur au singulier 'teuio' ou 'deuio'. Après la particule 'a', le T mute en Z."
+  },
+  {
+    "type": "theme",
+    "source": "Je travaillerai lundi.",
+    "target": "D'al lun e labourin.",
+    "explanation": "Le futur à la 1ère personne du singulier prend la terminaison '-in', s'ajoutant au radical (labouret > labourin)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous apprendrez le breton.",
+    "target": "Brezhoneg a zeskoc'h.",
+    "explanation": "Terminaison '-oc'h' (ou -fot) pour la 2ème pers. du pluriel. Notez la mutation adoucissante de D (deskiñ) > Z après la particule."
+  },
+  {
+    "type": "theme",
+    "source": "Elle aura de l'argent.",
+    "target": "Arc'hant he do.",
+    "explanation": "'he do' indique la possession au futur (kaout) à la 3e personne du féminin singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Ils seront fatigués.",
+    "target": "Skuizh e vint.",
+    "explanation": "Pour parler d'un état ou d'une qualité au futur avec le verbe 'être', on utilise 'vint' à la 3ème pers du pluriel."
+  },
+  {
+    "type": "version",
+    "source": "Debriñ a rin ur grampouezhenn.",
+    "target": "Je mangerai une crêpe.",
+    "explanation": "La structure la plus courante pour un verbe d'action au futur : l'infinitif en tête 'Debriñ', suivi de 'a', et du verbe 'ober' conjugué au futur (rin)."
+  },
+  {
+    "type": "version",
+    "source": "Mont a rimp d'ar fest-noz.",
+    "target": "Nous irons au fest-noz.",
+    "explanation": "'rimp' est la 1ère personne du pluriel du futur du verbe d'appui 'ober'."
+  },
+  {
+    "type": "version",
+    "source": "Glav a raio disul.",
+    "target": "Il pleuvra dimanche.",
+    "explanation": "'raio' ou 'ray' est la 3ème pers. singulier au futur d''ober'. Littéralement: Pluie fera dimanche."
+  },
+  {
+    "type": "version",
+    "source": "Deskiñ a reot kalz a draoù.",
+    "target": "Vous apprendrez beaucoup de choses.",
+    "explanation": "'reot' correspond à vous ferez (futur). Conjugué avec un infinitif en tête ('Deskiñ'), il indique l'action au futur."
+  },
+  {
+    "type": "version",
+    "source": "Kanet e vo ur ganaouenn.",
+    "target": "Une chanson sera chantée.",
+    "explanation": "Le participe passé ('Kanet') combiné avec 'vo' (le futur du verbe être) traduit le passif au futur."
+  },
+  {
+    "type": "version",
+    "source": "C'hoari a rint er jardin.",
+    "target": "Ils joueront dans le jardin.",
+    "explanation": "'rint' est la forme de la 3e personne du pluriel du verbe ober au futur."
+  },
+  {
+    "type": "version",
+    "source": "Skoazell am bo ganit.",
+    "target": "J'aurai de l'aide de ta part.",
+    "explanation": "'am bo' est le futur d'avoir (kaout) à la 1ère pers singulier."
+  },
+  {
+    "type": "version",
+    "source": "Prenañ a raio ur roched nevez.",
+    "target": "Il/elle achètera une chemise neuve.",
+    "explanation": "De même que l'exemple de la pluie, 'raio' s'accorde à la 3e personne avec le verbe 'Prenañ'."
+  },
+  {
+    "type": "version",
+    "source": "Skrivañ a rin ul lizher.",
+    "target": "J'écrirai une lettre.",
+    "explanation": "'rin' placé derrière la particule exprime le futur 'je ferai' donc avec 'Skrivañ' en infinitif, 'J'écrirai'."
+  },
+  {
+    "type": "version",
+    "source": "Ne vo ket brav an amzer.",
+    "target": "Il ne fera pas beau.",
+    "explanation": "La locution avec le verbe au futur 'vo' pris dans la forme négative 'ne ... ket' l'utilise en temps qu'auxiliaire de description de l'état futur."
+  },
+  {
+    "type": "version",
+    "source": "Gortoz a rimp an tren.",
+    "target": "Nous attendrons le train.",
+    "explanation": "Encore l'expression verbale via 'ober' au pluriel pour le futur de gortoz (attendre)."
+  },
+  {
+    "type": "version",
+    "source": "Lennet e vo al levr.",
+    "target": "Le livre sera lu.",
+    "explanation": "Forme passive future pour le participe passé lennet en combinaison avec 'vo'."
+  },
+  {
+    "type": "version",
+    "source": "Kavout a ri da hent.",
+    "target": "Tu trouveras ton chemin.",
+    "explanation": "'ri' correspond à la 2e pers du singulier (Tu feras/Tu auras une action au futur)."
+  },
+  {
+    "type": "version",
+    "source": "Pellgomz a rin dit fenoz.",
+    "target": "Je t'appellerai ce soir.",
+    "explanation": "Le verbe 'Pellgomz' (téléphoner) assisté par 'rin' exprime une action affirmée au futur."
+  },
+  {
+    "type": "version",
+    "source": "Fardañ a raint ur wastell.",
+    "target": "Ils/elles prépareront un gâteau.",
+    "explanation": "'raint' / 'rint' est le futur d'ober à la 3ème pers du pluriel: Ils prépareront."
   }
 ]
