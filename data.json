@@ -928,5 +928,185 @@
     "source": "Fardañ a raint ur wastell.",
     "target": "Ils/elles prépareront un gâteau.",
     "explanation": "'raint' / 'rint' est le futur d'ober à la 3ème pers du pluriel: Ils prépareront."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai vingt-cinq ans.",
+    "target": "Pemp bloaz warn-ugent on.",
+    "explanation": "Pour les nombres composés (ex: 25 = 5 sur 20), le nom (bloaz) se place toujours après le premier chiffre (pemp) et au singulier, suivi du reste du nombre (warn-ugent)."
+  },
+  {
+    "type": "theme",
+    "source": "Il y a trente-deux élèves.",
+    "target": "Daou skoliad ha tregont zo.",
+    "explanation": "32 = 2 (daou) + élève (skoliad) + et 30 (ha tregont). L'unité complétée reste au singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Ça coûte quarante-trois euros.",
+    "target": "Tri euro ha daou-ugent e koust.",
+    "explanation": "43 euros se construit : 3 (tri) + euro + et 40 (ha daou-ugent). L'unité monétaire, comme tout nom, est intercalée."
+  },
+  {
+    "type": "theme",
+    "source": "Je vois cinquante-quatre vaches.",
+    "target": "Peder buoc'h ha hanter-kant a welan.",
+    "explanation": "54 vaches. 'Vache' (buoc'h) est féminin, on utilise donc la forme féminine de 4 (peder). 50 se dit 'hanter-kant' (demi-cent)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous avons soixante-six moutons.",
+    "target": "C'hwec'h dañvad ha tri-ugent hon eus.",
+    "explanation": "66 = 6 et soixante (3 vingtaines : tri-ugent). 'Dañvad' (mouton) s'insère juste après 'C'hwec'h'."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingt-un hommes sont venus.",
+    "target": "Un den ha pevar-ugent zo deuet.",
+    "explanation": "Pour 81, on utilise 'un' au masculin devant 'den' (homme) + et 80 (pevar-ugent, 4 vingtaines). L'unité précède 'ha pevar-ugent'."
+  },
+  {
+    "type": "theme",
+    "source": "Il a lu quatre-vingt-dix-sept livres.",
+    "target": "Seitek levr ha pevar-ugent en deus lennet.",
+    "explanation": "97 se compte '17 et 80' (seitek ha pevar-ugent). On intercale le mot 'levr' juste après le 17."
+  },
+  {
+    "type": "theme",
+    "source": "Trente-et-une femmes travaillent ici.",
+    "target": "Ur vaouez ha tregont a labour amañ.",
+    "explanation": "31 = 1 et 30. 'Femme' étant féminin, le 1 devient 'Ur' et provoque la mutation de 'maouez' en 'vaouez'. Le tout est suivi de 'ha tregont'."
+  },
+  {
+    "type": "theme",
+    "source": "Il y a vingt-et-un jours.",
+    "target": "Un deiz warn-ugent zo.",
+    "explanation": "21 = 1 sur 20. 'Deiz' (jour) se glisse entre 'Un' et 'warn-ugent'."
+  },
+  {
+    "type": "theme",
+    "source": "J'achèterai vingt-deux chaises.",
+    "target": "Div gador warn-ugent a brenin.",
+    "explanation": "22 = 2 sur 20. 'Chaise' (kador) est féminin, donc 'div' provoque l'adoucissement en 'gador'."
+  },
+  {
+    "type": "theme",
+    "source": "Il vit ici depuis trente-trois ans.",
+    "target": "Abaoe tri bloaz ha tregont emañ o chom amañ.",
+    "explanation": "33 ans = tri (3) + bloaz (an) + ha tregont (et 30)."
+  },
+  {
+    "type": "theme",
+    "source": "Donne-moi quarante-neuf euros.",
+    "target": "Ro din nav euro ha daou-ugent.",
+    "explanation": "49 euros se forme avec 9 (nav) + euro + et 40 (ha daou-ugent)."
+  },
+  {
+    "type": "theme",
+    "source": "Il y avait cinquante-huit chiens.",
+    "target": "Eizh ki ha hanter-kant a oa.",
+    "explanation": "58 chiens = 8 (eizh) + chien (ki) + et 50 (ha hanter-kant)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous avez soixante-quinze ans.",
+    "target": "Pemzek vloaz ha tri-ugent hoc'h eus.",
+    "explanation": "75 se décompose en 15 (pemzek) et 60 (tri-ugent). Le mot 'bloaz' mute en 'vloaz' après pemzek."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingt-douze personnes sont présentes.",
+    "target": "Daouzek den ha pevar-ugent zo amañ.",
+    "explanation": "92 = 12 (daouzek) + personne (den) + et 80 (pevar-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "Pemp den warn-ugent a zo bet gwelet.",
+    "target": "Vingt-cinq personnes ont été vues.",
+    "explanation": "'den' (personne/homme) s'insère entre le 5 et le 'sur 20' (warn-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "C'hwec'h miz ha tregont.",
+    "target": "Trente-six mois.",
+    "explanation": "Littéralement : 6 mois et 30. Le mois (miz) suit immédiatement l'unité (C'hwec'h)."
+  },
+  {
+    "type": "version",
+    "source": "Nav gwenneg ha daou-ugent.",
+    "target": "Quarante-neuf centimes.",
+    "explanation": "'gwenneg' (sou/centime) prend sa place derrière le 9, avant le 'et quarante' (ha daou-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "Teir gador ha hanter-kant zo er sal.",
+    "target": "Il y a cinquante-trois chaises dans la salle.",
+    "explanation": "3 (féminin : teir) + chaises (kador > gador, avec mutation) + et 50. Total : 53 chaises."
+  },
+  {
+    "type": "version",
+    "source": "Seizh deiz ha tri-ugent a chom.",
+    "target": "Il reste soixante-sept jours.",
+    "explanation": "Seizh (7) + deiz (jour) + ha tri-ugent (et 60). Le nom est toujours au singulier."
+  },
+  {
+    "type": "version",
+    "source": "Trizek vloaz ha pevar-ugent eo ma zad-kozh.",
+    "target": "Mon grand-père a quatre-vingt-treize ans.",
+    "explanation": "13 (trizek) + ans (vloaz) + et 80 (pevar-ugent). Bloaz mute après trizek."
+  },
+  {
+    "type": "version",
+    "source": "Peder sizhun warn-ugent em eus gortozet.",
+    "target": "J'ai attendu vingt-quatre semaines.",
+    "explanation": "24 semaines = 4 (féminin: peder) + semaine (sizhun) + sur 20 (warn-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "Ur c'harr ha tregont zo e gwerzh.",
+    "target": "Trente-et-une voitures sont en vente.",
+    "explanation": "1 (article devant nom masc: ur) + voiture (karr > c'harr) + et 30."
+  },
+  {
+    "type": "version",
+    "source": "Daou gi ha daou-ugent a zo er c'hloerdi.",
+    "target": "Il y a quarante-deux chiens dans le chenil.",
+    "explanation": "2 (daou) entraîne la mutation adoucissante (ki > gi), plus l'ajout de 'ha daou-ugent' (40)."
+  },
+  {
+    "type": "version",
+    "source": "Unnek eur ha hanter-kant am eus graet.",
+    "target": "J'ai fait cinquante-et-une heures.",
+    "explanation": "51 heures = 11 (unnek) + heure (eur) + et 50 (ha hanter-kant)."
+  },
+  {
+    "type": "version",
+    "source": "Pevarzek lur ha tri-ugent e koust an dra-se.",
+    "target": "Cette chose coûte soixante-quatorze francs.",
+    "explanation": "74 = 14 (pevarzek) + franc (lur, monnaie traditionnelle) + et 60 (ha tri-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "Naontek pajenn ha pevar-ugent a zo e-barzh.",
+    "target": "Il y a quatre-vingt-dix-neuf pages dedans.",
+    "explanation": "99 est formé sur 19 (naontek) + pages (pajenn) + et 80 (ha pevar-ugent)."
+  },
+  {
+    "type": "version",
+    "source": "Seizh den warn-ugent a zo deuet.",
+    "target": "Vingt-sept personnes sont venues.",
+    "explanation": "Seizh (7) + den (personne) + warn-ugent (sur 20) = 27 personnes."
+  },
+  {
+    "type": "version",
+    "source": "Pemp ti ha tregont a welan eus ar menez.",
+    "target": "Je vois trente-cinq maisons depuis la montagne.",
+    "explanation": "Pemp (5) + ti (maison) + ha tregont (et 30)."
+  },
+  {
+    "type": "version",
+    "source": "Eizh aval ha daou-ugent eo bet debret ganto.",
+    "target": "Quarante-huit pommes ont été mangées par eux.",
+    "explanation": "Eizh (8) + aval (pomme) + ha daou-ugent (et 40)."
   }
 ]
