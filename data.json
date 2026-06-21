@@ -1,20 +1,752 @@
 [
   {
     "type": "theme",
-    "source": "Le chien mange.",
-    "target": "Ar c'hi a zebr.",
-    "explanation": "La particule verbale 'a' provoque la mutation adoucissante (K -> C'H, T -> Z...). Ici le verbe 'debr' (manger) devient 'zebr'."
+    "source": "Je parle breton.",
+    "target": "Brezhoneg a gomzan.",
+    "explanation": "La phrase bretonne commence souvent par l'élément mis en valeur. Ici, on met 'Brezhoneg' en avant, suivi de la particule 'a' (qui provoque une mutation adoucissante : K -> G) et le verbe."
   },
   {
     "type": "version",
-    "source": "Brav eo an amzer hirie.",
-    "target": "Il fait beau aujourd'hui.",
-    "explanation": "En breton, on dit littéralement 'Beau est le temps'. On place souvent l'adjectif en début de phrase pour le mettre en valeur."
+    "source": "Deskiñ a ran brezhoneg.",
+    "target": "J'apprends le breton.",
+    "explanation": "Construction très courante : Verbe à l'infinitif en tête (Deskiñ) + particule 'a' + verbe 'ober' (faire) conjugué. Littéralement : 'Apprendre je fais breton'."
   },
   {
     "type": "theme",
-    "source": "Je suis fatigué.",
-    "target": "Skuizh on.",
-    "explanation": "Construction typique : Adjectif (Skuizh) + Verbe être conjugué (on)."
+    "source": "Il fait beau aujourd'hui.",
+    "target": "Brav eo an amzer hiziv.",
+    "explanation": "Pour parler du temps, on place l'adjectif (Brav) en premier, suivi du verbe être (eo) et du sujet (an amzer)."
+  },
+  {
+    "type": "version",
+    "source": "Emaon o lenn ul levr.",
+    "target": "Je suis en train de lire un livre.",
+    "explanation": "Le temps progressif (être en train de) se forme avec le verbe être de situation (emaon) + la particule 'o' + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Mon père est grand.",
+    "target": "Bras eo ma zad.",
+    "explanation": "Le possessif 'ma' (mon) provoque une mutation adoucissante sur le mot qui le suit. 'Tad' (père) devient 'zad'."
+  },
+  {
+    "type": "version",
+    "source": "Ur vaouez zo aze.",
+    "target": "Il y a une femme là-bas.",
+    "explanation": "Après l'article indéfini 'ur', les noms féminins singuliers subissent une mutation adoucissante. 'Maouez' (femme) devient 'vaouez'."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai un chien.",
+    "target": "Ur c'hi zo ganin.",
+    "explanation": "Le verbe 'avoir' n'existe pas en breton. On utilise la tournure 'Il y a avec moi' (zo ganin). De plus, K mute en C'H après 'ur' au masculin."
+  },
+  {
+    "type": "version",
+    "source": "N'on ket skuizh.",
+    "target": "Je ne suis pas fatigué.",
+    "explanation": "La négation encadre le verbe avec 'Ne' (souvent raccourci en N' devant une voyelle) et 'ket'."
+  },
+  {
+    "type": "theme",
+    "source": "Elle a faim.",
+    "target": "Naon he deus.",
+    "explanation": "Pour les sensations (faim, soif, froid), on utilise l'équivalent du verbe avoir. Littéralement 'Faim elle a' (he deus)."
+  },
+  {
+    "type": "version",
+    "source": "Ro an aval din.",
+    "target": "Donne-moi la pomme.",
+    "explanation": "'Din' est une préposition conjuguée. C'est la fusion de 'da' (à) et 'me' (moi). Littéralement : Donne la pomme à moi."
+  },
+  {
+    "type": "theme",
+    "source": "Nous allons à l'école.",
+    "target": "D'ar skol ez eomp.",
+    "explanation": "La préposition 'da' devient 'd'' devant une voyelle. On utilise la particule 'ez' avant le verbe aller car un complément circonstanciel précède le verbe."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h emañ ar c'hazh?",
+    "target": "Où est le chat ?",
+    "explanation": "Pour la localisation ('Où'), on utilise obligatoirement la forme de situation du verbe être : 'emañ' (et non 'eo')."
+  },
+  {
+    "type": "theme",
+    "source": "J'habite à Rennes.",
+    "target": "E Roazhon emaon o chom.",
+    "explanation": "Roazhon est le nom breton de Rennes. On utilise 'emaon o chom' (je suis en train de rester/habiter) pour dire où l'on vit."
+  },
+  {
+    "type": "version",
+    "source": "Gwelout a ran ur vag.",
+    "target": "Je vois un bateau.",
+    "explanation": "Mutation adoucissante du féminin : 'Bag' (bateau) est un mot féminin qui mute en 'vag' après l'article indéfini 'ur'."
+  },
+  {
+    "type": "theme",
+    "source": "Le garçon joue.",
+    "target": "Ar paotr a c'hoari.",
+    "explanation": "Sujet (Ar paotr) + particule (a) + verbe. La particule 'a' provoque la mutation par spiration : 'c'hoari' au lieu de 'koari'."
+  },
+  {
+    "type": "version",
+    "source": "N'eo ket mat ar boued.",
+    "target": "La nourriture n'est pas bonne.",
+    "explanation": "Structure classique de la négation : N' + verbe + ket + adjectif + sujet. Le verbe être est 'eo' car on décrit un état."
+  },
+  {
+    "type": "theme",
+    "source": "Il vient de Quimper.",
+    "target": "Eus Kemper e teu.",
+    "explanation": "La préposition 'eus' (de/provenance) est suivie de la particule 'e' (qui ne provoque pas de mutation sur 'teu')."
+  },
+  {
+    "type": "version",
+    "source": "Da di zo bras.",
+    "target": "Ta maison est grande.",
+    "explanation": "Le possessif 'da' (ton/ta) provoque une mutation adoucissante. 'Ti' (maison) devient 'di'."
+  },
+  {
+    "type": "theme",
+    "source": "Je voudrais un café.",
+    "target": "Ur c'hafe a garfen.",
+    "explanation": "L'article 'ur' provoque des mutations sur K (devient C'H) pour les noms masculins et féminins. Conditionnel de 'karout' (aimer/vouloir)."
+  },
+  {
+    "type": "version",
+    "source": "Setu va breur.",
+    "target": "Voici mon frère.",
+    "explanation": "'Setu' s'emploie comme 'voici' ou 'voilà'. Le possessif 'va' (ou ma) entraîne la mutation par spiration : 'breur' devient 'vreur' selon les dialectes, mais reste souvent 'breur' ou mute en 'vreur' au Léonard."
+  },
+  {
+    "type": "theme",
+    "source": "Il pleut.",
+    "target": "Glav a ra.",
+    "explanation": "Littéralement 'Pluie ça fait'. 'Glav' (pluie) + particule 'a' + 'ra' (fait)."
+  },
+  {
+    "type": "version",
+    "source": "Mat eo an traoù ganit?",
+    "target": "Tout va bien pour toi ?",
+    "explanation": "Littéralement 'Bonnes sont les choses avec toi ?'. C'est une façon très courante de demander 'Comment ça va ?'."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne sais pas.",
+    "target": "N'ouzon ket.",
+    "explanation": "Le verbe 'gouzout' (savoir) a une conjugaison très irrégulière. A la 1ère personne du singulier au présent, il fait 'ouzon'."
+  },
+  {
+    "type": "version",
+    "source": "Piv eo ar plac'h-se?",
+    "target": "Qui est cette fille ?",
+    "explanation": "Mot interrogatif 'Piv' (Qui) + eo (est). Le suffixe '-se' à la fin du nom sert de démonstratif (ce/cette)."
+  },
+  {
+    "type": "theme",
+    "source": "J'aime la musique.",
+    "target": "Plijout a ra ar sonerezh din.",
+    "explanation": "En breton, plaire se construit comme en français : 'La musique plaît à moi' (Plijout a ra ... din)."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai un petit chat.",
+    "target": "Ur c'hazh bihan am eus.",
+    "explanation": "Mutation adoucissante après l'article ur (Kazh > C'hazh)."
+  },
+  {
+    "type": "version",
+    "source": "War da daol emañ al levr.",
+    "target": "Le livre est sur ta table.",
+    "explanation": "Mutation adoucissante après le possessif da (Taol > Daol)."
+  },
+  {
+    "type": "theme",
+    "source": "Ma sœur habite à Rennes.",
+    "target": "Va c'hoar a zo o chom e Roazhon.",
+    "explanation": "Mutation spirante après le possessif va/ma (Koar > C'hoar)."
+  },
+  {
+    "type": "version",
+    "source": "Hi a gar he bro.",
+    "target": "Elle aime son pays.",
+    "explanation": "Mutation aspirée après he (Bro reste Bro, mais P > F, T > Z, K > C'h)."
+  },
+  {
+    "type": "theme",
+    "source": "Leur maison est grande.",
+    "target": "O zi a zo bras.",
+    "explanation": "Mutation spirante après le possessif o (Ti > Zi)."
+  },
+  {
+    "type": "version",
+    "source": "Ar vugale a zeu d'ar gêr.",
+    "target": "Les enfants reviennent à la maison.",
+    "explanation": "Mutation adoucissante du pluriel des personnes après ar (Bugale > Vugale)."
+  },
+  {
+    "type": "theme",
+    "source": "C'est une blanchisseuse habile.",
+    "target": "Ur gannerez ampart eo.",
+    "explanation": "Mutation adoucissante du féminin singulier après un (Kannerez > Gannerez)."
+  },
+  {
+    "type": "version",
+    "source": "E vamm a zo koant.",
+    "target": "Sa mère (à lui) est jolie.",
+    "explanation": "Mutation adoucissante après le possessif e (Mamm > Vamm)."
+  },
+  {
+    "type": "theme",
+    "source": "Sa mère (à elle) est sage.",
+    "target": "He mamm a zo fur.",
+    "explanation": "Pas de mutation adoucissante après he pour la lettre M."
+  },
+  {
+    "type": "version",
+    "source": "Ho ti a zo nevez.",
+    "target": "Votre maison est neuve.",
+    "explanation": "Pas d'adoucissement après ho, durcissement selon le contexte."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis en train de lire un magazine.",
+    "target": "Emaon o lenn ur gelaouenn.",
+    "explanation": "Présent de situation (Forme en emañ)."
+  },
+  {
+    "type": "version",
+    "source": "Emañ an alc'hwez war an nor.",
+    "target": "La clé est sur la porte.",
+    "explanation": "Situation d'un sujet défini."
+  },
+  {
+    "type": "theme",
+    "source": "Yann est un étudiant.",
+    "target": "Ur studier eo Yann.",
+    "explanation": "Structure Attribut + eo + Sujet (focalisation sur l'attribut)."
+  },
+  {
+    "type": "version",
+    "source": "Yann a zo bras.",
+    "target": "Yann est grand.",
+    "explanation": "Structure Sujet + a zo + Adjectif."
+  },
+  {
+    "type": "theme",
+    "source": "Il fait (habituellement) froid en janvier.",
+    "target": "Bez' e vez yen an amzer e miz Genver.",
+    "explanation": "Présent d'habitude (vez)."
+  },
+  {
+    "type": "version",
+    "source": "N'emañ ket an tad er gegin.",
+    "target": "Le père n'est pas dans la cuisine.",
+    "explanation": "Négation de la situation."
+  },
+  {
+    "type": "theme",
+    "source": "Ce morceau de viande n'est pas rouge.",
+    "target": "N'eo ket ruz an tamm kig-mañ.",
+    "explanation": "Négation de l'état."
+  },
+  {
+    "type": "version",
+    "source": "Daoust ha piv oc'h?",
+    "target": "Qui êtes-vous ?",
+    "explanation": "Interrogation directe sur l'identité."
+  },
+  {
+    "type": "theme",
+    "source": "Où habitez-vous ?",
+    "target": "E pelec'h emaoc'h o chom ?",
+    "explanation": "Emplacement + forme située."
+  },
+  {
+    "type": "version",
+    "source": "E-kichen an tan emañ ar c'hi.",
+    "target": "Le chien est à côté du feu.",
+    "explanation": "Complément circonstanciel en tête de phrase."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai faim.",
+    "target": "Naon am eus.",
+    "explanation": "Expression du besoin/sensation avec kaout."
+  },
+  {
+    "type": "version",
+    "source": "Naon az peus.",
+    "target": "Tu as faim.",
+    "explanation": "Deuxième personne du singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Nolwenn a une nouvelle voiture.",
+    "target": "Un oto nevez en deus Nolwenn.",
+    "explanation": "En deus s'accorde si le sujet est masculin (ici supposé homme, sinon he deus)."
+  },
+  {
+    "type": "version",
+    "source": "Ur c'harr-tan bihan he deus Anna.",
+    "target": "Anna a une petite voiture.",
+    "explanation": "He deus (3ème pers. féminin singulier)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous avons bu du vin.",
+    "target": "Gwin hon eus evet.",
+    "explanation": "Passé composé avec l'auxiliaire kaout."
+  },
+  {
+    "type": "version",
+    "source": "Arc'hant ho peus c'hoazh ?",
+    "target": "Avez-vous encore de l'argent ?",
+    "explanation": "Interrogation affirmative avec ho peus."
+  },
+  {
+    "type": "theme",
+    "source": "Les enfants n'ont pas faim.",
+    "target": "N'o deus ket naon ar vugale.",
+    "explanation": "Négation avec kaout au pluriel (o deus)."
+  },
+  {
+    "type": "version",
+    "source": "Ur mab am boa gwechall.",
+    "target": "J'avais un fils autrefois.",
+    "explanation": "Imparfait du verbe kaout (am boa)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous aurons du plaisir demain.",
+    "target": "Plijadur hor bo warc'hoazh.",
+    "explanation": "Futur du verbe kaout (hor bo)."
+  },
+  {
+    "type": "version",
+    "source": "Poan-benn am eus abaoe beure.",
+    "target": "J'ai mal à la tête depuis ce matin.",
+    "explanation": "Temps continu implicite avec am eus."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis en train d'écrire une lettre.",
+    "target": "Emaon o skrivañ ul lizher.",
+    "explanation": "Structure progressive de base (o + mutation)."
+  },
+  {
+    "type": "version",
+    "source": "Emaer o tont!",
+    "target": "On arrive ! / On est en train de venir.",
+    "explanation": "Forme impersonnelle + progressif (Tont > Dont)."
+  },
+  {
+    "type": "theme",
+    "source": "Ils étaient en train de chercher le travail.",
+    "target": "Emafent o klask al labour.",
+    "explanation": "Imparfait de situation + progressif."
+  },
+  {
+    "type": "version",
+    "source": "Emaon o paouez echuiñ.",
+    "target": "Je viens juste de terminer.",
+    "explanation": "O paouez + infinitif = passé récent."
+  },
+  {
+    "type": "theme",
+    "source": "J'étais en train d'écouter la radio.",
+    "target": "Eedon o selaou ar skingomz.",
+    "explanation": "Imparfait de situation (forme spécifique eedon)."
+  },
+  {
+    "type": "version",
+    "source": "O teskiñ brezhoneg emaint.",
+    "target": "Ils sont en train d'apprendre le breton.",
+    "explanation": "Emphase mise sur l'action en début de phrase."
+  },
+  {
+    "type": "theme",
+    "source": "Je vais me coucher.",
+    "target": "Emaon o vont da gousket.",
+    "explanation": "O vont da + infinitif = futur proche."
+  },
+  {
+    "type": "version",
+    "source": "Emañ ar gaoz o treiñ da fall.",
+    "target": "La conversation est en train de tourner au vinaigre.",
+    "explanation": "Tournure idiomatique progressive."
+  },
+  {
+    "type": "theme",
+    "source": "Hier, j'étais en train de chercher votre maison.",
+    "target": "O klask ho ti edon dec'h.",
+    "explanation": "Ordre des mots inversé pour le style."
+  },
+  {
+    "type": "version",
+    "source": "Emañ ar skolioù o tigor.",
+    "target": "Les écoles sont en train d'ouvrir.",
+    "explanation": "Progressif intransitif."
+  },
+  {
+    "type": "theme",
+    "source": "Je parle avec toi.",
+    "target": "Me a gomz ganit.",
+    "explanation": "Gant (avec) -> Ganit (2e p. sg.)."
+  },
+  {
+    "type": "version",
+    "source": "Al lizher-mañ a zo gantañ.",
+    "target": "Cette lettre est avec lui (il l'a).",
+    "explanation": "Gant -> Gantañ (3e p. sg. masc.)."
+  },
+  {
+    "type": "theme",
+    "source": "Le pain est avec elle (elle l'a).",
+    "target": "Ar bara a zo ganti.",
+    "explanation": "Gant -> Ganti (3e p. sg. fém.)."
+  },
+  {
+    "type": "version",
+    "source": "Roit kig dezo.",
+    "target": "Donnez-leur de la viande.",
+    "explanation": "Da (à) -> Dezo (3e p. pl.)."
+  },
+  {
+    "type": "theme",
+    "source": "Je lui ai écrit une carte (à elle).",
+    "target": "Skrivet em eus ur gartenn dezhi.",
+    "explanation": "Da -> Dezhi (3e p. sg. fém.)."
+  },
+  {
+    "type": "version",
+    "source": "Bez' ez eus dourdawñs warnon.",
+    "target": "J'ai des frissons sur moi.",
+    "explanation": "War (sur) -> Warnon (1e p. sg.)."
+  },
+  {
+    "type": "theme",
+    "source": "Le chapeau est sur sa tête.",
+    "target": "An tog a zo war he fenn.",
+    "explanation": "Syntagme possessif combiné."
+  },
+  {
+    "type": "version",
+    "source": "Deuit ganimp d'ar fest-noz !",
+    "target": "Venez avec nous au fest-noz !",
+    "explanation": "Gant -> Ganimp (1e p. pl.)."
+  },
+  {
+    "type": "theme",
+    "source": "Je pense à toi.",
+    "target": "Soñjal a ran ennout.",
+    "explanation": "E (dans/en) -> Ennout (en toi / à toi)."
+  },
+  {
+    "type": "version",
+    "source": "Ar chas a red war o lerc'h.",
+    "target": "Les chiens courent après eux / derrière eux.",
+    "explanation": "War-lerc'h (après) -> War o lerc'h."
+  },
+  {
+    "type": "theme",
+    "source": "Yann mange de la viande.",
+    "target": "Kig a zebr Yann.",
+    "explanation": "Focus sur le COD (Kig). Particule a."
+  },
+  {
+    "type": "version",
+    "source": "Yann a zebr kig.",
+    "target": "Yann mange de la viande.",
+    "explanation": "Focus sur le Sujet (Yann). Particule a."
+  },
+  {
+    "type": "theme",
+    "source": "Yann mange de la viande.",
+    "target": "Debriñ a ra Yann kig.",
+    "explanation": "Focus sur le Verbe (Infinitif + verbe de support ober)."
+  },
+  {
+    "type": "version",
+    "source": "E Kemper e chom ma moereb.",
+    "target": "Ma tante habite à Quimper.",
+    "explanation": "Focus sur le CC Lieu. Particule e."
+  },
+  {
+    "type": "theme",
+    "source": "Le train est arrivé hier.",
+    "target": "Dec'h eo erruet an tren.",
+    "explanation": "Focus sur le CC Temps + verbe être conjugué."
+  },
+  {
+    "type": "version",
+    "source": "Bara a fard an tamm baraer-mañ.",
+    "target": "Ce boulanger fait du pain.",
+    "explanation": "Ordre Objet-Verbe-Sujet extrêmement littéraire."
+  },
+  {
+    "type": "theme",
+    "source": "Maintenant, je comprends bien.",
+    "target": "Bremañ e komprenan mat.",
+    "explanation": "Complément de temps en tête + particule e."
+  },
+  {
+    "type": "version",
+    "source": "Gant ur gontell e troc'h an aval.",
+    "target": "Il coupe la pomme avec un couteau.",
+    "explanation": "Focus sur le moyen / l'outil."
+  },
+  {
+    "type": "theme",
+    "source": "Il a été frappé par les korrigans.",
+    "target": "Skoet eo bet gant ar gorriganed.",
+    "explanation": "Voix passive, participe passé en tête."
+  },
+  {
+    "type": "version",
+    "source": "Buan e red ar c'had er prad.",
+    "target": "Le lièvre court vite dans le pré.",
+    "explanation": "Focus sur l'adverbe de manière."
+  },
+  {
+    "type": "theme",
+    "source": "Les garçons lisent.",
+    "target": "Lenn a ra ar baotred.",
+    "explanation": "Le verbe reste au singulier (ra) devant un sujet nominal pluriel."
+  },
+  {
+    "type": "version",
+    "source": "Debriñ a raio ar vugale avaloù.",
+    "target": "Les enfants mangeront des pommes.",
+    "explanation": "Raio (futur singulier) devant le sujet pluriel."
+  },
+  {
+    "type": "theme",
+    "source": "Mes amis sont venus.",
+    "target": "Deuet eo ma mignoned.",
+    "explanation": "Eo (est) et non int (sont)."
+  },
+  {
+    "type": "version",
+    "source": "Kousket e veze ar chas er-maez.",
+    "target": "Les chiens dormaient dehors (habitude).",
+    "explanation": "Verbe au singulier (veze)."
+  },
+  {
+    "type": "theme",
+    "source": "Les gendarmes arrivèrent.",
+    "target": "Erruout a reas an archerien.",
+    "explanation": "Passé simple 3e pers. du singulier (reas)."
+  },
+  {
+    "type": "version",
+    "source": "Ne lenn ket ar studierien al levrioù-mañ.",
+    "target": "Les étudiants ne lisent pas ces livres.",
+    "explanation": "Structure négative : verbe au singulier (ket)."
+  },
+  {
+    "type": "theme",
+    "source": "Je les vois.",
+    "target": "Gwelout a ran anezho.",
+    "explanation": "Emploi de anezho (pronom personnel COD séparé)."
+  },
+  {
+    "type": "version",
+    "source": "Selaou a reont ar skolaer.",
+    "target": "Ils écoutent le maître.",
+    "explanation": "Le sujet n'est pas exprimé après, donc accord au pluriel (reont)."
+  },
+  {
+    "type": "theme",
+    "source": "Comprenez-vous ce que je dis ?",
+    "target": "Kompren a rit ar pezh a lavaran ?",
+    "explanation": "Accord à la 2e p. pl. car pas de sujet nominal après."
+  },
+  {
+    "type": "version",
+    "source": "Kanet o deus ar merc'hed ur ganaouenn.",
+    "target": "Les filles ont chanté une chanson.",
+    "explanation": "L'auxiliaire composé s'accorde avec le possessif interne."
+  },
+  {
+    "type": "theme",
+    "source": "Le garçon que vous voyez est mon frère.",
+    "target": "Ar paotr a welit a zo ma breur.",
+    "explanation": "Relative COD : pronom relatif a."
+  },
+  {
+    "type": "version",
+    "source": "Al lec'h e lec'h ma chomomp a zo sioul.",
+    "target": "Le lieu où nous habitons est calme.",
+    "explanation": "Relative de lieu (e lec'h ma)."
+  },
+  {
+    "type": "theme",
+    "source": "Si tu viens à la maison, fais du feu.",
+    "target": "Mar deuez d'ar gêr, gra tan.",
+    "explanation": "Conditionnel réel avec mar + indicatif."
+  },
+  {
+    "type": "version",
+    "source": "Pa erruo an hañv, ni a yelo da vageal.",
+    "target": "Quand l'été arrivera, nous irons faire du bateau.",
+    "explanation": "Temporelle avec pa (provoque une mutation adoucissante)."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne viendra pas parce qu'il est malade.",
+    "target": "Ne deuio ket peogwir eo klañv.",
+    "explanation": "Cause (peogwir)."
+  },
+  {
+    "type": "version",
+    "source": "Labourat a ra evit ma vezo laouen e dud.",
+    "target": "Il travaille pour que ses parents soient joyeux.",
+    "explanation": "But (evit ma + futur/subjonctif)."
+  },
+  {
+    "type": "theme",
+    "source": "Bien qu'il aime le temps, il reste dedans.",
+    "target": "Daoust ma plij an amzer dezhañ, e chom e-barzh.",
+    "explanation": "Concession (daoust ma)."
+  },
+  {
+    "type": "version",
+    "source": "Krediñ a ran ez eo gwir.",
+    "target": "Je crois que c'est vrai.",
+    "explanation": "Complétive affirmative avec ez devant voyelle."
+  },
+  {
+    "type": "theme",
+    "source": "Il a dit qu'il viendra.",
+    "target": "Lavaret en deus e teuio.",
+    "explanation": "Complétive avec e devant consonne (+ mutation)."
+  },
+  {
+    "type": "version",
+    "source": "Red eo ma vo graet al labour-se.",
+    "target": "Il est nécessaire que soit fait ce travail-là.",
+    "explanation": "Obligation / Subjonctif avec ma."
+  },
+  {
+    "type": "theme",
+    "source": "Yann est plus intelligent que Nolan.",
+    "target": "Kalloc'h eo Yann eget Nolan.",
+    "explanation": "Comparatif de supériorité (-oc'h eget)."
+  },
+  {
+    "type": "version",
+    "source": "Hemañ eo ar wezenn uhelañ.",
+    "target": "Celui-ci est l'arbre le plus haut.",
+    "explanation": "Superlatif avec le suffixe -añ."
+  },
+  {
+    "type": "theme",
+    "source": "Comme le ciel est beau ce soir !",
+    "target": "Pegent brav eo an oabl henozh !",
+    "explanation": "Exclamatif avec pegent."
+  },
+  {
+    "type": "version",
+    "source": "Nag a dud a zo amañ !",
+    "target": "Que de monde il y a ici !",
+    "explanation": "Exclamatif de quantité (nag a)."
+  },
+  {
+    "type": "theme",
+    "source": "La vie est de plus en plus chère.",
+    "target": "Keroc'h-kerzh eo ar vuhez.",
+    "explanation": "Redoublement comparatif (-oc'h-kerzh)."
+  },
+  {
+    "type": "version",
+    "source": "N'eo ket ken bras ha ma zi.",
+    "target": "Ce n'est pas aussi grand que ma maison.",
+    "explanation": "Comparatif d'égalité (ken + adj + ha)."
+  },
+  {
+    "type": "theme",
+    "source": "Il se lève plus tôt que son frère.",
+    "target": "Sevel a ra abretoc'h evit e vreur.",
+    "explanation": "Comparatif d'un adverbe."
+  },
+  {
+    "type": "version",
+    "source": "Ar c'hastell-mañ eo an hini koshañ er vro.",
+    "target": "Ce château est le plus vieux du pays.",
+    "explanation": "Superlatif avec pronom démonstratif (an hini)."
+  },
+  {
+    "type": "theme",
+    "source": "Mieux vaut mourir que d'être souillé.",
+    "target": "Gwelloc'h eo mervel eget bezañ lorgnez.",
+    "explanation": "Comparatif irrégulier (mat -> gwelloc'h). Devise de la Bretagne."
+  },
+  {
+    "type": "version",
+    "source": "Gwanoc'h-gwanañ e teue da vezañ.",
+    "target": "Il devenait de plus en plus faible.",
+    "explanation": "Structure évolutive redoublée."
+  },
+  {
+    "type": "theme",
+    "source": "Ce texte est un tissu de mensonges.",
+    "target": "Melezour-mor eo ar skrid-mañ.",
+    "explanation": "Expression idiomatique métaphorique (miroir de mer)."
+  },
+  {
+    "type": "version",
+    "source": "Deomp dezhi !",
+    "target": "Allons-y ! / Au boulot !",
+    "explanation": "Impératif idiomatique avec préposition conjuguée."
+  },
+  {
+    "type": "theme",
+    "source": "Quoi qu'il en soit, comment que vous soyez venu.",
+    "target": "N'eus forzh penaos e voc'h deuet.",
+    "explanation": "Concession indéfinie (n'eus forzh)."
+  },
+  {
+    "type": "version",
+    "source": "Kemerit perzh er strollad-kan.",
+    "target": "Prenez part (participez) à la chorale.",
+    "explanation": "Impératif 2e p. pl. (kemerit)."
+  },
+  {
+    "type": "theme",
+    "source": "J'en ai eu bien assez avec ceux-là.",
+    "target": "Gant gwalc'h em eus bet gant ar re-mañ.",
+    "explanation": "Expression de la satiété / du dégoût."
+  },
+  {
+    "type": "version",
+    "source": "Pell zo n'am eus ket gwelet anezhañ.",
+    "target": "Il y a longtemps que je ne l'ai pas vu.",
+    "explanation": "Tournure temporelle inversée (pell zo)."
+  },
+  {
+    "type": "theme",
+    "source": "Écoute bien cet homme-là !",
+    "target": "Selaou mat ouzh an den-se !",
+    "explanation": "Impératif singulier avec préposition ouzh."
+  },
+  {
+    "type": "version",
+    "source": "Kozh teodoù a gaoze er gorn-tan.",
+    "target": "De vieilles langues (commères) parlaient au coin du feu.",
+    "explanation": "Adjectif kozh antéposé."
+  },
+  {
+    "type": "theme",
+    "source": "Tout en chantant, la femme travaillait.",
+    "target": "E-ser kanañ e laboure ar vaouez.",
+    "explanation": "Simultanéité de l'action (e-ser + infinitif)."
+  },
+  {
+    "type": "version",
+    "source": "Kenavo ar c'hentañ gwech !",
+    "target": "Au revoir à la prochaine fois !",
+    "explanation": "Clôture traditionnelle et idiomatique."
   }
 ]
