@@ -1,0 +1,20 @@
+[
+  {
+    "type": "theme",
+    "source": "Le chien mange.",
+    "target": "Ar c'hi a zebr.",
+    "explanation": "La particule verbale 'a' provoque la mutation adoucissante (K -> C'H, T -> Z...). Ici le verbe 'debr' (manger) devient 'zebr'."
+  },
+  {
+    "type": "version",
+    "source": "Brav eo an amzer hirie.",
+    "target": "Il fait beau aujourd'hui.",
+    "explanation": "En breton, on dit littéralement 'Beau est le temps'. On place souvent l'adjectif en début de phrase pour le mettre en valeur."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis fatigué.",
+    "target": "Skuizh on.",
+    "explanation": "Construction typique : Adjectif (Skuizh) + Verbe être conjugué (on)."
+  }
+]
