@@ -1108,5 +1108,491 @@
     "source": "Eizh aval ha daou-ugent eo bet debret ganto.",
     "target": "Quarante-huit pommes ont été mangées par eux.",
     "explanation": "Eizh (8) + aval (pomme) + ha daou-ugent (et 40)."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'ai pas de voiture, j'ai un vélo.",
+    "target": "N'em eus karr ebet, ur velo am eus.",
+    "explanation": "La négation absolue 'pas de' ou 'aucun' se traduit par le mot 'ebet' placé APRÈS le nom (karr ebet)."
+  },
+  {
+    "type": "theme",
+    "source": "Il a deux frères et deux sœurs.",
+    "target": "Daou vreur ha div c'hoar en deus.",
+    "explanation": "Les chiffres 2, 3 et 4 s'accordent en genre. 'Daou' (masc) provoque une mutation adoucissante (breur -> vreur). 'Div' (fém) provoque la même mutation (koar -> c'hoar)."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'ai reçu aucune lettre.",
+    "target": "N'em eus ket bet lizher ebet.",
+    "explanation": "Construction de la négation absolue au passé. À l'oral, on entend souvent simplement 'M'eus ket bet...'"
+  },
+  {
+    "type": "theme",
+    "source": "Combien de maisons ont-ils ?",
+    "target": "Pet ti o deus ?",
+    "explanation": "Le mot interrogatif 'pet' (combien) est TOUJOURS suivi d'un nom au singulier (ti, et non pas tier)."
+  },
+  {
+    "type": "theme",
+    "source": "Le père de la mère de Yann.",
+    "target": "Tad mamm Yann.",
+    "explanation": "Règle d'or du complément du nom : ils s'enchaînent sans préposition, et on supprime l'article défini devant le premier mot."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai trouvé un string chez le frère de Yann.",
+    "target": "Kavet em eus ur string e ti breur Yann.",
+    "explanation": "L'expression 'chez' se traduit par 'e ti' (dans la maison de). Ensuite, on applique la règle du complément du nom : ti breur Yann."
+  },
+  {
+    "type": "theme",
+    "source": "Cette eau est dangereuse.",
+    "target": "An dour-mañ zo dañjerus.",
+    "explanation": "Le démonstratif (ce/cette) se forme en encadrant le nom : l'article défini (An) + nom (dour) + suffixe (-mañ pour ici, -se pour là)."
+  },
+  {
+    "type": "theme",
+    "source": "Qui a bu de l'eau ?",
+    "target": "Piv en deus evet dour ?",
+    "explanation": "Le mot interrogatif 'Piv' (Qui) prend toujours la conjugaison de la 3e personne du singulier de l'auxiliaire avoir (en deus)."
+  },
+  {
+    "type": "theme",
+    "source": "L'eau de Bretagne.",
+    "target": "Dour Breizh.",
+    "explanation": "Complément du nom : on enlève l'article défini 'An' devant Dour, car Breizh définit déjà le mot."
+  },
+  {
+    "type": "theme",
+    "source": "Toi, tu as lu le journal.",
+    "target": "Te ac'h eus lennet ar journal.",
+    "explanation": "Pour insister fortement sur le sujet ('Toi, tu...'), on place le pronom indépendant (Te) en début de phrase."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai vu ton pyjama.",
+    "target": "Gwelet em eus da bijama.",
+    "explanation": "Le possessif 'da' (ton/ta) provoque une mutation adoucissante. La lettre P de pyjama devient B (bijama)."
+  },
+  {
+    "type": "theme",
+    "source": "Quel film avez-vous acheté ?",
+    "target": "Peseurt film hoc'h eus prenet ?",
+    "explanation": "Pour dire 'Quel(le)', on utilise 'Peseurt' (ou 'Pe') suivi directement du nom."
+  },
+  {
+    "type": "theme",
+    "source": "C'est de l'eau qu'elle a bu.",
+    "target": "Dour he deus evet.",
+    "explanation": "Mise en valeur de l'objet : on place 'Dour' en tête de phrase."
+  },
+  {
+    "type": "theme",
+    "source": "Nous, nous avons bu du Perrier.",
+    "target": "Ni hon eus evet Perrier.",
+    "explanation": "Insistance sur le sujet à la 1ère personne du pluriel avec le pronom 'Ni'."
+  },
+  {
+    "type": "theme",
+    "source": "Moi, je suis allé en ville.",
+    "target": "Me zo bet e kêr.",
+    "explanation": "Insistance avec 'Me' suivi de la particule 'zo' (car le sujet est juste avant le verbe)."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h out bet ?",
+    "target": "Où es-tu allé ?",
+    "explanation": "Pour les verbes de déplacement au passé (aller), le breton utilise l'auxiliaire être (bezañ). Littéralement : 'Où es-tu été'."
+  },
+  {
+    "type": "version",
+    "source": "Penaos eo bet e Pittsburgh ?",
+    "target": "Comment est-il allé à Pittsburgh ?",
+    "explanation": "'Penaos' (comment). Même logique, on utilise l'auxiliaire être (eo bet) pour le déplacement d'un homme (il)."
+  },
+  {
+    "type": "version",
+    "source": "Piv oc'h ?",
+    "target": "Qui êtes-vous ?",
+    "explanation": "'Piv' est le pronom interrogatif pour les personnes (Qui)."
+  },
+  {
+    "type": "version",
+    "source": "Petra int ?",
+    "target": "Que sont-ils ?",
+    "explanation": "'Petra' est le pronom interrogatif pour les choses (Quoi / Que)."
+  },
+  {
+    "type": "theme",
+    "source": "Comment ça va ?",
+    "target": "Penaos emañ kont ?",
+    "explanation": "Littéralement 'Comment est le compte ?'. Formule idiomatique très utilisée."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis allé à Agadir.",
+    "target": "Bet on en Agadir.",
+    "explanation": "On met le participe 'Bet' en avant pour insister sur le fait d'y être allé."
+  },
+  {
+    "type": "theme",
+    "source": "Où êtes-vous allés ?",
+    "target": "Pelec'h oc'h bet ?",
+    "explanation": "Même règle : mot interrogatif (Pelec'h) + verbe être conjugué (oc'h) + participe (bet)."
+  },
+  {
+    "type": "theme",
+    "source": "Mon nez est bouché.",
+    "target": "Stouvet eo ma fri.",
+    "explanation": "On met en valeur l'état (Stouvet). Le possessif 'ma' provoque une mutation spirante, mais la lettre F ne mute pas."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ne sont pas de Quimper.",
+    "target": "N'int ket eus Kemper.",
+    "explanation": "La préposition pour l'origine/la provenance géographique est 'eus' (de)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous n'êtes pas allés à Plounevez ?",
+    "target": "N'oc'h ket bet e Plounevez ?",
+    "explanation": "Négation avec le verbe être au passé pour traduire un déplacement."
+  },
+  {
+    "type": "theme",
+    "source": "C'est cher mais c'est bon.",
+    "target": "Ker eo met mat eo.",
+    "explanation": "Structure classique Adjectif + eo."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai mangé.",
+    "target": "Debret em eus.",
+    "explanation": "Passé composé avec l'auxiliaire avoir (kaout)."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis resté.",
+    "target": "Chomet on.",
+    "explanation": "À la différence du français, en breton le verbe 'chom' (rester) se conjugue avec l'auxiliaire être (bezañ)."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'a pas travaillé.",
+    "target": "N'en deus ket labouret.",
+    "explanation": "Négation du verbe avoir à la 3e personne du masculin singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Vous avez mal dormi.",
+    "target": "Kousket fall hoc'h eus.",
+    "explanation": "L'adverbe (fall) se place juste après le participe passé (Kousket) qu'il modifie."
+  },
+  {
+    "type": "theme",
+    "source": "Il est passé ici ?",
+    "target": "Bet eo amañ ?",
+    "explanation": "Encore une fois, l'idée de 'passer quelque part' se traduit par 'avoir été' (Bet eo)."
+  },
+  {
+    "type": "version",
+    "source": "Telefonet en deus bet ?",
+    "target": "Il a téléphoné ?",
+    "explanation": "Temps du passé surcomposé (Participe + auxiliaire + bet). Il insiste sur une action complètement terminée."
+  },
+  {
+    "type": "version",
+    "source": "Debret em eus bet.",
+    "target": "J'ai mangé.",
+    "explanation": "Passé surcomposé : insiste sur le fait que l'action de manger est faite et bel et bien finie."
+  },
+  {
+    "type": "version",
+    "source": "Bet oc'h e Nouakchott ?",
+    "target": "Êtes-vous allés à Nouakchott ?",
+    "explanation": "'Bet' associé au verbe être traduit un déplacement terminé. Il signifie 'allé' ou 'passé'."
+  },
+  {
+    "type": "version",
+    "source": "Bet eo Yann ?",
+    "target": "Yann est-il passé ?",
+    "explanation": "Le verbe bezañ (être) + bet traduit l'idée d'être passé quelque part."
+  },
+  {
+    "type": "theme",
+    "source": "La mère de Liza est passée.",
+    "target": "Bet eo mamm Liza.",
+    "explanation": "On utilise 'bet eo' pour dire 'elle est passée'. On aurait aussi pu dire 'Mamm Liza zo bet'."
+  },
+  {
+    "type": "theme",
+    "source": "Ils sont allés à Kingston.",
+    "target": "Bet int e Kingston.",
+    "explanation": "Le déplacement au passé se traduit avec l'auxiliaire être : 'Ils ont été à Kingston'."
+  },
+  {
+    "type": "version",
+    "source": "Torr-penn out bet.",
+    "target": "Tu as été chiant.",
+    "explanation": "'Bet' traduit ici l'état passé ('Tu as été'). L'état est révolu, tu ne l'es plus au moment où l'on parle."
+  },
+  {
+    "type": "version",
+    "source": "Bet eo skuizh.",
+    "target": "Il a été fatigué.",
+    "explanation": "Même règle : exprime un état au passé qui est aujourd'hui terminé."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h int bet kavet ?",
+    "target": "Où ont-ils été trouvés ?",
+    "explanation": "Tournure passive au passé. 'Int bet kavet' = ils ont été trouvés."
+  },
+  {
+    "type": "theme",
+    "source": "Ça a été vrai.",
+    "target": "Bet eo gwir.",
+    "explanation": "État révolu. Littéralement : 'Été est vrai'."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ont été mangés.",
+    "target": "Debret int bet.",
+    "explanation": "Voix passive. Le participe (Debret) est souvent placé en tête pour le mettre en valeur."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as été mauvais.",
+    "target": "Fall out bet.",
+    "explanation": "Mise en valeur de l'adjectif (Fall) + verbe être conjugué (out) + bet."
+  },
+  {
+    "type": "version",
+    "source": "Eizh lizher en deus bet.",
+    "target": "Il a reçu (eu) huit lettres.",
+    "explanation": "Quand 'bet' est utilisé avec l'auxiliaire AVOIR (kaout), il signifie 'eu' ou 'reçu'."
+  },
+  {
+    "type": "version",
+    "source": "Gant piv he deus bet se ?",
+    "target": "De qui a-t-elle reçu ça ?",
+    "explanation": "Même règle : 'he deus bet' (elle a eu/reçu)."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai eu un steak.",
+    "target": "Bet em eus ur steak.",
+    "explanation": "On utilise le verbe kaout (avoir) avec le participe 'bet'. On peut aussi dire 'Ur steak am eus bet'."
+  },
+  {
+    "type": "theme",
+    "source": "Tu n'as pas reçu de réponse ?",
+    "target": "N'ec'h eus ket bet respont ebet ?",
+    "explanation": "Négation de kaout + bet pour signifier 'Tu n'as pas eu'. Le 'ebet' final renforce le 'aucune'."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h oc'h bet o labourat ?",
+    "target": "Où êtes-vous allés travailler ?",
+    "explanation": "Structure très bretonne : 'Bet + o + infinitif' traduit le fait d'être allé faire quelque chose."
+  },
+  {
+    "type": "version",
+    "source": "Piv zo bet o welet ?",
+    "target": "Qui est allé voir ?",
+    "explanation": "'Bet o welet' : être allé voir. Attention, la particule 'o' provoque une mutation adoucissante (Gwelet -> welet)."
+  },
+  {
+    "type": "version",
+    "source": "Bet out o tebriñ ?",
+    "target": "Tu es allé manger ?",
+    "explanation": "Mutation adoucissante après 'o' : le D de 'debriñ' (manger) devient un T (tebriñ)."
+  },
+  {
+    "type": "version",
+    "source": "N'oc'h ket bet oc'h evañ ?",
+    "target": "Vous n'êtes pas allés boire ?",
+    "explanation": "Devant une voyelle, la particule 'o' devient 'oc'h' (oc'h evañ)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle n'est pas allée voir.",
+    "target": "N'eo ket bet o welet.",
+    "explanation": "Structure : Négation du verbe être + bet + o + infinitif muté."
+  },
+  {
+    "type": "version",
+    "source": "Me zo bet o welet.",
+    "target": "Moi, je suis allé voir.",
+    "explanation": "Ne pas confondre ! Ici 'o welet' (en train de voir) signifie 'aller voir'."
+  },
+  {
+    "type": "version",
+    "source": "Me zo bet gwelet.",
+    "target": "Moi, j'ai été vu.",
+    "explanation": "Sans la particule 'o', c'est la voix passive. Le sujet subit l'action d'être vu."
+  },
+  {
+    "type": "theme",
+    "source": "Où m'avez-vous attendu ?",
+    "target": "Pelec'h hoc'h eus gortozet ac'hanon ?",
+    "explanation": "Le pronom COD 'me' se traduit en breton par la préposition conjuguée 'ac'hanon'."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne les ai pas entendus.",
+    "target": "N'em eus ket klevet anezho.",
+    "explanation": "Le pronom COD 'les' se traduit par 'anezho'."
+  },
+  {
+    "type": "theme",
+    "source": "Nous sommes allés les voir.",
+    "target": "Bet omp o welet anezho.",
+    "explanation": "Pronom COD 'anezho' placé après le verbe à l'infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Tu m'as entendu.",
+    "target": "Klevet ec'h eus ac'hanon.",
+    "explanation": "Pronom COD 'ac'hanon' (moi)."
+  },
+  {
+    "type": "theme",
+    "source": "C'est moi que tu as vu ?",
+    "target": "Me ac'h eus gwelet ?",
+    "explanation": "Quand on met le COD en évidence en début de phrase, on utilise le pronom personnel de base (Me) et non ac'hanon."
+  },
+  {
+    "type": "theme",
+    "source": "C'est moi qui vous ai vus.",
+    "target": "Me am eus gwelet ac'hanoc'h.",
+    "explanation": "Sujet mis en valeur (Me), et pronom COD pour 'vous' (ac'hanoc'h)."
+  },
+  {
+    "type": "version",
+    "source": "Ho preur-c'hwi",
+    "target": "Votre frère à vous.",
+    "explanation": "Pour insister sur l'appartenance, on encadre le nom : Possessif + Nom + Pronom indépendant correspondant."
+  },
+  {
+    "type": "version",
+    "source": "Da vlev-te",
+    "target": "Tes cheveux à toi.",
+    "explanation": "Insistance : possessif 'da' (provoque la mutation adoucissante B -> V) + nom + suffixe '-te'."
+  },
+  {
+    "type": "version",
+    "source": "E levr-eñ hag he levr-hi",
+    "target": "Son livre à lui et son livre à elle.",
+    "explanation": "Très utile pour distinguer 'son/sa' selon que le possesseur est un homme (-eñ) ou une femme (-hi)."
+  },
+  {
+    "type": "theme",
+    "source": "Lis ça s'il te plaît.",
+    "target": "Lenn se mar plij.",
+    "explanation": "L'impératif à la 2e personne du singulier correspond au radical du verbe (sans terminaison)."
+  },
+  {
+    "type": "version",
+    "source": "Selaou ac'hanomp !",
+    "target": "Écoute-nous !",
+    "explanation": "Impératif (Selaou) + pronom COD (ac'hanomp)."
+  },
+  {
+    "type": "version",
+    "source": "Deus 'ta !",
+    "target": "Viens ! (Viens donc !)",
+    "explanation": "Le verbe 'dont' (venir) a un impératif irrégulier. 'ta' est une particule d'insistance très orale."
+  },
+  {
+    "type": "theme",
+    "source": "Écoutons ces gens !",
+    "target": "Selaouomp an dud-se !",
+    "explanation": "L'impératif à la 1ère personne du pluriel (Nous) se termine par '-omp'."
+  },
+  {
+    "type": "version",
+    "source": "Saludomp ar paotr-se !",
+    "target": "Saluons ce garçon !",
+    "explanation": "Terminaison en '-omp' (Nous)."
+  },
+  {
+    "type": "theme",
+    "source": "Mangez ça !",
+    "target": "Debrit se !",
+    "explanation": "L'impératif à la 2e personne du pluriel ou vouvoiement (Vous) se termine par '-it'."
+  },
+  {
+    "type": "version",
+    "source": "Divinit piv on.",
+    "target": "Devinez qui je suis.",
+    "explanation": "Terminaison en '-it' (Vous)."
+  },
+  {
+    "type": "version",
+    "source": "Kerzh da brenañ ar journal.",
+    "target": "Va acheter le journal.",
+    "explanation": "Le verbe 'mont' (aller) fait 'Kerzh' à l'impératif singulier."
+  },
+  {
+    "type": "version",
+    "source": "Deuit da welet ac'hanomp.",
+    "target": "Venez nous voir.",
+    "explanation": "Le verbe 'dont' (venir) fait 'Deuit' à l'impératif pluriel/vouvoiement."
+  },
+  {
+    "type": "version",
+    "source": "Bezomp fur !",
+    "target": "Soyons sages !",
+    "explanation": "Impératif du verbe être (bezañ)."
+  },
+  {
+    "type": "version",
+    "source": "Grit bugale !",
+    "target": "Faites des enfants !",
+    "explanation": "Impératif irrégulier du verbe faire (ober) au pluriel/vouvoiement."
+  },
+  {
+    "type": "version",
+    "source": "Na brenit ket se !",
+    "target": "N'achetez pas ça !",
+    "explanation": "L'impératif négatif se forme en encadrant le verbe avec 'Na ... ket'."
+  },
+  {
+    "type": "version",
+    "source": "Na lennomp ket ar journal-se !",
+    "target": "Ne lisons pas ce journal !",
+    "explanation": "Impératif négatif à la première personne du pluriel : Na + verbe + ket."
+  },
+  {
+    "type": "theme",
+    "source": "Vous fumez beaucoup ?",
+    "target": "Butunat a rit kalz ?",
+    "explanation": "Verbe mis en valeur : Infinitif + particule 'a' + verbe faire conjugué (ober)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous avez beaucoup fumé ?",
+    "target": "Butunet hoc'h eus kalz ?",
+    "explanation": "Participe passé (Butunet) mis en valeur suivi de l'auxiliaire avoir."
+  },
+  {
+    "type": "theme",
+    "source": "Je les vois fumer.",
+    "target": "Gwelet a ran anezho o vutunat.",
+    "explanation": "Structure complexe : Verbe faire comme support (Gwelet a ran) + pronom COD (anezho) + particule o (en train de) + mutation (butunat -> vutunat)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous la comprenons.",
+    "target": "Kompren a reomp anezhi.",
+    "explanation": "Le COD féminin singulier 'la' se traduit par le pronom 'anezhi'."
+  },
+  {
+    "type": "theme",
+    "source": "Ils parlent breton.",
+    "target": "Komz a reont brezhoneg.",
+    "explanation": "S'il n'y a pas de sujet exprimé, le verbe de support s'accorde (reont = ils font)."
   }
 ]
