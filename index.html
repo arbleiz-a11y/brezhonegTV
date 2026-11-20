@@ -22,7 +22,18 @@
         <img src="Gwenn_ha_du.svg" alt="Drapeau de la Bretagne (Gwenn ha du)" style="max-height: 80px; width: auto;">
     </div>
     <h1 class="text-center mb-4 text-primary">Deskiñ Brezhoneg</h1>
-    
+
+    <!-- Onglets principaux -->
+    <ul class="nav nav-pills nav-fill mb-4 main-tabs" role="tablist">
+        <li class="nav-item" role="presentation">
+            <button class="nav-link active" type="button" role="tab" data-tab="exercises" aria-selected="true">🎯 Exercices</button>
+        </li>
+        <li class="nav-item" role="presentation">
+            <button class="nav-link" type="button" role="tab" data-tab="dialogues" aria-selected="false">💬 Dialogues</button>
+        </li>
+    </ul>
+
+    <section id="tab-exercises">
     <!-- Sélecteur de mode -->
     <div class="card mb-4 shadow-sm">
         <div class="card-body text-center">
@@ -65,6 +76,60 @@
             <button id="btn-next" class="btn btn-success w-100 mt-2 btn-lg">Suivant ➡️</button>
         </div>
     </div>
+    </section>
+
+    <!-- Onglet Dialogues -->
+    <section id="tab-dialogues" class="d-none">
+        <!-- Choix de la leçon -->
+        <div class="card mb-4 shadow-sm">
+            <div class="card-body">
+                <div class="d-flex justify-content-between align-items-center mb-2">
+                    <span class="fw-semibold">Kentel (leçon)</span>
+                    <div class="btn-group btn-group-sm">
+                        <button id="lesson-prev" type="button" class="btn btn-outline-secondary" aria-label="Leçon précédente">‹ Préc.</button>
+                        <button id="lesson-next" type="button" class="btn btn-outline-secondary" aria-label="Leçon suivante">Suiv. ›</button>
+                    </div>
+                </div>
+                <div id="lesson-picker" class="lesson-picker" role="group" aria-label="Numéro de la leçon"></div>
+            </div>
+        </div>
+
+        <!-- Diviz : le dialogue -->
+        <div class="card shadow-sm mb-4">
+            <div class="card-body p-4">
+                <div class="d-flex flex-wrap justify-content-between align-items-center gap-2 mb-3">
+                    <h2 id="dialogue-title" class="h4 mb-0">Chargement...</h2>
+                    <div class="btn-group btn-group-sm" role="group" aria-label="Versions affichées">
+                        <input type="checkbox" class="btn-check" id="show-oral" autocomplete="off" checked>
+                        <label class="btn btn-outline-primary" for="show-oral">Oral</label>
+
+                        <input type="checkbox" class="btn-check" id="show-written" autocomplete="off" checked>
+                        <label class="btn btn-outline-primary" for="show-written">Écrit</label>
+
+                        <input type="checkbox" class="btn-check" id="show-fr" autocomplete="off" checked>
+                        <label class="btn btn-outline-primary" for="show-fr">Français</label>
+                    </div>
+                </div>
+                <div id="dialogue-lines" class="dialogue"></div>
+            </div>
+        </div>
+
+        <!-- Geriaoueg : le vocabulaire -->
+        <div class="card shadow-sm mb-4">
+            <div class="card-body p-4">
+                <h3 class="h5 mb-3">📖 Geriaoueg (vocabulaire)</h3>
+                <div class="table-responsive">
+                    <table class="table table-sm table-striped align-middle mb-0">
+                        <thead>
+                            <tr><th>Mot</th><th class="d-none d-sm-table-cell">Prononciation</th><th>Sens</th></tr>
+                        </thead>
+                        <tbody id="vocab-body"></tbody>
+                    </table>
+                </div>
+                <p class="small text-muted mt-2 mb-0">° = nom féminin · * = forme de la langue parlée</p>
+            </div>
+        </div>
+    </section>
 </div>
 
 <script src="app.js"></script>

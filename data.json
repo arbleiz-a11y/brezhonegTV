@@ -2836,5 +2836,3443 @@
     "source": "Les frères et une tour.",
     "target": "Ar vreudeur hag un tour.",
     "explanation": ""
+  },
+  {
+    "type": "version",
+    "source": "Skrivet em eus ul lizher d'ar Pab.",
+    "target": "J'ai écrit une lettre au Pape.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho."
+  },
+  {
+    "type": "version",
+    "source": "Roet en deus whiskas d'ar c'hazh.",
+    "target": "Il a donné du whiskas au chat.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho."
+  },
+  {
+    "type": "version",
+    "source": "N'o deus kaset netra din.",
+    "target": "Ils ne m'ont rien envoyé.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho."
+  },
+  {
+    "type": "theme",
+    "source": "Fais-leur plaisir.",
+    "target": "Gra plijadur dezho.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho. Autres réponses possibles : Gra plijadur dezhe.."
+  },
+  {
+    "type": "theme",
+    "source": "Dis-moi non.",
+    "target": "Lavar nann din.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho. Autres réponses possibles : Lâr nann din.."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne vous envoie pas de lettres.",
+    "target": "Ne gasan ket lizheroù deoc'h.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho."
+  },
+  {
+    "type": "version",
+    "source": "Ne bellgomzan ket dit.",
+    "target": "Je ne te téléphone pas.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho. Pellgomz (téléphoner) se construit avec da."
+  },
+  {
+    "type": "version",
+    "source": "N'em eus ket respontet dezho.",
+    "target": "Je ne leur ai pas répondu.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho. Respont (répondre) se construit avec da."
+  },
+  {
+    "type": "version",
+    "source": "Prometiñ a ran dit.",
+    "target": "Je te (le) promets.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho."
+  },
+  {
+    "type": "version",
+    "source": "Pardonit din.",
+    "target": "Pardonnez-moi.",
+    "explanation": "Kentel 1 — La préposition da (à, pour) se conjugue : din, dit, dezhañ, dezhi, dimp, deoc'h, dezho. Pardoniñ (pardonner) se construit avec da."
+  },
+  {
+    "type": "version",
+    "source": "Gwelet em eus Yann.",
+    "target": "J'ai vu Yann.",
+    "explanation": "Kentel 1 — Certains verbes sont directs en breton (gwelet, selaou), d'autres se construisent avec da (lavaret, pellgomz, telefoniñ)."
+  },
+  {
+    "type": "version",
+    "source": "Lavar trugarez da Bob.",
+    "target": "Dis merci à Bob.",
+    "explanation": "Kentel 1 — Certains verbes sont directs en breton (gwelet, selaou), d'autres se construisent avec da (lavaret, pellgomz, telefoniñ)."
+  },
+  {
+    "type": "version",
+    "source": "Telefonet o deus da Anna.",
+    "target": "Ils/elles ont téléphoné à Anna.",
+    "explanation": "Kentel 1 — Certains verbes sont directs en breton (gwelet, selaou), d'autres se construisent avec da (lavaret, pellgomz, telefoniñ)."
+  },
+  {
+    "type": "version",
+    "source": "Selaou a ran ar radio.",
+    "target": "J'écoute la radio.",
+    "explanation": "Kentel 1 — Certains verbes sont directs en breton (gwelet, selaou), d'autres se construisent avec da (lavaret, pellgomz, telefoniñ)."
+  },
+  {
+    "type": "theme",
+    "source": "Je t'ai écrit.",
+    "target": "Skrivet em eus dit.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Faute fréquente à éviter : *Skrivet em eus ac'hanout."
+  },
+  {
+    "type": "theme",
+    "source": "Je t'ai entendu.",
+    "target": "Klevet em eus ac'hanout.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Faute fréquente à éviter : *Klevet em eus dit."
+  },
+  {
+    "type": "theme",
+    "source": "Dis-moi oui.",
+    "target": "Lavar ya din.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Faute fréquente à éviter : *Lavar ac'hanon ya."
+  },
+  {
+    "type": "theme",
+    "source": "Ils m'ont vu.",
+    "target": "Gwelet o deus ac'hanon.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Faute fréquente à éviter : *Gwelet o deus din."
+  },
+  {
+    "type": "theme",
+    "source": "Il m'a téléphoné.",
+    "target": "Pellgomzet en deus din.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Autres réponses possibles : Telefonet 'neus din. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Il m'a vu.",
+    "target": "Gwelet en deus ac'hanon.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Autres réponses possibles : Gwelet 'neus 'hanon. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle nous a écrit.",
+    "target": "Skrivet he deus dimp.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). On écrit aussi deomp. Autres réponses possibles : Skrivet 'deus dimp. / Skrivet 'neus dimp. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle nous a écoutés.",
+    "target": "Selaouet he deus ac'hanomp.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Autres réponses possibles : Selaouet 'deus 'hanomp. / Selaouet 'neus 'hanomp. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Je t'ai envoyé de l'argent.",
+    "target": "Kaset em eus arc'hant dit.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Autres réponses possibles : Kaset 'm eus arc'hant dit. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Je t'ai appelé.",
+    "target": "Galvet em eus ac'hanout.",
+    "explanation": "Kentel 1 — Skrivañ, lavaret, kas, pellgomz se construisent avec da (din, dit...) ; gwelet, klevet, selaou, gervel sont transitifs directs (ac'hanon, ac'hanout...). Autres réponses possibles : Galvet 'm eus 'hanout. (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "Plijout a ra Buenos Aires dezhi.",
+    "target": "Elle aime (bien) Buenos Aires.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...)."
+  },
+  {
+    "type": "version",
+    "source": "Plijout a ra ar merc'hed dezhañ.",
+    "target": "Il aime les filles.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres traductions possibles : Il aime les femmes.."
+  },
+  {
+    "type": "version",
+    "source": "Ne blij ket ar sinema din.",
+    "target": "Je n'aime pas le cinéma.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...)."
+  },
+  {
+    "type": "theme",
+    "source": "J'aime (bien) Diana Ross.",
+    "target": "Plijout a ra Diana Ross din.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres réponses possibles : Diana Ross a blij din.."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'aime pas Chomsky.",
+    "target": "Ne blij ket Chomsky din.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres réponses possibles : Chomsky ne blij ket din.."
+  },
+  {
+    "type": "theme",
+    "source": "Vous aimez Fisto Félès ?",
+    "target": "Plijout a ra Fisto Feles deoc'h ?",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres réponses possibles : Fisto Feles a blij deoc'h ?."
+  },
+  {
+    "type": "version",
+    "source": "Plijout a rez din.",
+    "target": "Je t'aime bien.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres traductions possibles : Tu me plais.."
+  },
+  {
+    "type": "version",
+    "source": "Ne blijan ket dezhi.",
+    "target": "Elle ne m'aime pas (beaucoup).",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Autres traductions possibles : Je ne lui plais pas.."
+  },
+  {
+    "type": "version",
+    "source": "Plijout a reomp dezho ?",
+    "target": "Ils nous aiment bien ?",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous l'aimons bien.",
+    "target": "Plijout a ra dimp.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). On écrit aussi deomp. Autres réponses possibles : Eñ a blij dimp. / Hi a blij dimp.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu ne m'aimes pas (beaucoup).",
+    "target": "Ne blijan ket dit.",
+    "explanation": "Kentel 2 — Plijout (plaire) traduit « aimer » : ce qui plaît est le sujet, la personne est introduite par da (din, dit, dezhañ...). Littéralement : je ne te plais pas."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne t'aime pas.",
+    "target": "Ne blijez ket din.",
+    "explanation": "Kentel 2 — Avec plijout, la personne qui aime est introduite par da ; ce qui est aimé est le sujet du verbe. Faute fréquente à éviter : *Ne blij ket din ac'hanout."
+  },
+  {
+    "type": "theme",
+    "source": "Tu n'aimes pas Bob et Max.",
+    "target": "Bob ha Max ne blijont ket dit.",
+    "explanation": "Kentel 2 — Avec plijout, la personne qui aime est introduite par da ; ce qui est aimé est le sujet du verbe. Faute fréquente à éviter : *Bob ha Max ne blij ket dit."
+  },
+  {
+    "type": "theme",
+    "source": "J'aime la techno.",
+    "target": "Plijout a ra an tekno din.",
+    "explanation": "Kentel 2 — Avec plijout, la personne qui aime est introduite par da ; ce qui est aimé est le sujet du verbe. Faute fréquente à éviter : *Plijout a ran an tekno."
+  },
+  {
+    "type": "theme",
+    "source": "Je les aime.",
+    "target": "Plijout a reont din.",
+    "explanation": "Kentel 2 — Avec plijout, la personne qui aime est introduite par da ; ce qui est aimé est le sujet du verbe. Faute fréquente à éviter : *Me a blij dezho."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'ai pas aimé le solo de Brutus.",
+    "target": "N'en deus ket plijet solo Brutus din.",
+    "explanation": "Kentel 2 — Plijout aux autres temps : temps composés avec kaout, futur en -o, imparfait en -e. Autres réponses possibles : Solo Brutus n'en deus ket plijet din.."
+  },
+  {
+    "type": "theme",
+    "source": "Vous ne lui avez pas plu.",
+    "target": "N'hoc'h eus ket plijet dezhañ.",
+    "explanation": "Kentel 2 — Plijout aux autres temps : temps composés avec kaout, futur en -o, imparfait en -e. Autres réponses possibles : 'Peus ket plijet dezhañ. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "La femme de Yamamoto m'a beaucoup plu.",
+    "target": "Gwreg Yamamoto he deus plijet kalz din.",
+    "explanation": "Kentel 2 — Plijout aux autres temps : temps composés avec kaout, futur en -o, imparfait en -e."
+  },
+  {
+    "type": "theme",
+    "source": "Vous n'aimerez pas le nez de ma femme.",
+    "target": "Fri ma gwreg ne blijo ket deoc'h.",
+    "explanation": "Kentel 2 — Plijout aux autres temps : temps composés avec kaout, futur en -o, imparfait en -e. Autres réponses possibles : Ne blijo ket fri ma gwreg deoc'h.."
+  },
+  {
+    "type": "theme",
+    "source": "Ils n'aimaient pas le ska.",
+    "target": "Ne blije ket ar ska dezho.",
+    "explanation": "Kentel 2 — Plijout aux autres temps : temps composés avec kaout, futur en -o, imparfait en -e."
+  },
+  {
+    "type": "version",
+    "source": "Ret (eo) din mont da di Leclerc.",
+    "target": "Il faut que j'aille au Leclerc.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que..."
+  },
+  {
+    "type": "version",
+    "source": "Ret (eo) dezhi deskiñ japaneg.",
+    "target": "Il faut qu'elle apprenne le japonais.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que..."
+  },
+  {
+    "type": "version",
+    "source": "Ret (eo) dimp gwelet ur medisin.",
+    "target": "Il faut que nous voyions un médecin.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il faut qu'il voie ma sœur.",
+    "target": "Ret eo dezhañ gwelet ma c'hoar.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que... (Le livre répond pour rire : « C'est un vrai canon. »)"
+  },
+  {
+    "type": "theme",
+    "source": "Il faut que vous achetiez un pédalo.",
+    "target": "Ret eo deoc'h prenañ ur pedalo.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que..."
+  },
+  {
+    "type": "version",
+    "source": "N'eo ket ret dezho gwerzhañ o zi.",
+    "target": "Il n'est pas nécessaire qu'ils vendent leur maison.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que... Autres traductions possibles : Ils n'ont pas besoin de vendre leur maison.."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'est pas nécessaire que vous l'écoutiez.",
+    "target": "N'eo ket ret deoc'h selaou anezhañ.",
+    "explanation": "Kentel 3 — Ret (eo) + da conjugué + infinitif = il faut que... anezhañ = le (masc.), anezhi = la (fém.). Autres réponses possibles : N'eo ket ret deoc'h selaou anezhi.."
+  },
+  {
+    "type": "version",
+    "source": "Poent eo prenañ butun.",
+    "target": "Il est temps d'acheter du tabac.",
+    "explanation": "Kentel 3 — Poent eo (+ da conjugué) + infinitif = il est temps de / que..."
+  },
+  {
+    "type": "version",
+    "source": "Poent eo deoc'h dihuniñ.",
+    "target": "Il est temps que vous vous réveilliez.",
+    "explanation": "Kentel 3 — Poent eo (+ da conjugué) + infinitif = il est temps de / que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il est temps de réparer la guitare.",
+    "target": "Poent eo dresañ ar gitar.",
+    "explanation": "Kentel 3 — Poent eo (+ da conjugué) + infinitif = il est temps de / que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il est temps que tu comprennes.",
+    "target": "Poent eo dit kompren.",
+    "explanation": "Kentel 3 — Poent eo (+ da conjugué) + infinitif = il est temps de / que..."
+  },
+  {
+    "type": "version",
+    "source": "Gwell eo dezho pellgomz dezhi.",
+    "target": "Il vaut mieux qu'ils lui téléphonent.",
+    "explanation": "Kentel 3 — Gwell eo + da conjugué + infinitif = il vaut mieux que..."
+  },
+  {
+    "type": "version",
+    "source": "Gwell eo dit kousket un tamm.",
+    "target": "Il vaut mieux que tu dormes un peu.",
+    "explanation": "Kentel 3 — Gwell eo + da conjugué + infinitif = il vaut mieux que..."
+  },
+  {
+    "type": "version",
+    "source": "N'eo ket gwell dezhañ prenañ ur c'harr ?",
+    "target": "Ne vaut-il pas mieux qu'il achète une voiture ?",
+    "explanation": "Kentel 3 — Gwell eo + da conjugué + infinitif = il vaut mieux que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il vaut mieux qu'il reste ici.",
+    "target": "Gwell eo dezhañ chom amañ.",
+    "explanation": "Kentel 3 — Gwell eo + da conjugué + infinitif = il vaut mieux que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il vaut mieux que vous vous reposiez.",
+    "target": "Gwell eo deoc'h diskuizhañ.",
+    "explanation": "Kentel 3 — Gwell eo + da conjugué + infinitif = il vaut mieux que..."
+  },
+  {
+    "type": "version",
+    "source": "Arabat dezhi pokat din.",
+    "target": "Il ne faut pas qu'elle m'embrasse.",
+    "explanation": "Kentel 3 — Arabat (eo) + da conjugué + infinitif = il ne faut pas que..."
+  },
+  {
+    "type": "version",
+    "source": "Yasser, arabat dit ober se !",
+    "target": "Yasser, il ne faut pas que tu fasses ça !",
+    "explanation": "Kentel 3 — Arabat (eo) + da conjugué + infinitif = il ne faut pas que..."
+  },
+  {
+    "type": "version",
+    "source": "Arabat dezho chom e-barzh an dour.",
+    "target": "Il ne faut pas qu'ils restent dans l'eau.",
+    "explanation": "Kentel 3 — Arabat (eo) + da conjugué + infinitif = il ne faut pas que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne faut pas qu'il vienne.",
+    "target": "Arabat dezhañ dont.",
+    "explanation": "Kentel 3 — Arabat (eo) + da conjugué + infinitif = il ne faut pas que..."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne faut pas que nous tombions.",
+    "target": "Arabat dimp kouezhañ.",
+    "explanation": "Kentel 3 — Arabat (eo) + da conjugué + infinitif = il ne faut pas que..."
+  },
+  {
+    "type": "version",
+    "source": "Koulz eo din kousket en ur frigo.",
+    "target": "(Il vaut) autant que je dorme dans un frigo.",
+    "explanation": "Kentel 3 — Koulz eo + da conjugué + infinitif = (il vaut) autant que..."
+  },
+  {
+    "type": "theme",
+    "source": "(Il vaut) autant qu'ils achètent un bull-dog.",
+    "target": "Koulz eo dezho prenañ ur bull-dog.",
+    "explanation": "Kentel 3 — Koulz eo + da conjugué + infinitif = (il vaut) autant que... eo peut être omis."
+  },
+  {
+    "type": "version",
+    "source": "Mat eo dit gortoz ac'hanomp ?",
+    "target": "Tu veux bien nous attendre ?",
+    "explanation": "Kentel 3 — Mat eo + da conjugué = ça convient à, être d'accord pour. Autres traductions possibles : Tu es d'accord pour nous attendre ?."
+  },
+  {
+    "type": "version",
+    "source": "Ar gasketenn-mañ a zo mat dit ?",
+    "target": "Cette casquette te convient ?",
+    "explanation": "Kentel 3 — Mat eo + da conjugué = ça convient à, être d'accord pour."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce qui ne leur convient pas ?",
+    "target": "Petra n'eo ket mat dezho ?",
+    "explanation": "Kentel 3 — Mat eo + da conjugué = ça convient à, être d'accord pour."
+  },
+  {
+    "type": "theme",
+    "source": "Êtes-vous d'accord pour dormir ici ?",
+    "target": "Mat eo deoc'h kousket amañ ?",
+    "explanation": "Kentel 3 — Mat eo + da conjugué = ça convient à, être d'accord pour."
+  },
+  {
+    "type": "version",
+    "source": "Yen e oa din e-barzh an ti.",
+    "target": "J'avais froid à l'intérieur de la maison.",
+    "explanation": "Kentel 3 — Formules idiomatiques : yen / tomm / brav eo din = j'ai froid / j'ai chaud / je suis heureux."
+  },
+  {
+    "type": "version",
+    "source": "Ne oa ket tomm deoc'h e Casablanca ?",
+    "target": "Vous n'aviez pas chaud à Casablanca ?",
+    "explanation": "Kentel 3 — Formules idiomatiques : yen / tomm / brav eo din = j'ai froid / j'ai chaud / je suis heureux."
+  },
+  {
+    "type": "version",
+    "source": "Brav eo dezhañ en inizi Kergelenn ?",
+    "target": "Il est heureux dans les îles Kerguelen ?",
+    "explanation": "Kentel 3 — Formules idiomatiques : yen / tomm / brav eo din = j'ai froid / j'ai chaud / je suis heureux."
+  },
+  {
+    "type": "version",
+    "source": "Skuizh eo ganin.",
+    "target": "Je le fatigue.",
+    "explanation": "Kentel 4 — Le passif breton : le sujet subit l'état (skuizh eo), l'agent est introduit par gant (ganin, gantañ...). Mot à mot : « Il/Elle est fatigué(e) avec moi ». Autres traductions possibles : Je la fatigue.."
+  },
+  {
+    "type": "version",
+    "source": "Streset omp gantañ.",
+    "target": "Il nous stresse.",
+    "explanation": "Kentel 4 — Le passif breton : le sujet subit l'état (skuizh eo), l'agent est introduit par gant (ganin, gantañ...). Mot à mot : « Nous sommes stressés avec lui »."
+  },
+  {
+    "type": "theme",
+    "source": "Tu me dégoûtes.",
+    "target": "Heuget on ganit.",
+    "explanation": "Kentel 4 — Le passif breton : le sujet subit l'état (skuizh eo), l'agent est introduit par gant (ganin, gantañ...). Mot à mot : « je suis dégoûté avec toi »."
+  },
+  {
+    "type": "theme",
+    "source": "Il nous étonne.",
+    "target": "Souezhet omp gantañ.",
+    "explanation": "Kentel 4 — Le passif breton : le sujet subit l'état (skuizh eo), l'agent est introduit par gant (ganin, gantañ...)."
+  },
+  {
+    "type": "version",
+    "source": "N'out ket bet gwelet ?",
+    "target": "On ne t'a pas vu ?",
+    "explanation": "Kentel 4 — Le passif breton se rend souvent par le « on » impersonnel en français. = Personne ne t'a vu ? (« Tu n'as pas été vu ? »)"
+  },
+  {
+    "type": "version",
+    "source": "Gortozet oc'h.",
+    "target": "On vous attend.",
+    "explanation": "Kentel 4 — Le passif breton se rend souvent par le « on » impersonnel en français. = Quelqu'un vous attend. (« Vous êtes attendu. »)"
+  },
+  {
+    "type": "version",
+    "source": "N'eus ket kavet netra ?",
+    "target": "On n'a rien trouvé ?",
+    "explanation": "Kentel 4 — Le passif breton se rend souvent par le « on » impersonnel en français. = Personne n'a rien trouvé ? (« Rien n'a été trouvé ? »)"
+  },
+  {
+    "type": "version",
+    "source": "Galvet omp.",
+    "target": "On nous appelle.",
+    "explanation": "Kentel 4 — Le passif breton se rend souvent par le « on » impersonnel en français. = Quelqu'un nous appelle. (« Nous sommes appelés. »)"
+  },
+  {
+    "type": "theme",
+    "source": "Le breton commence à te fatiguer ?",
+    "target": "Erru out skuizh gant ar brezhoneg ?",
+    "explanation": "Kentel 4 — Aet et erru : deux petits modificateurs de l'adjectif (devenu, en arriver à)."
+  },
+  {
+    "type": "theme",
+    "source": "Il est devenu fou (il n'y a plus rien à faire).",
+    "target": "Sot eo aet.",
+    "explanation": "Kentel 4 — Aet et erru : deux petits modificateurs de l'adjectif (devenu, en arriver à). Autres réponses possibles : Aet eo sot.."
+  },
+  {
+    "type": "theme",
+    "source": "Mes enfants ont emporté mon surf.",
+    "target": "Aet eo ma seurf gant ma bugale.",
+    "explanation": "Kentel 4 — Mont gant = emporter, voler (mot à mot « partir avec »). Autres réponses possibles : Ma seurf a zo aet gant ma bugale.."
+  },
+  {
+    "type": "theme",
+    "source": "Qui a volé le pyjama d'André ?",
+    "target": "Gant piv eo aet pijama Andre ?",
+    "explanation": "Kentel 4 — Mont gant = emporter, voler (mot à mot « partir avec »). Autres réponses possibles : Piv eo aet pijama Andre gantañ ?."
+  },
+  {
+    "type": "version",
+    "source": "An arc'hant-se n'eo ket din.",
+    "target": "Cet argent ne m'appartient pas.",
+    "explanation": "Kentel 4 — Da marque l'appartenance, gant la possession momentanée (ce qu'on a avec soi)."
+  },
+  {
+    "type": "version",
+    "source": "Ar vugale a zo ganti n'int ket dezhi.",
+    "target": "Les enfants qui l'accompagnent ne sont pas d'elle.",
+    "explanation": "Kentel 4 — Da marque l'appartenance, gant la possession momentanée (ce qu'on a avec soi)."
+  },
+  {
+    "type": "version",
+    "source": "Kaset ez eus ul lizher dezhi.",
+    "target": "On lui a envoyé une lettre.",
+    "explanation": "Kentel 4 — Au passif, da introduit le destinataire et gant l'agent. « Une lettre lui a été envoyée. »"
+  },
+  {
+    "type": "version",
+    "source": "Kaset eo he lizher ganti.",
+    "target": "Elle a envoyé sa lettre.",
+    "explanation": "Kentel 4 — Au passif, da introduit le destinataire et gant l'agent."
+  },
+  {
+    "type": "theme",
+    "source": "Il préfère parler breton à table.",
+    "target": "Gwell eo gantañ komz brezhoneg ouzh taol.",
+    "explanation": "Kentel 4 — Gwell eo gant = préférer ; gwell eo da = il vaut mieux que."
+  },
+  {
+    "type": "theme",
+    "source": "Il vaut mieux qu'il m'écoute.",
+    "target": "Gwell eo dezhañ selaou ac'hanon.",
+    "explanation": "Kentel 4 — Gwell eo gant = préférer ; gwell eo da = il vaut mieux que."
+  },
+  {
+    "type": "theme",
+    "source": "Le Bibemdum sera ici demain.",
+    "target": "Warc'hoazh e vo ar Bibemdum amañ.",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Autres réponses possibles : Amañ e vo ar Bibemdum warc'hoazh. / Ar Bibemdum a vo amañ warc'hoazh.."
+  },
+  {
+    "type": "theme",
+    "source": "Y aura-t-il de la neige à Ioujno-Sakhalinsk ?",
+    "target": "Erc'h a vo e Ioujno-Sakhalinsk ?",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Autres réponses possibles : Bez' e vo erc'h e Ioujno-Sakhalinsk ? / E Ioujno-Sakhalinsk e vo erc'h ?."
+  },
+  {
+    "type": "theme",
+    "source": "Vous ne serez pas à Bangui ?",
+    "target": "Ne viot ket e Bangui ?",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Autres réponses possibles : Ne veoc'h ket e Bangui ? / Ne vefet ket e Bangui ?."
+  },
+  {
+    "type": "theme",
+    "source": "Les cheveux d'Azenor ne seront pas rouges.",
+    "target": "Ne vo ket ruz blev Azenor.",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Sujet après le verbe : pas d'accord. Sujet en tête d'une phrase négative : accord. Autres réponses possibles : Blev Azenor ne vint ket ruz. / Blev Azenor ne vefont ket ruz.."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne sera pas nécessaire de laver le chat.",
+    "target": "Ne vo ket ret gwalc'hiñ ar c'hazh.",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont)."
+  },
+  {
+    "type": "theme",
+    "source": "Dans quelle maison serons-nous ?",
+    "target": "E peseurt ti e vimp ?",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Autres réponses possibles : E peseurt ti e vefomp ?."
+  },
+  {
+    "type": "theme",
+    "source": "L'hiver sera chaud.",
+    "target": "Tomm e vo ar goañv.",
+    "explanation": "Kentel 5 — Futur de bezañ : vin, vi, vo, vimp, viot / veoc'h, vint (ou vefomp, vefet, vefont). Autres réponses possibles : Ar goañv a vo tomm.."
+  },
+  {
+    "type": "theme",
+    "source": "Je serai à Samchok ce soir.",
+    "target": "Fenoz e vin e Samchok.",
+    "explanation": "Kentel 6 — Futur de bezañ : on peut commencer la phrase par le complément de temps, le sujet ou le lieu. Autres réponses possibles : Me a vo e Samchok fenoz. / E Samchok e vin fenoz.."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h e vi gwelet ?",
+    "target": "Où te verra-t-on ?",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "version",
+    "source": "Kidnappet e vint.",
+    "target": "On les kidnappera.",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "theme",
+    "source": "Où m'attendra-t-on ?",
+    "target": "Pelec'h e vin gortozet ?",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "theme",
+    "source": "On ne te verra pas.",
+    "target": "Ne vi ket gwelet.",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "theme",
+    "source": "On ne m'écoutera pas.",
+    "target": "Ne vin ket selaouet.",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "theme",
+    "source": "On verra.",
+    "target": "Gwelet e vo.",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "theme",
+    "source": "On les mettra sous la table.",
+    "target": "Lakaet e vint dindan an daol.",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français. Autres réponses possibles : Lakaet e vefont dindan an daol.."
+  },
+  {
+    "type": "theme",
+    "source": "Quand va-t-on appeler le taxi ?",
+    "target": "Pegoulz e vo galvet an taksi ?",
+    "explanation": "Kentel 6 — Le passif breton (bezañ au futur + participe passé) se rend souvent par « on » en français."
+  },
+  {
+    "type": "version",
+    "source": "Ne vi ket sikouret gant ma zud.",
+    "target": "Mes parents ne t'aideront pas.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "version",
+    "source": "Gant piv e vo graet al labour-se ?",
+    "target": "Qui fera ce travail ?",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant. Autres traductions possibles : Qui va faire ce travail ?."
+  },
+  {
+    "type": "version",
+    "source": "Ne vimp ket selaouet ganto.",
+    "target": "Ils ne nous écouteront pas.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant. Autres traductions possibles : Elles ne nous écouteront pas.."
+  },
+  {
+    "type": "version",
+    "source": "Evet e vo tout an traoù gantañ.",
+    "target": "Il boira tout.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "version",
+    "source": "Enaouet e vo ganin.",
+    "target": "Je l'allumerai.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Ma sœur ne vous saluera pas.",
+    "target": "Ne viot ket saludet gant ma c'hoar.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant. Autres réponses possibles : Ne veoc'h ket saludet gant ma c'hoar. / Ne vefet ket saludet gant ma c'hoar.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle ne m'aidera pas.",
+    "target": "Ne vin ket sikouret ganti.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Qui va laver le bus ?",
+    "target": "Gant piv e vo gwalc'het ar bus ?",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Nous mangerons votre pizza.",
+    "target": "Debret e vo ho pizza ganimp.",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant. Autres réponses possibles : Debret e vo ho pizza ganeomp.."
+  },
+  {
+    "type": "theme",
+    "source": "Où Yann mettra-t-il son chat ?",
+    "target": "Pelec'h e vo lakaet e gazh gant Yann ?",
+    "explanation": "Kentel 6 — L'utilisation de gant : au passif, l'agent est introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Je serai prêt.",
+    "target": "Me a vo prest.",
+    "explanation": "Kentel 6 — Accord du verbe : sujet en tête → verbe à la 3e pers. du singulier (sauf phrase négative) ; sujet après le verbe → pas d'accord. Faute fréquente à éviter : *Me a vin prest."
+  },
+  {
+    "type": "theme",
+    "source": "Il y aura des gens.",
+    "target": "Tud a vo.",
+    "explanation": "Kentel 6 — Accord du verbe : sujet en tête → verbe à la 3e pers. du singulier (sauf phrase négative) ; sujet après le verbe → pas d'accord. Faute fréquente à éviter : *Tud e vo."
+  },
+  {
+    "type": "theme",
+    "source": "Mes parents ne seront pas ici.",
+    "target": "Ma zud ne vint ket amañ.",
+    "explanation": "Kentel 6 — Accord du verbe : sujet en tête → verbe à la 3e pers. du singulier (sauf phrase négative) ; sujet après le verbe → pas d'accord. Faute fréquente à éviter : *Ma zud ne vo ket amañ."
+  },
+  {
+    "type": "theme",
+    "source": "Ses chiens ne l'accompagneront pas.",
+    "target": "Ne vo ket e chas gantañ.",
+    "explanation": "Kentel 6 — Accord du verbe : sujet en tête → verbe à la 3e pers. du singulier (sauf phrase négative) ; sujet après le verbe → pas d'accord. Faute fréquente à éviter : *Ne vint ket e chas gantañ."
+  },
+  {
+    "type": "version",
+    "source": "Warc'hoazh em bo labour.",
+    "target": "J'aurai du travail demain.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "version",
+    "source": "N'en do ket naon gant se.",
+    "target": "Il n'aura pas faim avec ça.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "version",
+    "source": "Digwener ho po ul lizher melen.",
+    "target": "Vous recevrez une lettre jaune vendredi.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "theme",
+    "source": "Tu recevras un livre bleu jeudi.",
+    "target": "Diriaou ez po ul levr glas.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. On peut ajouter a-benn : a-benn diriaou. Autres réponses possibles : Ul levr glas az po diriaou.."
+  },
+  {
+    "type": "theme",
+    "source": "Vous aurez soif ce soir.",
+    "target": "Fenoz ho po sec'hed.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. Autres réponses possibles : Sec'hed ho po fenoz. / C'hwi ho po sec'hed fenoz.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'aurons pas mal à la tête ?",
+    "target": "N'hor bo ket poan-benn ?",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "theme",
+    "source": "Ils auront des nouvelles demain.",
+    "target": "Warc'hoazh o do keloù.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. Autres réponses possibles : Keloù o do warc'hoazh. / Int o do keloù warc'hoazh.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu n'auras pas de chance avec moi.",
+    "target": "N'ez po ket chañs ganin.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "theme",
+    "source": "Qui veut du couscous ?",
+    "target": "Piv en do couscous ?",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. Le futur de kaout exprime aussi la volonté."
+  },
+  {
+    "type": "theme",
+    "source": "Tu ne veux pas cette belle pomme ?",
+    "target": "N'ez po ket an aval kaer-mañ ?",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. Le futur de kaout exprime aussi la volonté."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne recevra pas de lettre.",
+    "target": "N'en do ket lizher ebet.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do. ket peut être omis devant ebet."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'aurons pas peur.",
+    "target": "N'hor bo ket aon.",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'aurai pas mal à la tête ?",
+    "target": "N'em bo ket poan-benn ?",
+    "explanation": "Kentel 7 — Futur de kaout : em bo, az po, en do, he do, hor bo, ho po, o do."
+  },
+  {
+    "type": "version",
+    "source": "Petra o do da evañ ?",
+    "target": "Que veulent-ils boire ?",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »). Autres traductions possibles : Que veulent-elles boire ?."
+  },
+  {
+    "type": "version",
+    "source": "N'em bo mann ebet da zebriñ.",
+    "target": "Je ne veux rien manger.",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "version",
+    "source": "Petra az po da lenn ?",
+    "target": "Que veux-tu lire ?",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "version",
+    "source": "Un double cheese burger am bo.",
+    "target": "Je veux un double cheese burger.",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "version",
+    "source": "Bez' en do koñfitur ?",
+    "target": "Il veut de la confiture ?",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "version",
+    "source": "Piv en do ur « mistral gagnant » ?",
+    "target": "Qui veut un mistral gagnant ?",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "version",
+    "source": "Bez' ho po ur banne « mort subite » ?",
+    "target": "Vous voulez un verre de « mort subite » ?",
+    "explanation": "Kentel 7 — Le futur de kaout sert aussi à exprimer la volonté, l'envie (« vouloir »)."
+  },
+  {
+    "type": "theme",
+    "source": "Je verrai le soleil ce soir.",
+    "target": "Gwelet a rin an heol fenoz.",
+    "explanation": "Kentel 8 — Le futur : infinitif + a + ober au futur, complément en tête + e + verbe, ou sujet + a + verbe à la 3e pers. du singulier. Autres réponses possibles : Fenoz e welin an heol. / Me a welo an heol fenoz. / An heol a welin fenoz.."
+  },
+  {
+    "type": "theme",
+    "source": "Il prendra un poisson dans sa main.",
+    "target": "Kemer a ray ur pesk en e zorn.",
+    "explanation": "Kentel 8 — Le futur : infinitif + a + ober au futur, complément en tête + e + verbe, ou sujet + a + verbe à la 3e pers. du singulier. Autres réponses possibles : Kemer a raio ur pesk en e zorn. / Eñ a gemero ur pesk en e zorn. / Ur pesk a gemero en e zorn. / En e zorn e kemero ur pesk.."
+  },
+  {
+    "type": "version",
+    "source": "Serriñ a ri an nor ?",
+    "target": "Tu veux bien fermer la porte ?",
+    "explanation": "Kentel 8 — Le futur sert à exprimer la volonté, une demande polie (« tu veux bien... ? »)."
+  },
+  {
+    "type": "version",
+    "source": "Prenañ a ri ur porsche din ?",
+    "target": "Tu veux bien m'acheter une porsche ?",
+    "explanation": "Kentel 8 — Le futur sert à exprimer la volonté, une demande polie (« tu veux bien... ? »)."
+  },
+  {
+    "type": "version",
+    "source": "Digeriñ a reot ar prenestr ?",
+    "target": "Voulez-vous ouvrir la fenêtre ?",
+    "explanation": "Kentel 8 — Le futur sert à exprimer la volonté, une demande polie (« tu veux bien... ? »)."
+  },
+  {
+    "type": "theme",
+    "source": "Nous ne viendrons pas tout de suite.",
+    "target": "Ne zeuimp ket diouzhtu.",
+    "explanation": "Kentel 8 — Le futur : terminaisons -in, -i, -o, -imp, -ot, -int (ou -fomp, -fet, -font). Autres réponses possibles : Ne zeufomp ket diouzhtu.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu comprendras ce qu'il te dira ?",
+    "target": "Kompren a ri ar pezh a lavaro dit ?",
+    "explanation": "Kentel 8 — Le futur : terminaisons -in, -i, -o, -imp, -ot, -int (ou -fomp, -fet, -font). Autres réponses possibles : Kompren a ri ar pezh a lâro dit ? / Te a gompreno ar pezh a lâro dit ?."
+  },
+  {
+    "type": "theme",
+    "source": "Je vous écrirai tous les jours.",
+    "target": "Skrivañ a rin deoc'h bemdez.",
+    "explanation": "Kentel 8 — Le futur : terminaisons -in, -i, -o, -imp, -ot, -int (ou -fomp, -fet, -font). Autres réponses possibles : Bemdez e skrivin deoc'h. / Me a skrivo deoc'h bemdez.."
+  },
+  {
+    "type": "theme",
+    "source": "Je mangerai.",
+    "target": "Me a zebro.",
+    "explanation": "Kentel 8 — Le futur : terminaisons -in, -i, -o, -imp, -ot, -int (ou -fomp, -fet, -font). Faute fréquente à éviter : *Me a zebrin. Sujet en tête : verbe à la 3e pers. du singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Mes chats ne boiront pas.",
+    "target": "Ne evo ket ma c'hizhier.",
+    "explanation": "Kentel 8 — Le futur : terminaisons -in, -i, -o, -imp, -ot, -int (ou -fomp, -fet, -font). Faute fréquente à éviter : *Ne evint ket ma c'hizhier. Sujet après le verbe : pas d'accord. Autres réponses possibles : Ma c'hizhier ne evint ket.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous mangions souvent du poisson.",
+    "target": "Alies e tebremp pesked.",
+    "explanation": "Kentel 9 — L'imparfait : terminaisons -en, -es, -e, -emp, -ec'h, -ent ; plusieurs ordres de phrase possibles. Autres réponses possibles : Debriñ a raemp pesked alies. / Ni a zebre pesked alies. / Pesked a zebremp alies.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu écoutais du rap quand tu étais jeune.",
+    "target": "Selaou a raes rap pa oas yaouank.",
+    "explanation": "Kentel 9 — L'imparfait : terminaisons -en, -es, -e, -emp, -ec'h, -ent ; plusieurs ordres de phrase possibles. Autres réponses possibles : Pa oas yaouank e selaoues rap. / Te a selaoue rap pa oas yaouank. / Rap a selaoues pa oas yaouank.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle a vendu du cheddar.",
+    "target": "Gwerzhet he deus cheddar.",
+    "explanation": "Kentel 9 — Imparfait (duratif) ≠ passé composé (perfectif, avec l'auxiliaire kaout). Autres réponses possibles : Cheddar he deus gwerzhet. / Hi he deus gwerzhet cheddar.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous vendions du mauvais vin.",
+    "target": "Gwerzhañ a raemp gwin fall.",
+    "explanation": "Kentel 9 — Imparfait (duratif) ≠ passé composé (perfectif, avec l'auxiliaire kaout). Autres réponses possibles : Gwin fall a werzhemp. / Ni a werzhe gwin fall.."
+  },
+  {
+    "type": "theme",
+    "source": "Vous n'aviez pas vendu de pain.",
+    "target": "N'ho poa ket gwerzhet bara.",
+    "explanation": "Kentel 9 — Imparfait (duratif) ≠ passé composé (perfectif, avec l'auxiliaire kaout)."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne vendais pas beaucoup de surimi.",
+    "target": "Ne werzhen ket kalz a surimi.",
+    "explanation": "Kentel 9 — Imparfait (duratif) ≠ passé composé (perfectif, avec l'auxiliaire kaout)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous ne mangiez pas bien. (duratif)",
+    "target": "Ne zebrec'h ket mat.",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "Vous mangiez ? (progressif)",
+    "target": "O tebriñ e oac'h ?",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "J'écoutais Jethro Tull. (duratif)",
+    "target": "Selaou a raen Jethro Tull.",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "J'écoutais Jethro Tull. (progressif)",
+    "target": "O selaou Jethro Tull e oan.",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle voyageait. (duratif)",
+    "target": "Beajiñ a rae.",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle voyageait. (progressif)",
+    "target": "O veajiñ e oa.",
+    "explanation": "Kentel 9 — Imparfait duratif (verbe conjugué) ≠ passé progressif (o + infinitif + e oa)."
+  },
+  {
+    "type": "theme",
+    "source": "Tes parents parlaient beaucoup.",
+    "target": "Da dud a gomze kalz.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Faute fréquente à éviter : *Da dud a gomzent kalz. Sujet en tête : verbe à la 3e pers. du singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Autrefois, je buvais.",
+    "target": "Gwezhall e even.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Faute fréquente à éviter : *Gwezhall, evañ a raen. Un seul élément se place devant le verbe."
+  },
+  {
+    "type": "theme",
+    "source": "Max et Bob ne voyaient pas.",
+    "target": "Max ha Bob ne welent ket.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Faute fréquente à éviter : *Max ha Bob ne wele ket. Sujet pluriel en tête d'une phrase négative : accord."
+  },
+  {
+    "type": "theme",
+    "source": "Moi, je t'entendais.",
+    "target": "Me a gleve ac'hanout.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Faute fréquente à éviter : *Me a gleven ac'hanout. Sujet en tête : verbe à la 3e pers. du singulier."
+  },
+  {
+    "type": "theme",
+    "source": "Vous ne compreniez pas ce que je vous disais.",
+    "target": "Ne gomprenec'h ket ar pezh a lavaren deoc'h.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots."
+  },
+  {
+    "type": "theme",
+    "source": "Il disait oui à tout le monde.",
+    "target": "Lavaret a rae ya da dout an dud.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Autres réponses possibles : Ya a lavare da dout an dud. / Da dout an dud e lavare ya.."
+  },
+  {
+    "type": "theme",
+    "source": "Quand j'étais à Dolgellau, je buvais du lait.",
+    "target": "Pa oan e Dolgellau e even laezh.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Autres réponses possibles : Laezh a even pa oan e Dolgellau. / Me a eve laezh pa oan e Dolgellau.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle ne m'écrivait pas souvent.",
+    "target": "Ne skrive ket alies din.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Autres réponses possibles : Ne skrive ket din alies.."
+  },
+  {
+    "type": "theme",
+    "source": "Ce que je voyais était grand.",
+    "target": "Ar pezh a welen a oa bras.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots."
+  },
+  {
+    "type": "theme",
+    "source": "Elle ne m'a pas souvent écrit.",
+    "target": "N'he deus ket skrivet alies din.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots. Autres réponses possibles : N'he deus ket skrivet din alies.."
+  },
+  {
+    "type": "theme",
+    "source": "Félix ne les aimait pas.",
+    "target": "Ne blijent ket da Felix.",
+    "explanation": "Kentel 9 — Imparfait : attention à l'accord et à l'ordre des mots."
+  },
+  {
+    "type": "theme",
+    "source": "17 + 2 = 19",
+    "target": "Seitek ha daou a zo naontek.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "8 + 10 = 18",
+    "target": "Eizh ha dek a ra triwec'h.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "6 + 9 = 15",
+    "target": "C'hwec'h mui nav a zo par da bemzek.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "17 + 10 = 27",
+    "target": "Seitek ha dek a zo seizh warn-ugent.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "12 + 9 = 21",
+    "target": "Daouzek ha nav a ra unan warn-ugent.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "24 + 5 = 29",
+    "target": "Pevar warn-ugent mui pemp a zo par da nav warn-ugent.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "1 + 29 = 30",
+    "target": "Unan ha nav warn-ugent a zo tregont.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "17 + 13 = 30",
+    "target": "Seitek mui trizek a zo par da dregont.",
+    "explanation": "Kentel 10 — Compter : ha = et, mui = plus ; « a zo », « a ra » ou « a zo par da » = font, égale."
+  },
+  {
+    "type": "theme",
+    "source": "Vingt-deux écoles. (skol°)",
+    "target": "Div skol warn-ugent.",
+    "explanation": "Kentel 10 — Le nom se place après le premier élément du nombre et reste au singulier ; daou/div, tri/teir, pevar/peder selon le genre (° = féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Vingt-cinq sacs. (sac'h)",
+    "target": "Pemp sac'h warn-ugent.",
+    "explanation": "Kentel 10 — Le nom se place après le premier élément du nombre et reste au singulier ; daou/div, tri/teir, pevar/peder selon le genre (° = féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Trois putes. (gast°)",
+    "target": "Teir gast.",
+    "explanation": "Kentel 10 — Le nom se place après le premier élément du nombre et reste au singulier ; daou/div, tri/teir, pevar/peder selon le genre (° = féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Dix-huit voitures. (karr)",
+    "target": "Triwec'h karr.",
+    "explanation": "Kentel 10 — Le nom se place après le premier élément du nombre et reste au singulier ; daou/div, tri/teir, pevar/peder selon le genre (° = féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Vingt-quatre baffes. (skouarnad°)",
+    "target": "Peder skouarnad warn-ugent.",
+    "explanation": "Kentel 10 — Le nom se place après le premier élément du nombre et reste au singulier ; daou/div, tri/teir, pevar/peder selon le genre (° = féminin)."
+  },
+  {
+    "type": "theme",
+    "source": "Vingt-quatre filles. (plac'h°)",
+    "target": "Peder flac'h warn-ugent.",
+    "explanation": "Kentel 10 — Mutations après les nombres : adoucissante après daou/div, spirante après tri/teir, pevar/peder, nav. Breton parlé : peder blac'h."
+  },
+  {
+    "type": "theme",
+    "source": "Neuf chiens. (ki)",
+    "target": "Nav c'hi.",
+    "explanation": "Kentel 10 — Mutations après les nombres : adoucissante après daou/div, spirante après tri/teir, pevar/peder, nav. Breton parlé : nav gi."
+  },
+  {
+    "type": "theme",
+    "source": "Trois dentistes. (dentour)",
+    "target": "Tri dentour.",
+    "explanation": "Kentel 10 — Mutations après les nombres : adoucissante après daou/div, spirante après tri/teir, pevar/peder, nav."
+  },
+  {
+    "type": "theme",
+    "source": "Deux dents. (dant)",
+    "target": "Daou zant.",
+    "explanation": "Kentel 10 — Mutations après les nombres : adoucissante après daou/div, spirante après tri/teir, pevar/peder, nav."
+  },
+  {
+    "type": "theme",
+    "source": "Trois cuisines. (kegin°)",
+    "target": "Teir c'hegin.",
+    "explanation": "Kentel 10 — Mutations après les nombres : adoucissante après daou/div, spirante après tri/teir, pevar/peder, nav. Breton parlé : teir gegin."
+  },
+  {
+    "type": "theme",
+    "source": "Une fille.",
+    "target": "Ur plac'h.",
+    "explanation": "Kentel 10 — Les nombres devant un nom. Faute fréquente à éviter : *Unan plac'h. Devant un nom, « un » se dit ur / un / ul."
+  },
+  {
+    "type": "theme",
+    "source": "Vingt-deux chiens.",
+    "target": "Daou gi warn-ugent.",
+    "explanation": "Kentel 10 — Les nombres devant un nom. Faute fréquente à éviter : *Daou warn-ugent ki. Le nom suit le premier élément du nombre."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre écoles.",
+    "target": "Peder skol.",
+    "explanation": "Kentel 10 — Les nombres devant un nom. Faute fréquente à éviter : *Pevar skol. Skol est féminin : peder."
+  },
+  {
+    "type": "theme",
+    "source": "Dix leçons.",
+    "target": "Dek kentel.",
+    "explanation": "Kentel 10 — Les nombres devant un nom. Faute fréquente à éviter : *Dek kentelioù. Après un nombre, le nom reste au singulier."
+  },
+  {
+    "type": "version",
+    "source": "Dek eur e oa pa oan erruet.",
+    "target": "Il était dix heures quand je suis arrivé.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "version",
+    "source": "Kreisteiz eo pe n'eo ket ?",
+    "target": "Il est midi ou il n'est pas midi ?",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "theme",
+    "source": "Il est deux heures à Honfleur.",
+    "target": "Div eur eo e Honfleur.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "theme",
+    "source": "Il était minuit à Bikini.",
+    "target": "Hanternoz e oa e Bikini.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "version",
+    "source": "Teir eur ha kard e vo pa vin eno.",
+    "target": "Il sera trois heures et quart quand je serai là-bas.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "version",
+    "source": "Unnek eur nemet kard e oa pe ne oa ket ?",
+    "target": "Il était onze heures moins le quart, oui ou non ?",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "theme",
+    "source": "Il est trois heures et quart.",
+    "target": "Teir eur ha kard eo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "theme",
+    "source": "Il sera quatre heures moins le quart.",
+    "target": "Peder eur nemet kard e vo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. Autres réponses possibles : Peder eur 'met kard 'vo. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Il sera deux heures et demie quand tu me verras.",
+    "target": "Div eur hanter e vo pa weli ac'hanon.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "version",
+    "source": "Tregont eur hanter ? N'hall ket bezañ !",
+    "target": "Trente heures et demie ? Ça n'existe pas !",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie."
+  },
+  {
+    "type": "theme",
+    "source": "Il était six heures vingt-cinq.",
+    "target": "C'hwec'h eur ha pemp warn-ugent e oa.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. ha peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Il est dix heures dix.",
+    "target": "Dek eur ha dek eo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. ha peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Il sera sept heures vingt.",
+    "target": "Seizh eur hag ugent e vo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. hag peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Il était trois heures huit.",
+    "target": "Teir eur hag eizh e oa.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. hag peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Il était huit heures moins trois.",
+    "target": "Eizh eur nemet tri e oa.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. Autres réponses possibles : Eizh eur 'met tri 'oa. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Il est deux heures moins cinq.",
+    "target": "Div eur nemet pemp eo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. Autres réponses possibles : Div eur 'met pemp eo. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Il sera quatre heures moins vingt.",
+    "target": "Peder eur nemet ugent e vo.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. Autres réponses possibles : Peder eur 'met ugent 'vo. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Il était cinq heures moins vingt-sept.",
+    "target": "Pemp eur nemet seizh warn-ugent e oa.",
+    "explanation": "Kentel 11 — L'heure : eur est féminin (div eur, teir eur, peder eur) ; ha kard = et quart, nemet kard = moins le quart, hanter = et demie. Autres réponses possibles : Pemp eur 'met seizh warn-ugent 'oa. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Quelle heure est-il à Tchernobyl ?",
+    "target": "Pet eur eo e Tchernobyl ?",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "version",
+    "source": "Da bet eur emañ an eured c'hoazh ?",
+    "target": "À quelle heure est le mariage déjà ?",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "version",
+    "source": "Da bet eur e vo gwelet an heol ?",
+    "target": "À quelle heure verra-t-on le soleil ?",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "version",
+    "source": "Da seizh eur hanter e vo debret merenn.",
+    "target": "On mangera le repas de midi à sept heures et demie.",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "version",
+    "source": "Dihunet e oamp da c'hwec'h eur.",
+    "target": "Nous nous sommes réveillés à six heures.",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "theme",
+    "source": "À quelle heure est le film ce soir ?",
+    "target": "Da bet eur emañ ar film fenoz ?",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "theme",
+    "source": "Elle se lève à sept heures moins cinq.",
+    "target": "Sevel a ra da seizh eur nemet pemp.",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s). Autres réponses possibles : Da seizh eur nemet pemp e sav.."
+  },
+  {
+    "type": "theme",
+    "source": "Serez-vous prêts à sept heures sept ?",
+    "target": "Prest e viot da seizh eur ha seizh ?",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s). ha peut être omis. Autres réponses possibles : Prest e veoc'h da seizh eur ha seizh ? / Prest e vefet da seizh eur ha seizh ?."
+  },
+  {
+    "type": "theme",
+    "source": "Tu me téléphoneras à onze heures moins une.",
+    "target": "Pellgomz a ri din da unnek eur nemet unan.",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s)."
+  },
+  {
+    "type": "theme",
+    "source": "Il y avait de la fumée à minuit moins vingt.",
+    "target": "Moged a oa da hanternoz nemet ugent.",
+    "explanation": "Kentel 11 — Pet eur eo ? = quelle heure est-il ? ; da bet eur ? = à quelle heure ? ; da + heure = à ... heure(s). Autres réponses possibles : Da hanternoz nemet ugent e oa moged. / Bez' e oa moged da hanternoz nemet ugent.."
+  },
+  {
+    "type": "theme",
+    "source": "35 + 34 = 69",
+    "target": "Pemp ha tregont ha pevar ha tregont a zo nav ha tri-ugent.",
+    "explanation": "Kentel 12 — Compter : tregont (30), daou-ugent (40), hanter-kant (50), tri-ugent (60), pevar-ugent (80) ; 70 = dek ha tri-ugent, 90 = dek ha pevar-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "46 + 42 = 88",
+    "target": "C'hwec'h ha daou-ugent ha daou ha daou-ugent a ra eizh ha pevar-ugent.",
+    "explanation": "Kentel 12 — Compter : tregont (30), daou-ugent (40), hanter-kant (50), tri-ugent (60), pevar-ugent (80) ; 70 = dek ha tri-ugent, 90 = dek ha pevar-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "22 + 33 = 55",
+    "target": "Daou warn-ugent mui tri ha tregont a zo par da bemp ha hanter-kant.",
+    "explanation": "Kentel 12 — Compter : tregont (30), daou-ugent (40), hanter-kant (50), tri-ugent (60), pevar-ugent (80) ; 70 = dek ha tri-ugent, 90 = dek ha pevar-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "36 + 37 = 73",
+    "target": "C'hwec'h ha tregont ha seizh ha tregont a zo trizek ha tri-ugent.",
+    "explanation": "Kentel 12 — Compter : tregont (30), daou-ugent (40), hanter-kant (50), tri-ugent (60), pevar-ugent (80) ; 70 = dek ha tri-ugent, 90 = dek ha pevar-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "45 + 51 = 96",
+    "target": "Pemp ha daou-ugent mui unan ha hanterkant a zo par da c'hwezek ha pevar-ugent.",
+    "explanation": "Kentel 12 — Compter : tregont (30), daou-ugent (40), hanter-kant (50), tri-ugent (60), pevar-ugent (80) ; 70 = dek ha tri-ugent, 90 = dek ha pevar-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "Trente-quatre tsunamis.",
+    "target": "Pevar tsunami ha tregont.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Cinquante-neuf ohms.",
+    "target": "Nav ohm ha hanter-kant.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Soixante-deux yens.",
+    "target": "Daou yen ha tri-ugent.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingt-cinq strip-teases.",
+    "target": "Pemp strip-tease ha pevar-ugent.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Quarante-huit springboks.",
+    "target": "Eizh springbok ha daou-ugent.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Soixante-treize volts.",
+    "target": "Trizek volt ha tri-ugent.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingts watts.",
+    "target": "Pevar-ugent watt.",
+    "explanation": "Kentel 12 — Le nom se place après les unités : pevar tsunami ha tregont (34 tsunamis)."
+  },
+  {
+    "type": "theme",
+    "source": "Trente-trois pointes. (poentenn°)",
+    "target": "Teir foentenn ha tregont.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit). Breton parlé : teir boentenn ha tregont."
+  },
+  {
+    "type": "theme",
+    "source": "Soixante-deux marteaux. (morzhol)",
+    "target": "Daou vorzhol ha tri-ugent.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit)."
+  },
+  {
+    "type": "theme",
+    "source": "Quarante-quatre kangourous. (kangourou)",
+    "target": "Pevar c'hangourou ha daou-ugent.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit). Breton parlé : pevar gangourou ha daou-ugent."
+  },
+  {
+    "type": "theme",
+    "source": "Cinquante-sept mères. (mamm°)",
+    "target": "Seizh mamm ha hanterkant.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit)."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingt-deux poissons. (pesk)",
+    "target": "Daou besk ha pevar-ugent.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit)."
+  },
+  {
+    "type": "theme",
+    "source": "Quatre-vingt-douze chats. (kazh)",
+    "target": "Daouzek kazh ha pevar-ugent.",
+    "explanation": "Kentel 12 — Mutations après les nombres (usage écrit)."
+  },
+  {
+    "type": "version",
+    "source": "Pet vloaz oc'h chomet eno ?",
+    "target": "Combien d'années êtes-vous resté là-bas ?",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont..."
+  },
+  {
+    "type": "version",
+    "source": "Pemp bloaz ha tri-ugent e prizon.",
+    "target": "Soixante-cinq ans en prison.",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont..."
+  },
+  {
+    "type": "version",
+    "source": "E Blois on chomet bloaz.",
+    "target": "Je suis resté un an à Blois.",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont..."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai travaillé trente et un ans.",
+    "target": "Bloaz ha tregont em eus labouret.",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont... Autres réponses possibles : Labouret em eus bloaz ha tregont.."
+  },
+  {
+    "type": "theme",
+    "source": "Combien d'années avez-vous perdues ?",
+    "target": "Pet vloaz hoc'h eus kollet ?",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont... Autres réponses possibles : Pet vloaz 'peus kollet ? (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Sept ans ou sept temps ?",
+    "target": "Seizh vloaz pe seizh amzer ?",
+    "explanation": "Kentel 12 — Le mot bloaz (an, année) et ses mutations : pet vloaz, seizh vloaz, bloaz ha tregont..."
+  },
+  {
+    "type": "version",
+    "source": "Petra a ray hennezh d'ar Sadorn ?",
+    "target": "Qu'est-ce qu'il fera le samedi ?",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h e oac'h dimeurzh ?",
+    "target": "Où étiez-vous mardi ?",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "version",
+    "source": "D'al Lun e plij din chom da gousket.",
+    "target": "Le lundi, j'aime bien rester dormir.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "version",
+    "source": "Ar Yaou a zo un devezh evel ar re all.",
+    "target": "Le jeudi est une journée comme les autres.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "theme",
+    "source": "Où seras-tu jeudi ?",
+    "target": "Pelec'h e vi diriaou ?",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "theme",
+    "source": "Nous aimons nous reposer le mardi.",
+    "target": "Plijout a ra dimp diskuizhañ d'ar Meurzh.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "theme",
+    "source": "Avec qui sera Mrs Robinson ce vendredi ?",
+    "target": "Gant piv e vo Mrs Robinson digwener ?",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "theme",
+    "source": "Le mercredi, c'est la journée des enfants.",
+    "target": "Ar Merc'her eo devezh ar vugale.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi..."
+  },
+  {
+    "type": "theme",
+    "source": "Le dimanche, j'aime travailler.",
+    "target": "D'ar Sul e plij din labourat.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi... Faute fréquente à éviter : *Disul e plij din labourat. Disul = ce dimanche ; pour une habitude, on dit d'ar Sul."
+  },
+  {
+    "type": "theme",
+    "source": "Elle n'aime pas le mardi.",
+    "target": "Ar Meurzh ne blij ket dezhi.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi... Faute fréquente à éviter : *An dimeurzh ne blij ket dezhi. Autres réponses possibles : Ne blij ket ar Meurzh dezhi.."
+  },
+  {
+    "type": "theme",
+    "source": "Mercredi, je serai fatigué.",
+    "target": "Dimerc'her e vin skuizh.",
+    "explanation": "Kentel 13 — Jours : d'ar Sul, d'al Lun, d'ar Meurzh... = le dimanche, le lundi... (habitude) ; disul, dilun, dimeurzh, dimerc'her, diriaou, digwener, disadorn = ce dimanche-ci, ce lundi... Faute fréquente à éviter : *Ar Merc'her e vin skuizh. Pour un jour précis, on dit dimerc'her."
+  },
+  {
+    "type": "theme",
+    "source": "Je t'ai écrit le 13 novembre.",
+    "target": "Skrivet em boa dit d'an drizek a viz Du.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). On peut aussi dire d'an trizek. Autres réponses possibles : D'an drizek a viz Du em boa skrivet dit. / Me am boa skrivet dit d'an drizek a viz Du.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle viendra le 17 juin.",
+    "target": "Dont a ray d'ar seitek a viz Even.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Autres réponses possibles : D'ar seitek a viz Even e teuy.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous sommes le 3 août.",
+    "target": "An dri a viz Eost emaomp.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Autres réponses possibles : An tri a viz Eost emaomp.."
+  },
+  {
+    "type": "theme",
+    "source": "Le 4 septembre sera une belle journée.",
+    "target": "Ar bevar a viz Gwengolo a vo un devezh kaer.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Autres réponses possibles : Ar pevar a viz Gwengolo a vo un devezh kaer.."
+  },
+  {
+    "type": "theme",
+    "source": "Le 1er avril je téléphone à ma mère.",
+    "target": "Pellgomz a ran d'am mamm d'an unan a viz Ebrel.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Autres réponses possibles : D'an unan a viz Ebrel e pellgomzan d'am mamm.."
+  },
+  {
+    "type": "version",
+    "source": "An daou a viz Du a vo un devezh kaer.",
+    "target": "Le 2 novembre sera une belle journée.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre)."
+  },
+  {
+    "type": "version",
+    "source": "D'an daou a viz Du e vo un devezh kaer.",
+    "target": "Le 2 novembre, il y aura une belle journée.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre)."
+  },
+  {
+    "type": "theme",
+    "source": "Je viendrai le 3 novembre.",
+    "target": "Dont a rin d'an dri a viz Du.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Faute fréquente à éviter : *Dont a rin an dri a viz Du. « Le 3 » complément de temps = d'an dri."
+  },
+  {
+    "type": "theme",
+    "source": "Nous sommes le 10 janvier.",
+    "target": "An dek a viz Genver emaomp.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Faute fréquente à éviter : *D'an dek a viz Genver emaomp. Après emaomp, pas de da."
+  },
+  {
+    "type": "theme",
+    "source": "Le dimanche 3 juin, je laverai le chien.",
+    "target": "D'ar Sul tri a viz Even e walc'hin ar c'hi.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre)."
+  },
+  {
+    "type": "theme",
+    "source": "Le 5, nous serons à Porto.",
+    "target": "D'ar bemp e vimp e Porto.",
+    "explanation": "Kentel 13 — La date : (d')an + nombre + a viz + mois (d'an drizek a viz Du = le 13 novembre). Autres réponses possibles : D'ar bemp e vefomp e Porto.."
+  },
+  {
+    "type": "version",
+    "source": "Ne ran nemet sellet ouzh an abadenn-se.",
+    "target": "Je ne fais que regarder cette émission.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...)."
+  },
+  {
+    "type": "version",
+    "source": "O sellet ouzhimp e oa ar re-se.",
+    "target": "Ils nous regardaient.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...). Autres traductions possibles : Elles nous regardaient.."
+  },
+  {
+    "type": "version",
+    "source": "Na sell ket ouzhin mar plij.",
+    "target": "Ne me regarde pas, s'il te plaît.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...)."
+  },
+  {
+    "type": "theme",
+    "source": "Il faut regarder l'écran.",
+    "target": "Ret eo sellet ouzh ar skramm.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...). Autres réponses possibles : Ret eo sellet deuzh ar skramm. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Autrefois, il ne la regardait pas.",
+    "target": "Gwezhall ne selle ket outi.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...). Autres réponses possibles : Gwezhall ne selle ket deuzouti. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Notre voisin ne nous regarde pas.",
+    "target": "Ne sell ket hon amezeg ouzhimp.",
+    "explanation": "Kentel 14 — Sellet ouzh = regarder ; ouzh se conjugue : ouzhin, ouzhit, outañ, outi, ouzhimp, ouzhoc'h, outo (parlé : deuzh...). Autres réponses possibles : Ne sell ket hon amezeg deuzoudomp. (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "N'en do ket truez ouzh den ebet.",
+    "target": "Il n'aura pitié de personne.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh."
+  },
+  {
+    "type": "version",
+    "source": "Perak kaout gwarizi outo ?",
+    "target": "Pourquoi éprouver de la jalousie à leur égard ?",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh."
+  },
+  {
+    "type": "version",
+    "source": "Arabat bezañ drouk ouzh ar gwez.",
+    "target": "Il ne faut pas être méchant avec les arbres.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh."
+  },
+  {
+    "type": "version",
+    "source": "Perak oc'h fachet outo ?",
+    "target": "Pourquoi êtes-vous fâchés avec eux ?",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh."
+  },
+  {
+    "type": "theme",
+    "source": "Mon chat hait mon perroquet.",
+    "target": "Ma c'hazh en deus kaz ouzh ma feroked.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh. Autres réponses possibles : Ma c'hazh 'neus kaz deuzh ma feroked. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Ma nièce n'a pas pitié de son mari.",
+    "target": "Ma nizez n'he deus ket truez ouzh he gwaz.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh. Autres réponses possibles : Ma nizez 'deus ket truez deuzh he gwaz. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Ses voisins sont furieux à votre égard.",
+    "target": "Fuloret eo e amezeien ouzhoc'h.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh. Si « ses » = d'elle : hec'h amezeien. Autres réponses possibles : Fuloret eo hec'h amezeien ouzhoc'h.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle reste sourde à mon égard.",
+    "target": "Chom a ra bouzar ouzhin.",
+    "explanation": "Kentel 14 — Tournures avec ouzh : kaout truez / kaz / gwarizi ouzh, bezañ drouk / fachet / fuloret ouzh. Autres réponses possibles : Chom a ra bouzar deuzoudon. (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "Mont ouzh taol.",
+    "target": "Aller à table.",
+    "explanation": "Kentel 14 — Ouzh (proximité) ≠ diouzh (éloignement). Autres traductions possibles : S'attabler.."
+  },
+  {
+    "type": "version",
+    "source": "Mont diouzh taol.",
+    "target": "Quitter la table.",
+    "explanation": "Kentel 14 — Ouzh (proximité) ≠ diouzh (éloignement)."
+  },
+  {
+    "type": "version",
+    "source": "N'oc'h ket disheñvel diouzhin.",
+    "target": "Vous n'êtes pas différent de moi.",
+    "explanation": "Kentel 14 — Heñvel ouzh = semblable à ; disheñvel diouzh = différent de."
+  },
+  {
+    "type": "version",
+    "source": "Heñveloc'h eo ouzh dour evit ouzh gwin.",
+    "target": "Cela ressemble plus à de l'eau qu'à du vin.",
+    "explanation": "Kentel 14 — Heñvel ouzh = semblable à ; disheñvel diouzh = différent de."
+  },
+  {
+    "type": "theme",
+    "source": "Elle ressemble à un steak.",
+    "target": "Heñvel eo ouzh ur steak.",
+    "explanation": "Kentel 14 — Heñvel ouzh = semblable à ; disheñvel diouzh = différent de. Autres réponses possibles : Heñvel eo deuzh ur steak. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne suis pas différent de Bruce Willis.",
+    "target": "N'on ket disheñvel diouzh Bruce Willis.",
+    "explanation": "Kentel 14 — Heñvel ouzh = semblable à ; disheñvel diouzh = différent de. Autres réponses possibles : N'on ket disheñvel deuzh Bruce Willis. (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "N'ho poa ket ezhomm eus an dud-se.",
+    "target": "Vous n'aviez pas besoin de ces gens.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "version",
+    "source": "Lafesse a blij dezhañ ober goap eus an dud.",
+    "target": "Lafesse aime se moquer des gens.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "version",
+    "source": "Soñj en do eus e wreg e-pad pell.",
+    "target": "Il se souviendra de sa femme pendant longtemps.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "version",
+    "source": "Ret e vo din delc'her soñj eus se.",
+    "target": "Il faudra que je me rappelle de ça.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "version",
+    "source": "Komz a ra kalz eus e vakañsoù.",
+    "target": "Il parle beaucoup de ses vacances.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus. Autres traductions possibles : Elle parle beaucoup de ses vacances.."
+  },
+  {
+    "type": "theme",
+    "source": "Il a besoin de son dentiste.",
+    "target": "Ezhomm en deus eus e zentour.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "theme",
+    "source": "Nous avons parlé de votre radiateur.",
+    "target": "Komzet hon eus eus ho tommerez.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne se souvient pas de mon nom.",
+    "target": "N'en deus ket soñj eus ma anv.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "theme",
+    "source": "Retenez cette leçon.",
+    "target": "Dalc'hit soñj eus ar gentel-mañ.",
+    "explanation": "Kentel 15 — La préposition eus (de) : kaout ezhomm eus, ober goap eus, kaout soñj eus, komz eus."
+  },
+  {
+    "type": "version",
+    "source": "Perak em eus graet goap anezhi ?",
+    "target": "Pourquoi me suis-je moqué d'elle ?",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "version",
+    "source": "Tregont anezho a zo kouezhet en dour.",
+    "target": "Trente d'entre eux sont tombés dans l'eau.",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "version",
+    "source": "N'en do ket soñj ac'hanomp.",
+    "target": "Il ne se souviendra pas de nous.",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "version",
+    "source": "Klevet ec'h eus komz eus Zeus ?",
+    "target": "Tu as entendu parler de Zeus ?",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "theme",
+    "source": "Mardi, elle se souviendra de lui.",
+    "target": "Dimeurzh he do soñj anezhañ.",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "theme",
+    "source": "Il ne faut pas que je me moque de toi.",
+    "target": "Arabat eo din ober goap ac'hanout.",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho. eo peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Pourquoi a-t-elle besoin de moi ?",
+    "target": "Perak he deus ezhomm ac'hanon ?",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho."
+  },
+  {
+    "type": "theme",
+    "source": "Trois d'entre nous entendent bien.",
+    "target": "Tri ac'hanomp a glev brav.",
+    "explanation": "Kentel 15 — Pour dire « de moi », « de lui »... on utilise ac'hanon, ac'hanout, anezhañ, anezhi, ac'hanomp, ac'hanoc'h, anezho. Autres réponses possibles : Tri ac'hanomp a glev mat.."
+  },
+  {
+    "type": "version",
+    "source": "Lakaat a rin anezho er gegin.",
+    "target": "Je les mettrai dans la cuisine.",
+    "explanation": "Kentel 15 — Ac'hanon, anezhañ... peuvent être COD (me, le) ou signifier « de moi », « de lui »."
+  },
+  {
+    "type": "version",
+    "source": "Plijout a ra din ober goap anezho.",
+    "target": "J'aime me moquer d'eux.",
+    "explanation": "Kentel 15 — Ac'hanon, anezhañ... peuvent être COD (me, le) ou signifier « de moi », « de lui »."
+  },
+  {
+    "type": "version",
+    "source": "Klevet en deus ac'hanon.",
+    "target": "Il m'a entendu.",
+    "explanation": "Kentel 15 — Ac'hanon, anezhañ... peuvent être COD (me, le) ou signifier « de moi », « de lui »."
+  },
+  {
+    "type": "version",
+    "source": "Klevet en deus komz ac'hanon.",
+    "target": "Il a entendu parler de moi.",
+    "explanation": "Kentel 15 — Ac'hanon, anezhañ... peuvent être COD (me, le) ou signifier « de moi », « de lui »."
+  },
+  {
+    "type": "version",
+    "source": "Ne vezan ket klañv james.",
+    "target": "Je ne suis jamais malade.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt)."
+  },
+  {
+    "type": "version",
+    "source": "Pa vezont mezv e vezont torr-penn.",
+    "target": "Quand ils sont soûls, ils sont chiants.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt)."
+  },
+  {
+    "type": "version",
+    "source": "Alies e vezit skuizh.",
+    "target": "Vous êtes souvent fatigués.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt)."
+  },
+  {
+    "type": "version",
+    "source": "Pa vezez e Biarritz e vezez trist.",
+    "target": "Quand tu es à Biarritz, tu es triste.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt)."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'est jamais malade.",
+    "target": "Ne vez ket klañv james.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt). Autres réponses possibles : Ne vez ket klañv morse.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous sommes dans l'eau tous les jours.",
+    "target": "Bemdez e vezomp en dour.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt). Autres réponses possibles : Bemdez e vêmp 'ba'n dour. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Que fais-tu quand tu es avec ma femme ?",
+    "target": "Petra a rez pa vezez gant ma gwreg ?",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt). Autres réponses possibles : Petra a rez pa vêz gant ma gwreg ?."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis triste quand il fait beau.",
+    "target": "Trist e vezan pa vez brav an amzer.",
+    "explanation": "Kentel 16 — Bezañ, forme d'habitude au présent : vezan, vezez, vez, vezomp, vezit, vezont (ou vên, vêz, vêmp, vêc'h, vênt). Autres réponses possibles : Trist e vên pa vez brav an amzer. / Pa vez brav an amzer e vezan trist.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu es sage.",
+    "target": "Fur out.",
+    "explanation": "Kentel 16 — L'opposition actualité (eo, emañ) / habitude (vez) n'est pas facultative. Fait actuel : bezañ au présent simple."
+  },
+  {
+    "type": "theme",
+    "source": "Quand tu es triste, tu es sage.",
+    "target": "Pa vezez trist e vezez fur.",
+    "explanation": "Kentel 16 — L'opposition actualité (eo, emañ) / habitude (vez) n'est pas facultative. Habitude : forme en vez. Autres réponses possibles : Pa vêz trist e vêz fur.."
+  },
+  {
+    "type": "theme",
+    "source": "Puisqu'il fait froid, je vais rester dans mon lit.",
+    "target": "Pa eo yen an amzer emaon o vont da chom em gwele.",
+    "explanation": "Kentel 16 — L'opposition actualité (eo, emañ) / habitude (vez) n'est pas facultative. Fait actuel : eo."
+  },
+  {
+    "type": "theme",
+    "source": "Quand il fait froid, je ne reste pas chez moi.",
+    "target": "Pa vez yen an amzer ne choman ket du-mañ.",
+    "explanation": "Kentel 16 — L'opposition actualité (eo, emañ) / habitude (vez) n'est pas facultative. Habitude : vez."
+  },
+  {
+    "type": "version",
+    "source": "Ne vezit ket sikouret ?",
+    "target": "On ne vous aide pas ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. (Vous n'êtes pas aidés ?)"
+  },
+  {
+    "type": "version",
+    "source": "Ne vez ket gwelet.",
+    "target": "On ne le voit pas.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. (Il n'est pas vu.) Autres traductions possibles : On ne la voit pas.."
+  },
+  {
+    "type": "version",
+    "source": "Selaouet e vezan.",
+    "target": "On m'écoute.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. (Je suis écouté.)"
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h e vez lakaet ar bara ?",
+    "target": "Où met-on le pain ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "version",
+    "source": "Da noz e vezont gwelet.",
+    "target": "On les voit la nuit.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. Autres traductions possibles : C'est la nuit qu'on les voit.."
+  },
+  {
+    "type": "version",
+    "source": "Penaos e vez graet se ?",
+    "target": "Comment fait-on ça ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "version",
+    "source": "Peseurt dañs a vez dañset eno ?",
+    "target": "Quelle danse danse-t-on là-bas ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "theme",
+    "source": "On ne les attend jamais.",
+    "target": "Ne vezont ket gortozet james.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. Autres réponses possibles : Ne vênt ket gortozet james.."
+  },
+  {
+    "type": "theme",
+    "source": "On ne te voit pas bien.",
+    "target": "Ne vezez ket gwelet brav.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. Autres réponses possibles : Ne vezez ket gwelet mat. / Ne vêz ket gwelet brav.."
+  },
+  {
+    "type": "theme",
+    "source": "Quel pain mange-t-on là-bas ?",
+    "target": "Peseurt bara a vez debret eno ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "theme",
+    "source": "On ne dit pas ça.",
+    "target": "Ne vez ket lavaret se.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. Autres réponses possibles : Ne vez ket lâret se.."
+  },
+  {
+    "type": "theme",
+    "source": "Comment fume-t-on ça ?",
+    "target": "Penaos e vez butunet se ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "theme",
+    "source": "Comment dit-on « sglorb » en klingon ?",
+    "target": "Penaos e vez lâret « sglorb » e klingon ?",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel."
+  },
+  {
+    "type": "theme",
+    "source": "On ne nous trouve jamais.",
+    "target": "Ne vezomp ket kavet james.",
+    "explanation": "Kentel 17 — La forme d'habitude est très employée au passif ; elle se traduit souvent par le « on » impersonnel. Autres réponses possibles : Ne vêmp ket kavet james.."
+  },
+  {
+    "type": "theme",
+    "source": "La nuit, les jeunes boivent du bacardi.",
+    "target": "Da noz e vez evet bacardi gant ar re yaouank.",
+    "explanation": "Kentel 17 — Au passif, le COD de la phrase active devient sujet ; l'ancien sujet est élidé ou introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Ce n'est pas ça que lisent les gens.",
+    "target": "N'eo ket se a vez lennet gant an dud.",
+    "explanation": "Kentel 17 — Au passif, le COD de la phrase active devient sujet ; l'ancien sujet est élidé ou introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'est-ce que mangent les Brésiliens ?",
+    "target": "Petra a vez debret gant ar Vrazilianed ?",
+    "explanation": "Kentel 17 — Au passif, le COD de la phrase active devient sujet ; l'ancien sujet est élidé ou introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "C'est ce que les vieux disent.",
+    "target": "Se a vez lâret gant ar re gozh.",
+    "explanation": "Kentel 17 — Au passif, le COD de la phrase active devient sujet ; l'ancien sujet est élidé ou introduit par gant."
+  },
+  {
+    "type": "theme",
+    "source": "Comment appelle-t-on un chien en wolof ?",
+    "target": "Petra a vez graet eus ur c'hi e wolof ?",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ? Autres réponses possibles : Petra 'vez graet deus ur c'hi e wolof ? (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Comment s'appelle leur kangourou ?",
+    "target": "Petra a vez graet eus o c'hangourou ?",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ? Autres réponses possibles : Petra 'vez graet deus o c'hangourou ? (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Comment dit-on ça en breton ?",
+    "target": "Petra a vez graet eus se e brezhoneg ?",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ? Autres réponses possibles : Petra 'vez graet deus se e brezhoneg ? (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "Ne blij ket din pa vez graet « minus » ac'hanon.",
+    "target": "Je n'aime pas quand on m'appelle « minus ».",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ?"
+  },
+  {
+    "type": "version",
+    "source": "Arabat ober « Edwige » anezhi.",
+    "target": "Il ne faut pas l'appeler « Edwige ».",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ?"
+  },
+  {
+    "type": "version",
+    "source": "« Chouchou » a vez graet anezhañ.",
+    "target": "On l'appelle « Chouchou ».",
+    "explanation": "Kentel 17 — Ober eus = appeler, dire : petra a vez graet eus... ? = comment appelle-t-on / comment dit-on... ?"
+  },
+  {
+    "type": "theme",
+    "source": "On ne t'entend pas.",
+    "target": "Ne vezez ket klevet.",
+    "explanation": "Kentel 17 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Ne vez ket klevet ac'hanout. Autres réponses possibles : Ne vêz ket klevet.."
+  },
+  {
+    "type": "theme",
+    "source": "Où les met-on ?",
+    "target": "Pelec'h e vezont lakaet ?",
+    "explanation": "Kentel 17 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Pelec'h e vez lakaet anezho ?. Autres réponses possibles : Pelec'h e vênt lakaet ?."
+  },
+  {
+    "type": "theme",
+    "source": "On le voit souvent.",
+    "target": "Alies e vez gwelet.",
+    "explanation": "Kentel 17 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Alies e vez gwelet anezhañ."
+  },
+  {
+    "type": "theme",
+    "source": "On nous écoute.",
+    "target": "Selaouet e vezomp.",
+    "explanation": "Kentel 17 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Selaouet e vez ac'hanomp. Autres réponses possibles : Selaouet e vêmp.."
+  },
+  {
+    "type": "version",
+    "source": "Ne vezen ket eno alies.",
+    "target": "Je n'étais pas souvent là-bas.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Petra a raec'h pa vezec'h klañv ?",
+    "target": "Que faisiez-vous quand vous étiez malade ?",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Pa vezent en dour e vezent trist.",
+    "target": "Quand ils étaient dans l'eau, ils étaient tristes.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Fur e veze an dud ?",
+    "target": "Les gens étaient sages ?",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent. Autres traductions possibles : Les gens se tenaient bien ?."
+  },
+  {
+    "type": "version",
+    "source": "Bep miz e vezemp siferniet.",
+    "target": "Nous étions enrhumés tous les mois.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Ma fri a veze ruz alies.",
+    "target": "Mon nez était souvent rouge.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Ne vezes ket er gêr james.",
+    "target": "Tu n'étais jamais à la maison.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "theme",
+    "source": "Il était tous les soirs chez moi.",
+    "target": "Bemnoz e veze du-mañ.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'étions pas souvent à l'école.",
+    "target": "Ne vezemp ket er skol alies.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "theme",
+    "source": "Que faisaient-ils quand ils étaient fatigués ?",
+    "target": "Petra a raent pa vezent skuizh ?",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "theme",
+    "source": "Quand il faisait froid, j'étais triste.",
+    "target": "Pa veze yen an amzer e vezen trist.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent. an amzer peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Quand elle était avec moi, j'étais heureux.",
+    "target": "Pa veze honnezh ganin e veze brav din.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent. honnezh peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Il fallait les réveiller à sept heures tous les jours.",
+    "target": "Bemdez e veze ret dihuniñ anezho da seizh eur.",
+    "explanation": "Kentel 18 — Bezañ, forme d'habitude au passé : vezen, vezes, veze, vezemp, vezec'h, vezent."
+  },
+  {
+    "type": "version",
+    "source": "Ne vezec'h ket komprenet.",
+    "target": "On ne vous comprenait pas.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "version",
+    "source": "Ne veze ket debret se gwezhall.",
+    "target": "On ne mangeait pas ça autrefois.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "version",
+    "source": "Da noz e veze graet sangria.",
+    "target": "Le soir, on faisait de la sangria.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "version",
+    "source": "Gwelet mat e veze an tour.",
+    "target": "On voyait bien la tour.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "version",
+    "source": "Alies-mat e vezemp klasket.",
+    "target": "On nous cherchait souvent.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "theme",
+    "source": "On ne parlait pas le français autrefois.",
+    "target": "Ne veze ket komzet galleg gwezhall.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "theme",
+    "source": "On n'entendait pas les chiens.",
+    "target": "Ne veze ket klevet ar chas.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "theme",
+    "source": "Que disait-on ?",
+    "target": "Petra a veze lavaret ?",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel). Autres réponses possibles : Petra a veze lâret ?."
+  },
+  {
+    "type": "theme",
+    "source": "On ne les voyait pas bien.",
+    "target": "Ne vezent ket gwelet mat.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel). Autres réponses possibles : Ne vezent ket gwelet brav.."
+  },
+  {
+    "type": "theme",
+    "source": "On nous réveillait tous les soirs.",
+    "target": "Dihunet e vezemp bemnoz.",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel). Autres réponses possibles : Bemnoz e vezemp dihunet. / Ni a veze dihunet bemnoz.."
+  },
+  {
+    "type": "theme",
+    "source": "Comment faisait-on ça ?",
+    "target": "Penaos e veze graet se ?",
+    "explanation": "Kentel 18 — La forme d'habitude au passé et le passif (« on » impersonnel)."
+  },
+  {
+    "type": "version",
+    "source": "Gant piv e veze sikouret ?",
+    "target": "Qui l'aidait ?",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "version",
+    "source": "Dihunet e vezen gant ma breur.",
+    "target": "Mon frère me réveillait.",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "version",
+    "source": "Petra a veze prenet gant ar re-se ?",
+    "target": "Qu'achetaient-ils ?",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant. Autres traductions possibles : Qu'achetaient-elles ?."
+  },
+  {
+    "type": "theme",
+    "source": "C'est ce vin que buvaient mes parents.",
+    "target": "Ar gwin-mañ a veze evet gant ma zud.",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant. Autres réponses possibles : Ar gwin-mañ an hini a veze evet gant ma zud.."
+  },
+  {
+    "type": "theme",
+    "source": "Qui disait ça ?",
+    "target": "Gant piv e veze lavaret se ?",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant. Autres réponses possibles : Gant piv e veze lâret se ?."
+  },
+  {
+    "type": "theme",
+    "source": "Sa femme le réveillait tôt.",
+    "target": "Dihunet e veze abred gant e wreg.",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant. Autres réponses possibles : Hennezh a veze dihunet abred gant e wreg. / Abred e veze dihunet gant e wreg.."
+  },
+  {
+    "type": "theme",
+    "source": "Le soleil ne nous gênait pas.",
+    "target": "Ne vezemp ket lakaet diaes gant an heol.",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "theme",
+    "source": "Vos frères ne buvaient pas d'eau.",
+    "target": "Ne veze ket evet dour gant ho preudeur.",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "theme",
+    "source": "La pluie ne les réveillait pas ?",
+    "target": "Ne vezent ket dihunet gant ar glav ?",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "theme",
+    "source": "Les autres ne vous attendaient pas ?",
+    "target": "Ne vezec'h ket gortozet gant ar re all ?",
+    "explanation": "Kentel 18 — Au passif, le complément d'agent est introduit par la préposition gant."
+  },
+  {
+    "type": "theme",
+    "source": "On ne les entendait pas.",
+    "target": "Ne vezent ket klevet.",
+    "explanation": "Kentel 18 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Ne veze ket klevet anezho."
+  },
+  {
+    "type": "theme",
+    "source": "Où la trouvait-on ?",
+    "target": "Pelec'h e veze kavet honnezh ?",
+    "explanation": "Kentel 18 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Pelec'h e veze kavet anezhi ?. honnezh peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "On ne nous voyait pas.",
+    "target": "Ne vezemp ket gwelet.",
+    "explanation": "Kentel 18 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Ne veze ket gwelet ac'hanomp."
+  },
+  {
+    "type": "theme",
+    "source": "On t'aidait ?",
+    "target": "Sikouret e vezes ?",
+    "explanation": "Kentel 18 — Au passif, le pronom COD devient le sujet du verbe conjugué. Faute fréquente à éviter : *Sikouret e veze ac'hanout ?."
+  },
+  {
+    "type": "version",
+    "source": "Pa'm bez arc'hant e vez brav din.",
+    "target": "Quand j'ai de l'argent, je suis heureux.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "Petra a rez pa'z pez arc'hant ?",
+    "target": "Que fais-tu quand tu as de l'argent ?",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "Alies he dez aon.",
+    "target": "Elle a souvent peur.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "N'ho pez ket naon james ?",
+    "target": "Vous n'avez jamais faim ?",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "N'hor bez ket sec'hed en ti-mañ.",
+    "target": "Nous n'avons pas soif dans cette maison.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "Plijadur o dez gantañ ?",
+    "target": "Éprouvent-ils du plaisir en sa compagnie ?",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "Kaer en dez sellet outi, hi ne sell ket outañ.",
+    "target": "Il a beau la regarder, elle ne le regarde pas.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Parfois, nous avons du mal à le comprendre.",
+    "target": "A-wezhioù hor bez poan o kompren anezhañ.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Quand je la regarde, j'ai envie de la manger.",
+    "target": "Pa sellan outi em bez c'hoant da zebriñ anezhi.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Elle n'a jamais faim quand elle est chez moi.",
+    "target": "N'he dez ket naon james pa vez du-mañ.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Avez-vous peur au cinéma ?",
+    "target": "Aon ho pez er sinema ?",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Le dimanche, il n'a jamais de lettre.",
+    "target": "D'ar Sul n'en dez ket lizher ebet james.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez. ket peut être omis."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ont souvent des nouvelles le mardi.",
+    "target": "Alies o dez keloù d'ar Meurzh.",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "theme",
+    "source": "Tu n'as jamais honte quand tu fais la fête ?",
+    "target": "N'az pez ket mezh james pa vezez o riboulat ?",
+    "explanation": "Kentel 19 — Kaout, forme d'habitude au présent : em bez, az pez, en dez, he dez, hor bez, ho pez, o dez."
+  },
+  {
+    "type": "version",
+    "source": "Pa'm bez evet gwin e vez brav din.",
+    "target": "Quand j'ai bu du vin, je suis heureux.",
+    "explanation": "Kentel 19 — La forme d'habitude de kaout sert aussi d'auxiliaire au « présent » composé."
+  },
+  {
+    "type": "version",
+    "source": "Honnezh a vez skuizh p'he dez dañset.",
+    "target": "Elle est (généralement) fatiguée quand elle a dansé.",
+    "explanation": "Kentel 19 — La forme d'habitude de kaout sert aussi d'auxiliaire au « présent » composé."
+  },
+  {
+    "type": "theme",
+    "source": "Que fais-tu quand tu as dormi ?",
+    "target": "Petra a rez pa'z pez kousket ?",
+    "explanation": "Kentel 19 — La forme d'habitude de kaout sert aussi d'auxiliaire au « présent » composé."
+  },
+  {
+    "type": "theme",
+    "source": "Quand il a compris, il a compris.",
+    "target": "Pa'n dez komprenet en dez komprenet.",
+    "explanation": "Kentel 19 — La forme d'habitude de kaout sert aussi d'auxiliaire au « présent » composé."
+  },
+  {
+    "type": "version",
+    "source": "N'em beze ket aon.",
+    "target": "Je n'avais pas peur.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze. Autres traductions possibles : Je n'avais pas l'habitude d'avoir peur.."
+  },
+  {
+    "type": "version",
+    "source": "Petra ho peze da zebriñ eno ?",
+    "target": "Qu'aviez-vous à manger là-bas ?",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze. Autres traductions possibles : Que vous donnait-on à manger là-bas ?."
+  },
+  {
+    "type": "version",
+    "source": "Alies o deze traoù da lâret din.",
+    "target": "Ils avaient souvent quelque chose à me dire.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "version",
+    "source": "Petra a raes pa'z peze poan-benn ?",
+    "target": "Que faisais-tu quand tu avais mal à la tête ?",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "version",
+    "source": "Bemnoz hor beze ur banne kafe da evañ.",
+    "target": "Tous les soirs, nous avions une tasse de café à boire.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze. Ur banne = un verre, une tasse, un bol."
+  },
+  {
+    "type": "version",
+    "source": "N'en deze ket poan-benn a-wezhioù ?",
+    "target": "Il n'avait pas mal à la tête parfois ?",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "version",
+    "source": "Dalc'hmat he deze un dra bennak da lavaret.",
+    "target": "Elle avait toujours quelque chose à dire.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Vous aviez souvent mal au dos ?",
+    "target": "Alies ho peze poan-gein ?",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Que faisais-tu quand tu avais de l'argent ?",
+    "target": "Petra a raes pa'z peze arc'hant ?",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Elle n'avait jamais rien à dire.",
+    "target": "N'he deze ket netra da lavaret morse.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze. ket peut être omis. Autres réponses possibles : James n'he deze ket mann ebet da lâret.."
+  },
+  {
+    "type": "theme",
+    "source": "Quand nous avions faim, nous mangions.",
+    "target": "P'hor beze naon e tebremp.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Parfois, il recevait une lettre à midi.",
+    "target": "A-wezhioù en deze ul lizher da greisteiz.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Quand j'avais de la fièvre, j'étais fatigué.",
+    "target": "Pa'm beze terzhienn e vezen skuizh.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze."
+  },
+  {
+    "type": "theme",
+    "source": "Mes enfants avaient du mal à se lever.",
+    "target": "Poan o deze ma bugale o sevel.",
+    "explanation": "Kentel 20 — Kaout, forme d'habitude au passé : em beze, az peze, en deze, he deze, hor beze, ho peze, o deze. Autres réponses possibles : Ma bugale o deze bec'h o sevel.."
+  },
+  {
+    "type": "version",
+    "source": "Pa'm beze kousket mat e veze brav din.",
+    "target": "Quand j'avais bien dormi, j'étais heureux.",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "version",
+    "source": "Te a veze skuizh pa'z peze labouret.",
+    "target": "Toi, tu étais fatigué quand tu avais travaillé.",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "version",
+    "source": "P'o deze arc'hant e prenent traoù.",
+    "target": "Quand ils avaient de l'argent, ils achetaient des choses.",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "theme",
+    "source": "Que faisait-il quand il n'avait pas compris ?",
+    "target": "Petra a rae pa n'en deze ket komprenet ?",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "theme",
+    "source": "Quand j'avais bu, je n'avais plus soif.",
+    "target": "Pa'm beze evet n'em beze ket sec'hed ken.",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "theme",
+    "source": "Quand tu avais trop dormi, tu avais honte.",
+    "target": "Pa'z peze kousket re ez peze mezh.",
+    "explanation": "Kentel 20 — La forme d'habitude au passé sert d'auxiliaire au « passé » composé (plus-que-parfait)."
+  },
+  {
+    "type": "version",
+    "source": "Ar plac'h a gare he doa ur fri bras.",
+    "target": "La fille qu'il aimait avait un grand nez.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "Ar morzhol a vez gwelet a zo din.",
+    "target": "Le marteau que l'on voit m'appartient.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "An traoù a vutunont a zo drol.",
+    "target": "Les choses qu'ils fument sont bizarres.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "Ar vaouez a garez a zo dimezet.",
+    "target": "La femme que tu aimes est mariée.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "theme",
+    "source": "La musique que vous entendiez était belle.",
+    "target": "Ar sonerezh a glevec'h a oa kaer.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Autres réponses possibles : Ar muzik a glevec'h a oa kaer.."
+  },
+  {
+    "type": "theme",
+    "source": "Le garçon qu'elle verra est sourd.",
+    "target": "Ar paotr a welo a zo bouzar.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "theme",
+    "source": "J'aime la fille que tu aimes.",
+    "target": "Karet a ran ar plac'h a garez.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Autres réponses possibles : Me a gar ar plac'h a garez.."
+  },
+  {
+    "type": "theme",
+    "source": "L'odeur que nous sentions était étrange.",
+    "target": "Ar c'hwezh a santemp a oa drol.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Autres réponses possibles : Ar c'hwezh a veze santet a oa drol.."
+  },
+  {
+    "type": "version",
+    "source": "Ar plac'h a gano a vo paeet mat.",
+    "target": "La fille qui chantera sera bien payée.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "An hini a gousk mat en deus chañs.",
+    "target": "Celui qui dort bien a de la chance.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "Komzet em eus gant ar re a oar.",
+    "target": "J'ai parlé avec ceux qui savent.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "version",
+    "source": "An den a vo saludet a zo dentour.",
+    "target": "La personne que l'on saluera est dentiste.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français."
+  },
+  {
+    "type": "theme",
+    "source": "Les gens qui chantaient étaient bêtes.",
+    "target": "An dud a oa o kanañ a oa sot.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Sens différent (habitude) : An dud a gane a oa sot."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai vu le chat qui rit.",
+    "target": "Gwelet em eus ar c'hazh a c'hoarzh.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Sens différent (en train de rire) : Gwelet em eus ar c'hazh a oa o c'hoarzhin."
+  },
+  {
+    "type": "theme",
+    "source": "Ils préfèrent les gens qui parlent bien.",
+    "target": "Gwell eo gante an dud a gomz mat.",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Autres réponses possibles : Gwelloc'h eo gante an dud a gomz mat.."
+  },
+  {
+    "type": "theme",
+    "source": "Connais-tu le cheval qui parle ?",
+    "target": "Anavezout a rez ar marc'h a gomz ?",
+    "explanation": "Kentel 21 — La particule verbale a équivaut au pronom relatif « que » / « qui » du français. Sens différent (en train de parler) : ...ar marc'h a zo o komz ? Autres réponses possibles : Anavout a rez ar marc'h a gomz ?."
+  },
+  {
+    "type": "version",
+    "source": "Ne gomz ket gant ar re na blijont ket dezhi.",
+    "target": "Elle ne parle pas à ceux qu'elle n'aime pas.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "version",
+    "source": "An ti na vez ket gwelet a zo din.",
+    "target": "La maison que l'on ne voit pas m'appartient.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "version",
+    "source": "An traoù na brenent ket a oa re ger.",
+    "target": "Les choses qu'ils n'achetaient pas étaient trop chères.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "version",
+    "source": "An traoù na ginnigan ket deoc'h a zo fall.",
+    "target": "Les choses que je ne vous propose pas sont mauvaises.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "theme",
+    "source": "Ceux qui n'aiment pas le foot sont des gens biens.",
+    "target": "Ar re na blij ket ar foot dezho a zo tud vat.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as vu celui qui parle quechua ?",
+    "target": "Gwelet ec'h eus an hini a gomz quechua ?",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives. Sens différent (en train de parler) : ...an hini a zo o komz quechua ?"
+  },
+  {
+    "type": "theme",
+    "source": "Les étudiants qui ne travaillent pas sont efficaces.",
+    "target": "Ar studierien na labouront ket a zo efedus.",
+    "explanation": "Kentel 21 — La particule verbale na introduit les relatives négatives."
+  },
+  {
+    "type": "version",
+    "source": "Ar c'harr o deus torret a zo torret.",
+    "target": "La voiture qu'ils ont cassée est cassée.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "version",
+    "source": "An taolioù az poa kollet a zo bet kavet.",
+    "target": "Les tables que tu avais perdues ont été trouvées.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "theme",
+    "source": "Les gens que j'ai kidnappés sont chiants.",
+    "target": "An dud am eus kidnappet a zo torr-penn.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "theme",
+    "source": "Le perroquet que vous m'aviez vendu est mort.",
+    "target": "Ar peroked ho poa gwerzhet din a zo marv.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "version",
+    "source": "An abadenn emaon o selaou a zo skrijus.",
+    "target": "L'émission que j'écoute fait frémir.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "version",
+    "source": "Ar boued emaint o tebriñ a zo fall !",
+    "target": "La nourriture qu'ils sont en train de manger est mauvaise !",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "theme",
+    "source": "Le vin que tu es en train de boire est très vieux.",
+    "target": "Ar gwin emaout oc'h evañ a zo gwall gozh.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "theme",
+    "source": "Le gangster qu'ils sont en train de chercher est gros.",
+    "target": "Ar gangster emaint o klask a zo tev.",
+    "explanation": "Kentel 21 — Il existe plusieurs cas où l'on n'écrit pas la particule relative a (devant kaout, emaon...)."
+  },
+  {
+    "type": "version",
+    "source": "Anavezout a ra un den hag a oar ur bern traoù.",
+    "target": "Il connaît une personne qui sait un tas de choses.",
+    "explanation": "Kentel 21 — Avec un sujet ou un COD indéfini, on peut ajouter ha(g) devant la particule."
+  },
+  {
+    "type": "version",
+    "source": "Klevet o deus unan ha n'eo ket fin.",
+    "target": "Ils ont entendu quelqu'un qui n'est pas intelligent.",
+    "explanation": "Kentel 21 — Avec un sujet ou un COD indéfini, on peut ajouter ha(g) devant la particule."
+  },
+  {
+    "type": "version",
+    "source": "Klevet em eus e oa echu.",
+    "target": "J'ai entendu dire que c'était fini.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives."
+  },
+  {
+    "type": "version",
+    "source": "Lavaret a ra e evan re.",
+    "target": "Il dit que je bois trop.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives. Autres traductions possibles : Elle dit que je bois trop.."
+  },
+  {
+    "type": "version",
+    "source": "Piv en deus kredet e komzent saozneg ?",
+    "target": "Qui a cru qu'ils parlaient anglais ?",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives."
+  },
+  {
+    "type": "version",
+    "source": "Ne soñj ket dimp e strevio.",
+    "target": "Nous ne pensons pas qu'il éternuera.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives."
+  },
+  {
+    "type": "version",
+    "source": "Kavout a rae deoc'h e komprenen ?",
+    "target": "Vous croyiez que je comprenais ?",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives."
+  },
+  {
+    "type": "theme",
+    "source": "Ils ont dit qu'ils étaient fatigués.",
+    "target": "Lavaret o deus e oant skuizh.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives. Autres réponses possibles : Lâret o deus e oant skuizh.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu ne penses pas qu'ils viendront.",
+    "target": "Ne gav ket dit e teuint.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives. Autres réponses possibles : Ne soñj ket dit e teuint. / Ne gav ket dit e teufont.."
+  },
+  {
+    "type": "theme",
+    "source": "Il me semblait que vous aimiez le reggae.",
+    "target": "Me a gave din e plije ar reggae deoc'h.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives. Autres réponses possibles : Kavout a rae din e plije ar reggae deoc'h.."
+  },
+  {
+    "type": "theme",
+    "source": "Vous aviez vu que nous étions là ?",
+    "target": "Gwelet ho poa e oamp aze ?",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis sûr qu'ils ne m'aiment pas.",
+    "target": "Sur on ne blijan ket dezho.",
+    "explanation": "Kentel 22 — La particule verbale e équivaut au « que » des subordonnées complétives. Autres réponses possibles : Me a zo sur ne blijan ket dezho.."
+  },
+  {
+    "type": "version",
+    "source": "Sur on en deus komzet gant ma gwreg.",
+    "target": "Je suis sûr qu'il a parlé à ma femme.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "version",
+    "source": "Kavout a rae din he doa komprenet.",
+    "target": "Je pensais qu'elle avait compris.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "theme",
+    "source": "Vous savez qu'elle a beaucoup d'enfants.",
+    "target": "Gouzout a rit he deus kalz bugale.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... Autres réponses possibles : Goût a rit he deus kalz bugale. / C'hwi a oar he deus ur bern bugale.."
+  },
+  {
+    "type": "theme",
+    "source": "Je savais que tu avais une maison.",
+    "target": "Gouzout a raen ez poa un ti.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... Autres réponses possibles : Goût a raen ez poa un ti.."
+  },
+  {
+    "type": "version",
+    "source": "Sur out eo gwir ?",
+    "target": "Tu es sûr que c'est vrai ?",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "version",
+    "source": "C'hwi a soñj deoc'h emaint o labourat ?",
+    "target": "Vous pensez qu'ils sont en train de travailler ?",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "version",
+    "source": "Lâret a reont int bet ganet e Brest.",
+    "target": "Ils disent qu'ils sont nés à Brest.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "version",
+    "source": "Goût a rez ez eus ur bern tud o c'hortoz.",
+    "target": "Tu sais qu'il y a beaucoup de gens à attendre.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ..."
+  },
+  {
+    "type": "theme",
+    "source": "Je sais que vous êtes plus grands que moi.",
+    "target": "Goût a ran oc'h brasoc'h evidon.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... On dit aussi egedon. Autres réponses possibles : Me a oar oc'h brasoc'h evidon.."
+  },
+  {
+    "type": "theme",
+    "source": "Tu es sûr qu'il y a un poisson dans le frigo ?",
+    "target": "Sur out ez eus ur pesk er frigo ?",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... Autres réponses possibles : Sur out zo ur pesk er frigo ? / Te a zo sur ez eus ur pesk er frigo ?."
+  },
+  {
+    "type": "theme",
+    "source": "Il pense que nous sommes en train de dormir.",
+    "target": "Kavout a ra dezhañ emaomp o kousket.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... Autres réponses possibles : Eñ a gav dezhañ emaomp o kousket. / Soñjal a ra dezhañ emaomp o kousket. / Eñ a soñj dezhañ emaomp o kousket.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous pensons que tu es trop jeune.",
+    "target": "Ni a soñj dimp out re yaouank.",
+    "explanation": "Kentel 22 — On n'écrit pas la particule e devant les formes de kaout (en deus, he doa...) ni devant eo, ez eus, emañ... Autres réponses possibles : Soñjal a ra dimp out re yaouank. / Kavout a ra dimp out re yaouank. / Ni a gav dimp out re yaouank.."
+  },
+  {
+    "type": "version",
+    "source": "Goût a raen ne oa ket gwir.",
+    "target": "Je savais que ce n'était pas vrai.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives."
+  },
+  {
+    "type": "version",
+    "source": "Lâret en deus ne zeuy ket.",
+    "target": "Il a dit qu'il ne viendrait pas.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives. Autres traductions possibles : Il a dit qu'il ne viendra pas.."
+  },
+  {
+    "type": "version",
+    "source": "Me a zo sur ne glevez ket ac'hanomp.",
+    "target": "Je suis sûr que tu ne nous entends pas.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives."
+  },
+  {
+    "type": "theme",
+    "source": "Nous savons qu'il ne nous voit pas.",
+    "target": "Goût a reomp ne wel ket ac'hanomp.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives. Autres réponses possibles : Ni a oar ne wel ket ac'hanomp.."
+  },
+  {
+    "type": "theme",
+    "source": "Il pense que nous ne viendrons pas.",
+    "target": "Kavout a ra dezhañ ne zeuimp ket.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives. Autres réponses possibles : Kavout a ra dezhañ ne zeufomp ket. / Soñjal a ra dezhañ ne zeuimp ket. / Eñ a gav dezhañ ne zeuimp ket.."
+  },
+  {
+    "type": "theme",
+    "source": "Il a dit qu'il n'avait pas de chance.",
+    "target": "Lâret en deus n'en doa ket chañs.",
+    "explanation": "Kentel 22 — La particule ne introduit les subordonnées complétives négatives. Autres réponses possibles : Lavaret en deus n'en doa ket chañs.."
+  },
+  {
+    "type": "theme",
+    "source": "Je sais que tu es fatigué.",
+    "target": "Goût a ran out skuizh.",
+    "explanation": "Kentel 22 — Dans la complétive, le verbe se conjugue avec la particule e (sans répéter le sujet). Faute fréquente à éviter : *Goût a ran te zo skuizh."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis sûr que ton frère est passé.",
+    "target": "Sur on eo bet da vreur.",
+    "explanation": "Kentel 22 — Dans la complétive, le verbe se conjugue avec la particule e (sans répéter le sujet). Faute fréquente à éviter : *Sur on eo da vreur bet."
+  },
+  {
+    "type": "theme",
+    "source": "Je suis sûr que les gens arrivent.",
+    "target": "Sur on emañ an dud o tont.",
+    "explanation": "Kentel 22 — Dans la complétive, le verbe se conjugue avec la particule e (sans répéter le sujet). Faute fréquente à éviter : *Sur on emañ o tont an dud."
+  },
+  {
+    "type": "version",
+    "source": "C'hoant en deus da zont ganimp.",
+    "target": "Il a envie de venir avec nous.",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h he deus c'hoant da skiañ ?",
+    "target": "Où a-t-elle envie de skier ?",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "N'em boa ket c'hoant da selaou ac'hanout.",
+    "target": "Je n'avais pas envie de t'écouter.",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Pourquoi as-tu envie de m'embrasser ?",
+    "target": "Perak ec'h eus c'hoant da bokat din ?",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Je n'ai pas envie de les regarder.",
+    "target": "N'em eus ket c'hoant da sellet outo.",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Vous avez envie de faire ça sur la table ?",
+    "target": "C'hoant hoc'h eus d'ober se war an daol ?",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Ils n'avaient pas envie de venir.",
+    "target": "N'o doa ket c'hoant da zont.",
+    "explanation": "Kentel 23 — L'envie : kaout c'hoant da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "Ezhomm he deus da welet anezhañ.",
+    "target": "Elle a besoin de le voir.",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "N'o deus ket ezhomm da labourat.",
+    "target": "Ils n'ont pas besoin de travailler.",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif. Autres traductions possibles : Elles n'ont pas besoin de travailler.."
+  },
+  {
+    "type": "version",
+    "source": "Ezhomm em boa da gousket un tamm.",
+    "target": "J'avais besoin de dormir un peu.",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Vous avez besoin de parler ?",
+    "target": "Ezhomm hoc'h eus da gomz ?",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Elle n'a pas besoin d'écrire.",
+    "target": "N'he deus ket ezhomm da skrivañ.",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'avions pas besoin d'acheter ça.",
+    "target": "N'hor boa ket ezhomm da brenañ se.",
+    "explanation": "Kentel 23 — Le besoin : kaout ezhomm da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "Aon am eus da ganañ se.",
+    "target": "J'ai peur de chanter ça.",
+    "explanation": "Kentel 23 — La peur : kaout aon da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "N'he doa ket aon da gouezhañ.",
+    "target": "Elle n'avait pas peur de tomber.",
+    "explanation": "Kentel 23 — La peur : kaout aon da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as peur de la voir ?",
+    "target": "Aon ec'h eus da welet anezhi ?",
+    "explanation": "Kentel 23 — La peur : kaout aon da + infinitif."
+  },
+  {
+    "type": "theme",
+    "source": "Ils n'ont pas peur de comprendre.",
+    "target": "N'o deus ket aon da gompren.",
+    "explanation": "Kentel 23 — La peur : kaout aon da + infinitif."
+  },
+  {
+    "type": "version",
+    "source": "Moaien a zo da baeañ gant ur gartenn ?",
+    "target": "Y a-t-il moyen de payer avec une carte ?",
+    "explanation": "Kentel 23 — La possibilité : moaien / tu a zo da + infinitif ; n'eus ket moaien / tu = impossible."
+  },
+  {
+    "type": "version",
+    "source": "N'eus ket tu da gompren ar re-se.",
+    "target": "Il est impossible de les comprendre.",
+    "explanation": "Kentel 23 — La possibilité : moaien / tu a zo da + infinitif ; n'eus ket moaien / tu = impossible."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'y a pas moyen de voir.",
+    "target": "N'eus ket moaien da welet.",
+    "explanation": "Kentel 23 — La possibilité : moaien / tu a zo da + infinitif ; n'eus ket moaien / tu = impossible."
+  },
+  {
+    "type": "theme",
+    "source": "Y a-t-il possibilité d'écouter ce disque ?",
+    "target": "Tu a zo da selaou ar bladenn-mañ ?",
+    "explanation": "Kentel 23 — La possibilité : moaien / tu a zo da + infinitif ; n'eus ket moaien / tu = impossible."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'avons pas besoin d'école ici.",
+    "target": "N'hon eus ket ezhomm da gaout skol ebet amañ.",
+    "explanation": "Kentel 23 — Avoir envie / besoin de quelque chose : kaout c'hoant / ezhomm da gaout + nom. Autres réponses possibles : 'Meump ket ezhomm da gaout skol ebet amañ. (parlé)."
+  },
+  {
+    "type": "theme",
+    "source": "Tu as envie d'une gifle ?",
+    "target": "C'hoant ec'h eus da gaout ur skouarnad ?",
+    "explanation": "Kentel 23 — Avoir envie / besoin de quelque chose : kaout c'hoant / ezhomm da gaout + nom. Autres réponses possibles : C'hoant 'teus da gaout ur skouarnad ? (parlé)."
+  },
+  {
+    "type": "version",
+    "source": "Perak kaout aon dirak ar moustiked ?",
+    "target": "Pourquoi avoir peur des moustiques ?",
+    "explanation": "Kentel 23 — Avoir peur de quelqu'un : kaout aon dirak."
+  },
+  {
+    "type": "theme",
+    "source": "Il n'a pas peur des dentistes.",
+    "target": "N'en deus ket aon dirak an dentourien.",
+    "explanation": "Kentel 23 — Avoir peur de quelqu'un : kaout aon dirak."
+  },
+  {
+    "type": "theme",
+    "source": "Il a besoin de voir.",
+    "target": "Ezhomm en deus da welet.",
+    "explanation": "Kentel 23 — Ne pas oublier da devant l'infinitif après c'hoant, ezhomm, aon. Faute fréquente à éviter : *Ezhomm en deus gwelet."
+  },
+  {
+    "type": "theme",
+    "source": "Qu'avaient-ils envie de faire ?",
+    "target": "Petra o doa c'hoant d'ober ?",
+    "explanation": "Kentel 23 — Ne pas oublier da devant l'infinitif après c'hoant, ezhomm, aon. Faute fréquente à éviter : *Petra o doa c'hoant ober ?."
+  },
+  {
+    "type": "theme",
+    "source": "J'ai peur de lui parler.",
+    "target": "Aon am eus da gomz gantañ.",
+    "explanation": "Kentel 23 — Ne pas oublier da devant l'infinitif après c'hoant, ezhomm, aon. Faute fréquente à éviter : *Aon am eus komz gantañ."
+  },
+  {
+    "type": "theme",
+    "source": "C'est difficile d'apprendre le breton.",
+    "target": "Diaes eo deskiñ brezhoneg.",
+    "explanation": "Kentel 23 — Après diaes eo, aes eo..., l'infinitif suit directement, sans da. Faute fréquente à éviter : *Diaes eo da zeskiñ brezhoneg."
+  },
+  {
+    "type": "version",
+    "source": "Ez a ma dent da gouezhañ a-raok pell.",
+    "target": "Mes dents vont bientôt tomber.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Ez ez da welet traoù drol e ti hennezh.",
+    "target": "Tu vas voir des choses bizarres chez lui.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Ez eomp da brenañ ur bladenn gant Bob Dylan.",
+    "target": "Nous allons acheter un disque de Bob Dylan.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Ez it da vezañ debret gant euzhvil al Loc'h Ness.",
+    "target": "Vous allez vous faire manger par le monstre du Loch Ness.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Ez an da brenañ ur gitar d'am mab.",
+    "target": "Je vais acheter une guitare à mon fils.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "theme",
+    "source": "Tu vas les entendre ronfler, c'est sûr.",
+    "target": "Ez ez da glevet anezho o tiroc'hal, sur eo.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Ec'h ez da glevet anezho o tiroc'hal, sur eo.."
+  },
+  {
+    "type": "theme",
+    "source": "Nous allons vous porter jusqu'au taxi.",
+    "target": "Ez eomp da zougen ac'hanoc'h betek an taksi.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Ec'h eomp da zougen ac'hanoc'h betek an taksi.."
+  },
+  {
+    "type": "theme",
+    "source": "Allez-vous boire cette bouteille ?",
+    "target": "Ez it da evañ ar voutailhad-se ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Ez it da evañ ar voutailhad-mañ ? / Ec'h it da evañ ar voutailhad-se ?."
+  },
+  {
+    "type": "theme",
+    "source": "Ils vont nous téléphoner.",
+    "target": "Ez eont da bellgomz dimp.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Ez eont da bellgomz deomp. / Ec'h eont da delefoniñ dimp.."
+  },
+  {
+    "type": "version",
+    "source": "Pelec'h ez it da guzhat diouzh an euzhvil ?",
+    "target": "Où allez-vous vous cacher du monstre ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Piv a ya da brenañ eoul fenoz ?",
+    "target": "Qui va acheter de l'huile ce soir ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Pegoulz ez ez da deuler da vab er stêr ?",
+    "target": "Quand vas-tu jeter ton fils dans la rivière ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "An hañv a ya da vezañ tomm.",
+    "target": "L'été va être chaud.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "version",
+    "source": "Petra ez eomp d'ober e Bro-Dreger ?",
+    "target": "Qu'allons-nous faire dans le Trégor ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "theme",
+    "source": "Où vas-tu cacher cette pierre ?",
+    "target": "Pelec'h ez ez da guzhat ar maen-se ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Pelec'h ec'h ez da guzhat ar maen-se ?."
+  },
+  {
+    "type": "theme",
+    "source": "Nous, nous allons avoir une amende.",
+    "target": "Ni a ya da gaout un dell-gastiz.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "theme",
+    "source": "Qui va acheter la plantation de ton père ?",
+    "target": "Piv a ya da brenañ plantadeg da dad ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "theme",
+    "source": "Quand allez-vous réparer cet ordinateur ?",
+    "target": "Pegoulz ez it da zresañ an urzhiataer-mañ ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : Pegoulz ec'h it da zresañ an urzhiataer-se ?."
+  },
+  {
+    "type": "version",
+    "source": "Perak ned ez ket da blijout dezhi ?",
+    "target": "Pourquoi ne vas-tu pas lui plaire ?",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da)."
+  },
+  {
+    "type": "theme",
+    "source": "Je ne vais pas vous dire la vérité.",
+    "target": "Ned an ket da lavaret ar wirionez deoc'h.",
+    "explanation": "Kentel 24 — Mont (aller) est l'auxiliaire du futur proche et d'intention : ez an da + infinitif (parlé : ec'h an da). Autres réponses possibles : N'an ket da lâret ar wirionez deoc'h.."
+  },
+  {
+    "type": "theme",
+    "source": "Je vais dormir.",
+    "target": "Me a ya da gousket.",
+    "explanation": "Kentel 24 — Ez an da... ne s'emploie pas pour un déplacement réel, et le sujet en tête impose a ya. Faute fréquente à éviter : *Me ez an da gousket. Autres réponses possibles : Ez an da gousket.."
+  },
+  {
+    "type": "theme",
+    "source": "Il va à Nantes.",
+    "target": "Mont a ra da Naoned.",
+    "explanation": "Kentel 24 — Ez an da... ne s'emploie pas pour un déplacement réel, et le sujet en tête impose a ya. Faute fréquente à éviter : *Ez a da Naoned. Pour un vrai déplacement, on conjugue mont normalement."
+  },
+  {
+    "type": "theme",
+    "source": "Je vais regarder la télé.",
+    "target": "Ez an da sellet ouzh an tele.",
+    "explanation": "Kentel 24 — Ez an da... ne s'emploie pas pour un déplacement réel, et le sujet en tête impose a ya. Faute fréquente à éviter : *Ez an da sellet an tele. Sellet se construit avec ouzh."
+  },
+  {
+    "type": "version",
+    "source": "Anavezout a ran an dud a ya da respont.",
+    "target": "Je connais les gens qui vont répondre.",
+    "explanation": "Kentel 24 — Révision : relatives (leçon 21) et complétives (leçon 22) avec mont."
+  },
+  {
+    "type": "version",
+    "source": "Ar re nad eont ket da chom a zo fur.",
+    "target": "Ceux qui ne vont pas rester sont sages.",
+    "explanation": "Kentel 24 — Révision : relatives (leçon 21) et complétives (leçon 22) avec mont."
+  },
+  {
+    "type": "version",
+    "source": "Ar pezh ez ez da brenañ a zo ker.",
+    "target": "Ce que tu vas acheter est cher.",
+    "explanation": "Kentel 24 — Révision : relatives (leçon 21) et complétives (leçon 22) avec mont."
+  },
+  {
+    "type": "version",
+    "source": "Me a gav din ez a da zont.",
+    "target": "Je pense qu'il va venir.",
+    "explanation": "Kentel 24 — Révision : relatives (leçon 21) et complétives (leçon 22) avec mont. Autres traductions possibles : Je pense qu'elle va venir.."
+  },
+  {
+    "type": "version",
+    "source": "Te a soñj dit ned a ket da gouezhañ ?",
+    "target": "Tu penses qu'il ne va pas tomber ?",
+    "explanation": "Kentel 24 — Révision : relatives (leçon 21) et complétives (leçon 22) avec mont. Autres traductions possibles : Tu penses qu'elle ne va pas tomber ?."
+  },
+  {
+    "type": "version",
+    "source": "Kit d'ar privezioù m'hoc'h eus ezhomm.",
+    "target": "Allez aux toilettes, si vous en avez besoin.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket."
+  },
+  {
+    "type": "version",
+    "source": "Na zeuit ket a-raok nav eur.",
+    "target": "Ne venez pas avant neuf heures.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket."
+  },
+  {
+    "type": "version",
+    "source": "Deomp da gousket.",
+    "target": "Allons dormir.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket."
+  },
+  {
+    "type": "theme",
+    "source": "Venez m'aider, s'il vous plaît.",
+    "target": "Deuit da sikour ac'hanon mar plij.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket."
+  },
+  {
+    "type": "theme",
+    "source": "N'allez pas au zoo, les singes y sont tristes.",
+    "target": "N'it ket d'ar zoo, trist e vez ar marmouzien eno.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket. Autres réponses possibles : Nad it ket d'ar zoo, trist eo ar marmouzien eno.."
+  },
+  {
+    "type": "theme",
+    "source": "Va savoir qui a fait ça.",
+    "target": "Kerzh da c'houzout piv en deus graet se.",
+    "explanation": "Kentel 25 — L'impératif de mont et dont : kit (allez), deuit (venez), deomp (allons) ; négatif : n'it ket, na zeuit ket. Autres réponses possibles : Kerzh da c'hoût piv en deus graet se.."
+  },
+  {
+    "type": "version",
+    "source": "N'an ket d'ar skol ken.",
+    "target": "Je ne vais plus à l'école.",
+    "explanation": "Kentel 25 — Mont et dont au présent."
+  },
+  {
+    "type": "version",
+    "source": "Bep pegeit e teuez dre amañ ?",
+    "target": "Tous les combien viens-tu par ici ?",
+    "explanation": "Kentel 25 — Mont et dont au présent."
+  },
+  {
+    "type": "theme",
+    "source": "Les moustiques ne viennent plus.",
+    "target": "Ne zeu ket ar moustiked ken.",
+    "explanation": "Kentel 25 — Mont et dont au présent. Autres réponses possibles : Ar moustiked ne zeuont ket ken.."
+  },
+  {
+    "type": "theme",
+    "source": "Parfois, nous allons au musée.",
+    "target": "A-wezhioù ez eomp d'ar mirdi.",
+    "explanation": "Kentel 25 — Mont et dont au présent. Autres réponses possibles : A-wezhioù ec'h eomp d'ar mirdi.."
+  },
+  {
+    "type": "version",
+    "source": "N'in ket da welet anezho.",
+    "target": "Je n'irai pas les voir.",
+    "explanation": "Kentel 25 — Mont et dont au futur."
+  },
+  {
+    "type": "version",
+    "source": "Pegoulz e teuot da selaou ac'hanon ?",
+    "target": "Quand viendrez-vous m'écouter ?",
+    "explanation": "Kentel 25 — Mont et dont au futur."
+  },
+  {
+    "type": "theme",
+    "source": "Quand iras-tu la voir ?",
+    "target": "Pegoulz ez i da welet anezhi ?",
+    "explanation": "Kentel 25 — Mont et dont au futur. Autres réponses possibles : Pegoulz ec'h i da welet anezhi ?."
+  },
+  {
+    "type": "theme",
+    "source": "Nous ne viendrons plus.",
+    "target": "Ne zeuimp ket ken.",
+    "explanation": "Kentel 25 — Mont et dont au futur. Autres réponses possibles : Ne zeufomp ket ken.."
+  },
+  {
+    "type": "version",
+    "source": "Bemdez ez aent d'ar sinema.",
+    "target": "Ils allaient tous les jours au cinéma.",
+    "explanation": "Kentel 25 — Mont et dont à l'imparfait. Autres traductions possibles : Elles allaient tous les jours au cinéma.."
+  },
+  {
+    "type": "version",
+    "source": "Ne zeuec'h ket gwall alies.",
+    "target": "Vous ne veniez pas souvent.",
+    "explanation": "Kentel 25 — Mont et dont à l'imparfait."
+  },
+  {
+    "type": "theme",
+    "source": "Nous n'allions pas à l'école le samedi.",
+    "target": "N'aemp ket d'ar skol d'ar Sadorn.",
+    "explanation": "Kentel 25 — Mont et dont à l'imparfait. Autres réponses possibles : Ned aemp ket d'ar skol d'ar Sadorn.."
+  },
+  {
+    "type": "theme",
+    "source": "Elle venait souvent en Bretagne.",
+    "target": "Alies e teue da Vreizh.",
+    "explanation": "Kentel 25 — Mont et dont à l'imparfait. Autres réponses possibles : Dont a rae da Vreizh alies.."
+  },
+  {
+    "type": "theme",
+    "source": "Qui ira à Mururoa cet été ?",
+    "target": "Piv a yay da vMururoa evit an hañv ?",
+    "explanation": "Kentel 25 — Sujet en première position : mont devient a ya (présent), a yay / a yelo (futur), a yae (imparfait). Le livre note « vMururoa » pour marquer la mutation (M → V) sur le nom propre. Autres réponses possibles : Piv a yelo da vMururoa en hañv-mañ ?."
+  },
+  {
+    "type": "theme",
+    "source": "Nous, nous allions souvent à Amsterdam.",
+    "target": "Ni a yae da Amsterdam alies.",
+    "explanation": "Kentel 25 — Sujet en première position : mont devient a ya (présent), a yay / a yelo (futur), a yae (imparfait)."
+  },
+  {
+    "type": "theme",
+    "source": "Qui va au musée tous les dimanches ?",
+    "target": "Piv a ya d'ar mirdi d'ar Sul ?",
+    "explanation": "Kentel 25 — Sujet en première position : mont devient a ya (présent), a yay / a yelo (futur), a yae (imparfait). Autres réponses possibles : Piv a ya d'ar mirdi bep Sul ?."
+  },
+  {
+    "type": "version",
+    "source": "Bet eo e Naoned o prenañ traoù.",
+    "target": "Il est allé acheter des choses à Nantes.",
+    "explanation": "Kentel 25 — Participes passés : bet (allé et revenu), aet (parti, pas encore revenu), deuet (venu). Bet : il en est revenu. Autres traductions possibles : Elle est allée acheter des choses à Nantes.."
+  },
+  {
+    "type": "version",
+    "source": "Aet eo da Naoned da brenañ dilhad.",
+    "target": "Il est allé acheter des vêtements à Nantes.",
+    "explanation": "Kentel 25 — Participes passés : bet (allé et revenu), aet (parti, pas encore revenu), deuet (venu). Aet : il n'est pas encore revenu. Autres traductions possibles : Elle est allée acheter des vêtements à Nantes.."
+  },
+  {
+    "type": "version",
+    "source": "Deuet eo d'ar mirdi da welet traoù kaer.",
+    "target": "Il est venu voir de belles choses au musée.",
+    "explanation": "Kentel 25 — Participes passés : bet (allé et revenu), aet (parti, pas encore revenu), deuet (venu). Autres traductions possibles : Elle est venue voir de belles choses au musée.."
   }
 ]
