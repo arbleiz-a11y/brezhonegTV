@@ -80,9 +80,16 @@
 
     <!-- Onglet Dialogues -->
     <section id="tab-dialogues" class="d-none">
-        <!-- Choix de la leçon -->
+        <!-- Choix du livre et de la leçon -->
         <div class="card mb-4 shadow-sm">
             <div class="card-body">
+                <div class="btn-group w-100 mb-3" role="group" aria-label="Livre">
+                    <input type="radio" class="btn-check" name="book" id="book-1" value="1" autocomplete="off" checked>
+                    <label class="btn btn-outline-primary" for="book-1">Livre 1</label>
+
+                    <input type="radio" class="btn-check" name="book" id="book-2" value="2" autocomplete="off">
+                    <label class="btn btn-outline-primary" for="book-2">Livre 2</label>
+                </div>
                 <div class="d-flex justify-content-between align-items-center mb-2">
                     <span class="fw-semibold">Kentel (leçon)</span>
                     <div class="btn-group btn-group-sm">
@@ -111,6 +118,7 @@
                     </div>
                 </div>
                 <div id="dialogue-lines" class="dialogue"></div>
+                <p id="dialogue-note" class="small text-muted mt-3 mb-0 d-none"></p>
             </div>
         </div>
 

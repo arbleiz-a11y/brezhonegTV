@@ -1,5 +1,3797 @@
 [
   {
+    "book": 1,
+    "lesson": 1,
+    "title": "unan",
+    "vocabulary": [
+      {
+        "word": "PIV",
+        "pron": "['piw]",
+        "meaning": "qui"
+      },
+      {
+        "word": "EO",
+        "pron": "['ẹ]/['e]",
+        "meaning": "est, c'est"
+      },
+      {
+        "word": "PETRA",
+        "pron": "[pe'tʁa]",
+        "meaning": "qu'(est-ce que) ; quoi"
+      },
+      {
+        "word": "GWIN",
+        "pron": "['gwi:n]",
+        "meaning": "(du) vin"
+      },
+      {
+        "word": "RUZ",
+        "pron": "['ʁy:]",
+        "meaning": "rouge"
+      },
+      {
+        "word": "MAT",
+        "pron": "['ma:t]",
+        "meaning": "bon"
+      },
+      {
+        "word": "MAT AN TRAOÙ ?",
+        "pron": "[ˌma.dən'tʁaw]",
+        "meaning": "ça va ?"
+      },
+      {
+        "word": "NA GANIT ?",
+        "pron": "[gɑ̃'nit]/[gə'nit]",
+        "meaning": "et toi ?"
+      },
+      {
+        "word": "MAT-TRE",
+        "pron": "[ma'tʁe]",
+        "meaning": "parfait, tout à fait bien"
+      },
+      {
+        "word": "MET",
+        "pron": "['meᵗ]",
+        "meaning": "mais"
+      },
+      {
+        "word": "FALL",
+        "pron": "['fal]/['val]",
+        "meaning": "mal"
+      },
+      {
+        "word": "SE",
+        "pron": "['se]/['ze]",
+        "meaning": "ça, cela"
+      },
+      {
+        "word": "N'EO KET",
+        "pron": "[nẹ'ket]/['nẹkət]",
+        "meaning": "(ce) n'est pas & non"
+      },
+      {
+        "word": "HA",
+        "pron": "[a]",
+        "meaning": "et"
+      },
+      {
+        "word": "SELL 'TA PIV",
+        "pron": "[ˌsɛlta'piw]",
+        "meaning": "« regarde qui vient là »"
+      },
+      {
+        "word": "MAT A-WALC'H",
+        "pron": "[mad'wax]",
+        "meaning": "assez bien"
+      },
+      {
+        "word": "KER",
+        "pron": "['ké:ʁ]",
+        "meaning": "cher"
+      },
+      {
+        "word": "YA",
+        "pron": "['ja]",
+        "meaning": "oui"
+      },
+      {
+        "word": "SANGRIA AN HINI EO",
+        "pron": "[sɑ̃ŋ'gʁiani'ẹ]",
+        "meaning": "c'est de la sangria"
+      },
+      {
+        "word": "SANGRIA 'NI EO",
+        "pron": "[sɑ̃ŋ'gʁiani'ẹ]",
+        "meaning": "idem (version plus courte)"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Sell 'ta piv, Yann !",
+        "written": "Sell 'ta piv, Yann !",
+        "fr": "Tiens, regarde qui voilà : Yann !"
+      },
+      {
+        "speaker": "b",
+        "oral": "Gloutroñ, mat 'n traoù ?",
+        "written": "Gloutroñ, mat an traoù ?",
+        "fr": "Gloutroñ, ça va ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, mat-tre, na ganit ?",
+        "written": "Ya, mat-tre, na ganit ?",
+        "fr": "Oui, très bien, et toi ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Mat 'walc'h.",
+        "written": "Mat a-walc'h.",
+        "fr": "Assez bien."
+      },
+      {
+        "speaker": "a",
+        "oral": "Petra eo se ? Gwin ruz ?",
+        "written": "Petra eo se ? Gwin ruz ?",
+        "fr": "Qu'est-ce que c'est que ça ? Du vin rouge ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'eo ket. Sangria 'ni eo.",
+        "written": "N'eo ket. Sangria an hini eo.",
+        "fr": "Non. C'est de la sangria."
+      },
+      {
+        "speaker": "a",
+        "oral": "Mat eo ?",
+        "written": "Mat eo ?",
+        "fr": "C'est bon ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, n'eo ket fall, met ker eo.",
+        "written": "Ya, n'eo ket fall, met ker eo.",
+        "fr": "Oui, ce n'est pas mauvais, mais c'est cher."
+      }
+    ],
+    "intro": {
+      "br": "Yann ha Gloutroñ zo en ur pub.",
+      "fr": "Yann et Gloutroñ sont dans un pub."
+    },
+    "note": "Le livre ne donne ici qu'une seule version ; l'écrit est reconstitué d'après ses notes ((1) = Mat an traoù ? ; (2) = Sangria an hini eo.) et le vocabulaire (mat a-walc'h)."
+  },
+  {
+    "book": 1,
+    "lesson": 2,
+    "title": "daou",
+    "vocabulary": [
+      {
+        "word": "SKUIZH",
+        "pron": "['skwi:s]/['skɥi:s]",
+        "meaning": "fatigué"
+      },
+      {
+        "word": "KLAÑV",
+        "pron": "['klɑ̃ʷ]/['klɑ̃:]",
+        "meaning": "malade"
+      },
+      {
+        "word": "BIHAN",
+        "pron": "['bi.ɑ̃n]",
+        "meaning": "petit"
+      },
+      {
+        "word": "EUS",
+        "pron": "[əs]",
+        "meaning": "de = DEUS [dəs] (langue parlée)"
+      },
+      {
+        "word": "PELEC'H",
+        "pron": "[pe'lẹx]/['plẹx]",
+        "meaning": "où"
+      },
+      {
+        "word": "BET",
+        "pron": "['bet]",
+        "meaning": "été, allé, venu & passé"
+      },
+      {
+        "word": "E",
+        "pron": "[e]",
+        "meaning": "à = 'BA' [ba] (langue parlée exclusivement)"
+      },
+      {
+        "word": "PENAOS",
+        "pron": "[pe'no:s]",
+        "meaning": "comment"
+      },
+      {
+        "word": "PENAOS EMAÑ KONT ?",
+        "pron": "[peˌnos.zma'kɔ̃n]",
+        "meaning": "comment ça va ?"
+      },
+      {
+        "word": "A-WALC'H",
+        "pron": "['wax]",
+        "meaning": "assez"
+      },
+      {
+        "word": "EMICHAÑS",
+        "pron": "[mi'ʃɑ̃s]",
+        "meaning": "j'espère"
+      },
+      {
+        "word": "NANN",
+        "pron": "['nɑ̃n]",
+        "meaning": "non (ou plus exactement « oui » au négatif)"
+      },
+      {
+        "word": "STOUVET",
+        "pron": "['stu.vət]",
+        "meaning": "bouché"
+      },
+      {
+        "word": "MA",
+        "pron": "[ma]/[mə]",
+        "meaning": "mon, ma, mes"
+      },
+      {
+        "word": "FRI",
+        "pron": "['fʁi:]/['vʁi:] (pl. -où ['fʁi.u]/['vʁi.u])",
+        "meaning": "nez"
+      },
+      {
+        "word": "KALZ TRA",
+        "pron": "[kals'tʁa:]",
+        "meaning": "grand-chose"
+      },
+      {
+        "word": "NEUZE",
+        "pron": "['nøze]/['nœhən]",
+        "meaning": "alors"
+      },
+      {
+        "word": "GWIR",
+        "pron": "['gwi:ʁ]/['gɥi:ʁ]",
+        "meaning": "vrai"
+      },
+      {
+        "word": "TORR-PENN",
+        "pron": "[tɔʁ'pẹn]",
+        "meaning": "casse-tête, chiant"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Penaos 'mañ kont ?",
+        "written": "Penaos emañ kont ?",
+        "fr": "Comment ça va ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Fall 'walc'h.",
+        "written": "Fall a-walc'h.",
+        "fr": "Plutôt mal."
+      },
+      {
+        "speaker": "a",
+        "oral": "N'out ket klañv 'michañs ?",
+        "written": "N'out ket klañv emichañs ?",
+        "fr": "Tu n'es pas malade, j'espère ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann, met skuizh on ha stouvet eo ma fri.",
+        "written": "Nann, met skuizh on ha stouvet eo ma fri.",
+        "fr": "Non, mais je suis fatigué et j'ai le nez bouché."
+      },
+      {
+        "speaker": "a",
+        "oral": "N'eo ket kalz tra neuze.",
+        "written": "N'eo ket kalz tra neuze.",
+        "fr": "Ce n'est pas grand-chose, alors."
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann... gwir eo, met torr-penn eo !",
+        "written": "Nann... gwir eo, met torr-penn eo !",
+        "fr": "Non... c'est vrai, mais c'est pénible !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 3,
+    "title": "tri",
+    "vocabulary": [
+      {
+        "word": "KOZH",
+        "pron": "['kó:s]",
+        "meaning": "vieux"
+      },
+      {
+        "word": "ME",
+        "pron": "['me]",
+        "meaning": "moi, je"
+      },
+      {
+        "word": "NI",
+        "pron": "['ni]",
+        "meaning": "nous"
+      },
+      {
+        "word": "AMAÑ",
+        "pron": "['ɑ̃mɑ̃]",
+        "meaning": "ici"
+      },
+      {
+        "word": "CHOMET",
+        "pron": "['ʃɔ̃mət]",
+        "meaning": "resté"
+      },
+      {
+        "word": "C'HWI",
+        "pron": "['xwi]/['hɥi]",
+        "meaning": "vous"
+      },
+      {
+        "word": "HI",
+        "pron": "['hi]",
+        "meaning": "elle"
+      },
+      {
+        "word": "BRAS",
+        "pron": "['bʁa:s]",
+        "meaning": "grand"
+      },
+      {
+        "word": "GWENN",
+        "pron": "['gwẹn]",
+        "meaning": "blanc"
+      },
+      {
+        "word": "HENNEZH",
+        "pron": "['hẹnəs]/['hẽs]",
+        "meaning": "celui-là"
+      },
+      {
+        "word": "HONNEZH",
+        "pron": "['hɔ̃nəs]/['hɔ̃s]",
+        "meaning": "celle-là"
+      },
+      {
+        "word": "AR RE-SE",
+        "pron": "[a'ʁese]",
+        "meaning": "ceux-là, celles-là"
+      },
+      {
+        "word": "GANET",
+        "pron": "['gɑ̃.nət]",
+        "meaning": "né"
+      },
+      {
+        "word": "E-KICHEN",
+        "pron": "[ᵉ'kiʃən]",
+        "meaning": "à côté de"
+      },
+      {
+        "word": "EZ",
+        "pron": "[es]",
+        "meaning": "dans ton, ta, tes = EN DA [enda] (breton parlé uniquement)"
+      },
+      {
+        "word": "FAMILH°",
+        "pron": "['fɑ̃miʎ]/['fɑ̃mij] (pl. -où)",
+        "meaning": "famille"
+      },
+      {
+        "word": "C'HOAR°",
+        "pron": "['xwa:ʁ]/['hwa:ʁ] (pl. -ezed)",
+        "meaning": "sœur"
+      },
+      {
+        "word": "MAMM°",
+        "pron": "['mɑ̃m] (pl. -où ['mɑ̃mu])",
+        "meaning": "mère"
+      },
+      {
+        "word": "TAD",
+        "pron": "['ta:t] (pl. -où ['ta:du])",
+        "meaning": "père"
+      },
+      {
+        "word": "SELL 'TA !",
+        "pron": "[sẹl'ta]",
+        "meaning": "tiens donc !"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "P'lec'h out ganet, 'ba' Breizh ?",
+        "written": "Pelec'h out bet ganet, e Breizh ?",
+        "fr": "Où es-tu né, en Bretagne ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'on ket, 'kichen Pariz on ganet.",
+        "written": "N'on ket, e-kichen Pariz on bet ganet.",
+        "fr": "Non, je suis né près de Paris."
+      },
+      {
+        "speaker": "a",
+        "oral": "Piv zo ganet 'ba' Breizh en da familh ?",
+        "written": "Piv zo bet ganet e Breizh ez familh ?",
+        "fr": "Qui est né en Bretagne dans ta famille ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ma c'hoar ha ma mamm zo ganet 'kichen Gwengamp.",
+        "written": "Ma c'hoar ha ma mamm zo bet ganet e-kichen Gwengamp.",
+        "fr": "Ma sœur et ma mère sont nées près de Guingamp."
+      },
+      {
+        "speaker": "a",
+        "oral": "Na da dad, p'lec'h eo ganet ?",
+        "written": "Na da dad, pelec'h eo bet ganet ?",
+        "fr": "Et ton père, où est-il né ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Hennezh zo ganet 'ba' New-York.",
+        "written": "Hennezh zo bet ganet e New-York.",
+        "fr": "Lui, il est né à New York."
+      },
+      {
+        "speaker": "a",
+        "oral": "Sell 'ta...",
+        "written": "Sell 'ta...",
+        "fr": "Tiens donc..."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 4,
+    "title": "pevar",
+    "vocabulary": [
+      {
+        "word": "KOUSKET",
+        "pron": "['kuskət]",
+        "meaning": "dormir (KOUSKET : dormi)"
+      },
+      {
+        "word": "KOMZ",
+        "pron": "['kɔ̃ms]",
+        "meaning": "parler (KOMZET ['kɔ̃mzət] : parlé)"
+      },
+      {
+        "word": "C'HOARZHIN",
+        "pron": "['xwaʁzin]",
+        "meaning": "rire"
+      },
+      {
+        "word": "C'HOARZHET",
+        "pron": "['xwaʁzət]",
+        "meaning": "ri"
+      },
+      {
+        "word": "KLEVET",
+        "pron": "['kle.vət]/['kle.ət]",
+        "meaning": "entendre & entendu"
+      },
+      {
+        "word": "GWELET",
+        "pron": "['gwẹlᵊt]",
+        "meaning": "voir & vu"
+      },
+      {
+        "word": "KAVOUT",
+        "pron": "['ka:vut]/['kɔwət]",
+        "meaning": "trouver"
+      },
+      {
+        "word": "DEBRIÑ",
+        "pron": "['debʁĩ]/['dibĩ]",
+        "meaning": "manger"
+      },
+      {
+        "word": "NETRA",
+        "pron": "[ne'tʁa:]",
+        "meaning": "rien"
+      },
+      {
+        "word": "EVAÑ",
+        "pron": "['e.vɑ̃]",
+        "meaning": "boire"
+      },
+      {
+        "word": "TAKENN°",
+        "pron": "['takən] (pl. -où [ta'kẹnu])",
+        "meaning": "goutte"
+      },
+      {
+        "word": "EBET",
+        "pron": "[e'bet]",
+        "meaning": "aucun (adverbe que l'on place après un nom)"
+      },
+      {
+        "word": "TAKENN° EBET",
+        "pron": "['takən'bet]",
+        "meaning": "aucune goutte, du tout"
+      },
+      {
+        "word": "PETRA ZO KAOZ ?",
+        "pron": "[petᵊazo'ko:s]",
+        "meaning": "pour quelle raison ?"
+      },
+      {
+        "word": "PERAK",
+        "pron": "[pe'ʁa:k]",
+        "meaning": "pourquoi"
+      },
+      {
+        "word": "DIROC'HAL",
+        "pron": "[di'ʁɔhal]",
+        "meaning": "ronfler"
+      },
+      {
+        "word": "DIROC'HET",
+        "pron": "[di'ʁɔhət]",
+        "meaning": "ronflé"
+      },
+      {
+        "word": "E-PAD AN NOZ",
+        "pron": "[padᵊⁿ'nó:s]/[ˌpa:'nó:s]",
+        "meaning": "toute la nuit"
+      },
+      {
+        "word": "MEMES TRA",
+        "pron": "[meməs'tʁa:]/[məs'tʁa:]",
+        "meaning": "tout de même"
+      },
+      {
+        "word": "DROL",
+        "pron": "['dʁo:l]",
+        "meaning": "bizarre"
+      },
+      {
+        "word": "GEO",
+        "pron": "['ge]",
+        "meaning": "si"
+      },
+      {
+        "word": "EO",
+        "pron": "['ẹʷ]",
+        "meaning": "idem"
+      },
+      {
+        "word": "GWIR A-WALC'H",
+        "pron": "[gwiʁ'wax]/[gɥiʁ'wax]",
+        "meaning": "bien vrai"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Kousket mat 'teus ?",
+        "written": "Kousket mat ec'h eus ?",
+        "fr": "Tu as bien dormi ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'M eus ket, 'm eus ket kousket takenn 'bet.",
+        "written": "N'em eus ket, n'em eus ket kousket takenn ebet.",
+        "fr": "Non, je n'ai pas dormi du tout."
+      },
+      {
+        "speaker": "a",
+        "oral": "Petra zo kaoz ?",
+        "written": "Perak ?",
+        "fr": "Pourquoi ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Diroc'het 'teus 'pad an noz...",
+        "written": "Diroc'het ec'h eus (bet) e-pad an noz.",
+        "fr": "Tu as ronflé toute la nuit..."
+      },
+      {
+        "speaker": "a",
+        "oral": "N'eo ket gwir 'mes tra...",
+        "written": "N'eo ket gwir memes tra...",
+        "fr": "Ce n'est quand même pas vrai..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Geo, gwir 'walc'h eo.",
+        "written": "Eo, gwir a-walc'h eo.",
+        "fr": "Si, c'est bien vrai."
+      },
+      {
+        "speaker": "a",
+        "oral": "Drol eo, 'm eus ket klevet netra...",
+        "written": "Drol eo, n'em eus klevet netra...",
+        "fr": "C'est bizarre, je n'ai rien entendu..."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 5,
+    "title": "pemp",
+    "vocabulary": [
+      {
+        "word": "OBER",
+        "pron": "['o.bəʁ]/['o:ʁ]",
+        "meaning": "faire"
+      },
+      {
+        "word": "GRAET",
+        "pron": "['gʁẹt]",
+        "meaning": "fait"
+      },
+      {
+        "word": "PESEURT",
+        "pron": "[pe'sœʁt]/['pesə]",
+        "meaning": "quel"
+      },
+      {
+        "word": "ER GÊR",
+        "pron": "[eʁ'ge:ʁ]",
+        "meaning": "à la maison"
+      },
+      {
+        "word": "'BA' GÊR",
+        "pron": "[baᵊ'gẹ:ʁ]",
+        "meaning": "idem (à éviter dans un style soutenu)"
+      },
+      {
+        "word": "E KÊR",
+        "pron": "[e'kẹ:ʁ]",
+        "meaning": "en ville"
+      },
+      {
+        "word": "'BA' KÊR",
+        "pron": "[ba'kẹ:ʁ]",
+        "meaning": "idem (à éviter dans un style soutenu)"
+      },
+      {
+        "word": "JOURNAL",
+        "pron": "['ʒuʁnal] (pl. -ioù [ʒuʁ'nalju])",
+        "meaning": "journal"
+      },
+      {
+        "word": "LENN",
+        "pron": "['lẹn]",
+        "meaning": "lire"
+      },
+      {
+        "word": "DOUR",
+        "pron": "['du:ʁ]",
+        "meaning": "(de l') eau"
+      },
+      {
+        "word": "PRENAÑ",
+        "pron": "['pʁẽ.nɑ̃]",
+        "meaning": "acheter"
+      },
+      {
+        "word": "NA TE ?",
+        "pron": "[na'te]",
+        "meaning": "et toi ? et en ce qui te concerne ?"
+      },
+      {
+        "word": "FENTUS",
+        "pron": "['fẹntys]",
+        "meaning": "amusant"
+      },
+      {
+        "word": "HIZIV",
+        "pron": "['hiʁjo]/['heʲje]",
+        "meaning": "aujourd'hui"
+      },
+      {
+        "word": "MANN EBET A-DRES",
+        "pron": "[ˌmɑ̃nbeda'dʁẹs]",
+        "meaning": "rien de spécial"
+      },
+      {
+        "word": "UN TAMM",
+        "pron": "[œn'tɑ̃m]/[ɔ̃n'tɑ̃m]",
+        "meaning": "un peu"
+      },
+      {
+        "word": "SKRIJUS",
+        "pron": "['skʁi.ʒys]",
+        "meaning": "qui fait frémir"
+      },
+      {
+        "word": "SINEMA",
+        "pron": "[sine'ma:]",
+        "meaning": "cinéma"
+      },
+      {
+        "word": "'BA'R SINE",
+        "pron": "[baʁsi'ne:]",
+        "meaning": "au ciné"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Petra 'teus graet hiziv ?",
+        "written": "Petra ac'h eus graet hiziv ?",
+        "fr": "Qu'est-ce que tu as fait aujourd'hui ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Mann 'bet a-dres, lennet 'm eus un tamm, na te ?",
+        "written": "Mann ebet a-dres, lennet em eus un tamm, na te ?",
+        "fr": "Rien de spécial, j'ai lu un peu, et toi ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Me zo bet 'ba'r sine'.",
+        "written": "Me zo bet er sinema.",
+        "fr": "Moi, je suis allé au cinéma."
+      },
+      {
+        "speaker": "b",
+        "oral": "Peseurt film 'teus gwelet ?",
+        "written": "Peseurt film ac'h eus gwelet ?",
+        "fr": "Quel film as-tu vu ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Shining.",
+        "written": "Shining.",
+        "fr": "Shining."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ha penaos 'teus kavet se ? Skrijus eo, n'eo ket ?",
+        "written": "Ha penaos ec'h eus kavet se ? Skrijus eo, n'eo ket ?",
+        "fr": "Et tu l'as trouvé comment ? Ça fait peur, non ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Geo, skrijus 'walc'h eo, met mat eo 'mes tra.",
+        "written": "Eo, skrijus a-walc'h eo, met mat eo memes tra.",
+        "fr": "Si, ça fait assez peur, mais c'est bien quand même."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 6,
+    "title": "c'hwec'h",
+    "vocabulary": [
+      {
+        "word": "PLAC'H°",
+        "pron": "['plax] (pl. merc'hed ['mẹhət])",
+        "meaning": "fille, femme (girl)"
+      },
+      {
+        "word": "AR PLAC'H",
+        "pron": "[əᵊ'plax]",
+        "meaning": "la fille"
+      },
+      {
+        "word": "UR PLAC'H",
+        "pron": "['oᵊplax]/['œᵊplax]",
+        "meaning": "une fille"
+      },
+      {
+        "word": "TI",
+        "pron": "['ti:] (pl. tiez ['ti.e]/['ti.əʁ])",
+        "meaning": "maison"
+      },
+      {
+        "word": "LEVR",
+        "pron": "['lẹʷʁ]/['lẹvəʁ] (pl. -ioù ['lẹʷʁju])",
+        "meaning": "livre"
+      },
+      {
+        "word": "DEN",
+        "pron": "['dẽ:n]",
+        "meaning": "personne"
+      },
+      {
+        "word": "TUD",
+        "pron": "['tyt]",
+        "meaning": "gens & des gens"
+      },
+      {
+        "word": "PAOTR",
+        "pron": "['pot]/['pɔt] (pl. -ed ['pɔtʁət])",
+        "meaning": "homme, garçon"
+      },
+      {
+        "word": "KI",
+        "pron": "['ki:] (pl. chas ['ʃas])",
+        "meaning": "chien"
+      },
+      {
+        "word": "TROUZ",
+        "pron": "['tʁu:s]",
+        "meaning": "bruit & du bruit"
+      },
+      {
+        "word": "BEPRED",
+        "pron": "[be'pʁət]/['bopət]",
+        "meaning": "toujours, en tout cas"
+      },
+      {
+        "word": "RAK",
+        "pron": "['ʁak]",
+        "meaning": "parce que, car (= KAR & KA' langue parlée uniquement)"
+      },
+      {
+        "word": "E TI YANN",
+        "pron": "[eti'jɑ̃n]",
+        "meaning": "chez Yann (= 'BA' TI YANN langue parlée uniquement)"
+      },
+      {
+        "word": "ENO",
+        "pron": "['ẽ.no]",
+        "meaning": "là-bas"
+      },
+      {
+        "word": "'OA",
+        "pron": "['wa]",
+        "meaning": "était"
+      },
+      {
+        "word": "PENAOS E OA ?",
+        "pron": "[peˌno.z'wa]",
+        "meaning": "comment était ?"
+      },
+      {
+        "word": "SUR",
+        "pron": "['sy:ʁ]/['zy:ʁ]",
+        "meaning": "sûr, certain"
+      },
+      {
+        "word": "MOARVAT",
+        "pron": "[mwaʁ'vat]/[ma'hat]",
+        "meaning": "sans doute"
+      },
+      {
+        "word": "BIHAN-BIHAN",
+        "pron": "['bi.ɑ̃n'bi.ɑ̃n]",
+        "meaning": "tout petit, très petit"
+      },
+      {
+        "word": "EVIT KREISTEIZ",
+        "pron": "[vikʁẹj'ste]",
+        "meaning": "ce midi"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "P'lec'h out bet 'vit kreisteiz ?",
+        "written": "Pelec'h out bet evit kreisteiz ?",
+        "fr": "Où étais-tu ce midi ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Ba' ti tad Yann.",
+        "written": "E ti tad Yann.",
+        "fr": "Chez le père de Yann."
+      },
+      {
+        "speaker": "a",
+        "oral": "Gwelet 'teus c'hoar Yann eno ?",
+        "written": "Gwelet ec'h eus c'hoar Yann eno ?",
+        "fr": "Tu as vu la sœur de Yann là-bas ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'on ket sur, met ur plac'h 'm eus gwelet bepred.",
+        "written": "N'on ket sur met ur plac'h am eus gwelet bepred.",
+        "fr": "Je n'en suis pas sûr, mais j'ai vu une fille en tout cas."
+      },
+      {
+        "speaker": "a",
+        "oral": "Penaos 'oa ar plac'h-se, bras ?",
+        "written": "Penaos e oa ar plac'h-se, bras ?",
+        "fr": "Comment était cette fille, grande ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Oa ket, bihan-bihan 'oa.",
+        "written": "Ne oa ket, bihan-bihan e oa.",
+        "fr": "Non, elle était toute petite."
+      },
+      {
+        "speaker": "a",
+        "oral": "A, n'eo ket c'hoar Yann 'teus gwelet ka' honnezh zo bras-mat... Moarvat eo ar vamm 'ni 'teus gwelet.",
+        "written": "A, n'eo ket c'hoar Yann ac'h eus gwelet rak honnezh zo bras-mat... Moarvat eo ar vamm an hini ac'h eus gwelet.",
+        "fr": "Ah, ce n'est pas la sœur de Yann que tu as vue, car elle est très grande... C'est sans doute la mère que tu as vue."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 7,
+    "title": "seizh",
+    "vocabulary": [
+      {
+        "word": "KAOUT",
+        "pron": "['kawt]",
+        "meaning": "avoir"
+      },
+      {
+        "word": "KARR",
+        "pron": "['ka:ʁ] (pl. kirri ['kiʁi])",
+        "meaning": "voiture"
+      },
+      {
+        "word": "EBET",
+        "pron": "[ᵉ'bet]",
+        "meaning": "aucun"
+      },
+      {
+        "word": "PET",
+        "pron": "['pe:t]",
+        "meaning": "combien"
+      },
+      {
+        "word": "PEZH",
+        "pron": "['pe:s] (pl. -ioù ['peʒu])",
+        "meaning": "pièce"
+      },
+      {
+        "word": "LIZHER",
+        "pron": "['li.zəʁ] (pl. -où [li'zẹ.ʁu])",
+        "meaning": "lettre"
+      },
+      {
+        "word": "SKOUARNAD°",
+        "pron": "['skwaʁnat] (pl. -où [skwaʁ'na.du])",
+        "meaning": "baffe"
+      },
+      {
+        "word": "RESPONT",
+        "pron": "['ʁespɔ̃ⁿ] (pl. -où [ʁes'pɔ̃.ʃu])",
+        "meaning": "réponse"
+      },
+      {
+        "word": "ANV",
+        "pron": "['ɑ̃no]/['hɑ̃nw] (pl. -ioù ['ʰɑ̃nju])",
+        "meaning": "nom"
+      },
+      {
+        "word": "RANNDI",
+        "pron": "['ʁɑ̃ndi] (pl. -où [ʁɑ̃n'di.u])",
+        "meaning": "appartement"
+      },
+      {
+        "word": "DAOU",
+        "pron": "['daw]/['dɔw]",
+        "meaning": "deux (masculin)"
+      },
+      {
+        "word": "DIV",
+        "pron": "['diw]",
+        "meaning": "deux (féminin)"
+      },
+      {
+        "word": "TRI",
+        "pron": "['tʁi:]",
+        "meaning": "trois (masculin)"
+      },
+      {
+        "word": "TEIR",
+        "pron": "['tɛ:ʁ]",
+        "meaning": "trois (féminin)"
+      },
+      {
+        "word": "PEVAR",
+        "pron": "['pɛvaʁ]/['pɛ:ʁ]",
+        "meaning": "quatre (masculin)"
+      },
+      {
+        "word": "PEDER",
+        "pron": "['pe.dəʁ]",
+        "meaning": "quatre (féminin)"
+      },
+      {
+        "word": "ETRE TOUT",
+        "pron": "['tʁe'tut]",
+        "meaning": "en tout"
+      },
+      {
+        "word": "KARRDI",
+        "pron": "['kaʁdi] (pl. -où [kaʁ'di.u])",
+        "meaning": "garage"
+      },
+      {
+        "word": "SIWAZH",
+        "pron": "['si.wəs]/['ʒiwəs]",
+        "meaning": "hélas"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Peseurt anv 'peus ?",
+        "written": "Pe anv oc'h ?",
+        "fr": "Comment vous appelez-vous ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Anna Ar Marc'heg, deus Brest.",
+        "written": "Anna Ar Marc'heg, eus Brest.",
+        "fr": "Anna Ar Marc'heg, de Brest."
+      },
+      {
+        "speaker": "a",
+        "oral": "Un ti 'peus eno ?",
+        "written": "Un ti hoc'h eus eno ?",
+        "fr": "Vous avez une maison là-bas ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'M eus ket, ur ranndi 'm eus, met bras 'walc'h eo.",
+        "written": "N'em eus ket, ur ranndi am eus, met bras a-walc'h eo.",
+        "fr": "Non, j'ai un appartement, mais il est assez grand."
+      },
+      {
+        "speaker": "a",
+        "oral": "Pet pezh 'peus ?",
+        "written": "Pet pezh hoc'h eus ?",
+        "fr": "Combien de pièces avez-vous ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Pevar 'tre tout.",
+        "written": "Pevar etre tout.",
+        "fr": "Quatre en tout."
+      },
+      {
+        "speaker": "a",
+        "oral": "'Peus ket karrdi 'bet ?",
+        "written": "N'hoc'h eus karrdi ebet ?",
+        "fr": "Vous n'avez pas de garage ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Geo, ur c'harrdi 'm eus, met 'm eus ket karr 'bet siwazh.",
+        "written": "Eo, ur c'harrdi am eus, met n'em eus karr ebet siwazh.",
+        "fr": "Si, j'ai un garage, mais je n'ai pas de voiture, hélas."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 8,
+    "title": "eizh",
+    "vocabulary": [
+      {
+        "word": "PEGOULZ",
+        "pron": "[pe'guls]",
+        "meaning": "quand"
+      },
+      {
+        "word": "GANT",
+        "pron": "[gɑ̃n]",
+        "meaning": "avec, par, à cause de"
+      },
+      {
+        "word": "CHAÑS°",
+        "pron": "['ʃɑ̃s]",
+        "meaning": "chance"
+      },
+      {
+        "word": "VAKAÑS",
+        "pron": "[va'kɑ̃s] (pl. -où [va'kɑ̃su])",
+        "meaning": "vacances"
+      },
+      {
+        "word": "AMZER",
+        "pron": "['ɑ̃mzəʁ] (pl. -ioù [ɑ̃m'zẹʁju])",
+        "meaning": "temps"
+      },
+      {
+        "word": "O",
+        "pron": "[o]",
+        "meaning": "particule verbale (« -ing » en anglais)"
+      },
+      {
+        "word": "BALE",
+        "pron": "['ba.le]",
+        "meaning": "marcher, se promener"
+      },
+      {
+        "word": "KLASK",
+        "pron": "['klask]",
+        "meaning": "chercher"
+      },
+      {
+        "word": "GWALL",
+        "pron": "['gwal]",
+        "meaning": "très"
+      },
+      {
+        "word": "ABRED",
+        "pron": "[a'bʁe:t]",
+        "meaning": "tôt"
+      },
+      {
+        "word": "KREIZ-KÊR",
+        "pron": "[kʁẹjs'kẹ:ʁ]",
+        "meaning": "centre-ville"
+      },
+      {
+        "word": "KOLL",
+        "pron": "['kɔl]",
+        "meaning": "perdre"
+      },
+      {
+        "word": "RESTAORANT",
+        "pron": "[ʁẹ'sto.ʁɑ̃n]",
+        "meaning": "restaurant"
+      },
+      {
+        "word": "PRETI",
+        "pron": "['pʁẹti] (pl. -où [pʁe'ti.u])",
+        "meaning": "restaurant"
+      },
+      {
+        "word": "C'HOAZH",
+        "pron": "['xwas]/['hwas]",
+        "meaning": "encore, déjà"
+      },
+      {
+        "word": "UR WEZH PE ZIV",
+        "pron": "[ˌœʁweʃpe'ziw]",
+        "meaning": "une fois ou deux"
+      },
+      {
+        "word": "KAOUT TRO° DA",
+        "pron": "['tʁó:]",
+        "meaning": "avoir l'occasion de"
+      },
+      {
+        "word": "TAÑVA",
+        "pron": "['tɑ̃.va]",
+        "meaning": "goûter"
+      },
+      {
+        "word": "UR VOEM !",
+        "pron": "['œʁvwẹm]/[o'vwẹm]",
+        "meaning": "du jamais vu !"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "N'oc'h ket gwall abred...",
+        "written": "N'oc'h ket gwall abred...",
+        "fr": "Vous n'êtes pas très en avance..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann, bet omp 'tebriñ 'ba' kreiz-kêr, ha 'meump kollet amzer.",
+        "written": "Nann, bet omp o tebriñ e kreiz-kêr, hag hon eus kollet amzer.",
+        "fr": "Non, nous sommes allés manger en centre-ville, et nous avons perdu du temps."
+      },
+      {
+        "speaker": "a",
+        "oral": "'Ba' peseurt restaorant oc'h bet ?",
+        "written": "E peseurt preti oc'h bet ?",
+        "fr": "Dans quel restaurant êtes-vous allés ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Ba' ti Alfonso. Bet out bet eno c'hoazh ?",
+        "written": "E ti Alfonso. Bet out bet eno c'hoazh ?",
+        "fr": "Chez Alfonso. Tu y es déjà allé ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, ur wezh pe ziv 'm eus bet debret eno.",
+        "written": "Ya, ur wezh pe ziv em eus bet debret eno.",
+        "fr": "Oui, j'y ai mangé une fois ou deux."
+      },
+      {
+        "speaker": "b",
+        "oral": "Tro 'teus bet da dañva sangria ar chef ?",
+        "written": "Tro ec'h eus bet da dañva sangria ar chef ?",
+        "fr": "Tu as eu l'occasion de goûter la sangria du chef ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "'M eus ket 'vat, 'm eus ket bet tro d'ober... Mat eo ?",
+        "written": "N'em eus ket 'vat, n'em eus ket bet tro d'ober... Mat eo ?",
+        "fr": "Non, je n'en ai pas eu l'occasion... C'est bon ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ur voem !",
+        "written": "Ur voem !",
+        "fr": "Du jamais vu !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 9,
+    "title": "nav",
+    "vocabulary": [
+      {
+        "word": "AC'HANON ('HANON)",
+        "pron": "[ᵃ'hɑ̃nɔ̃n]",
+        "meaning": "de moi (me & m')"
+      },
+      {
+        "word": "AC'HANOUT ('HANOUT)",
+        "pron": "[ᵃ'hɑ̃nut]",
+        "meaning": "de toi (te & t')"
+      },
+      {
+        "word": "ANEZHAÑ ('NE'AÑ)",
+        "pron": "[ᵃ'ne.ɑ̃]",
+        "meaning": "de lui (le & l')"
+      },
+      {
+        "word": "ANEZHI ('NE'I)",
+        "pron": "[ᵃ'ne.i]",
+        "meaning": "d'elle (la & l')"
+      },
+      {
+        "word": "AC'HANOMP ('HANOMP)",
+        "pron": "[ᵃ'hɑ̃nɔ̃m]",
+        "meaning": "de nous (nous)"
+      },
+      {
+        "word": "AC'HANOC'H ('HANOC'H)",
+        "pron": "[ᵃ'hɑ̃nɔx]",
+        "meaning": "de vous (vous)"
+      },
+      {
+        "word": "ANEZHO ('NE'O & 'NÊ)",
+        "pron": "[ᵃ'ne.o]",
+        "meaning": "d'eux, d'elles (les)"
+      },
+      {
+        "word": "GORTOZ",
+        "pron": "['gɔʁtəs]/['gɔtos]",
+        "meaning": "attendre"
+      },
+      {
+        "word": "DIVINOUT",
+        "pron": "[di'vi.nut]",
+        "meaning": "deviner"
+      },
+      {
+        "word": "DIVIN",
+        "pron": "['di.vin]",
+        "meaning": "devine"
+      },
+      {
+        "word": "N'OUZON KET",
+        "pron": "[ənuzɔ̃ŋ'ket]",
+        "meaning": "je ne sais pas"
+      },
+      {
+        "word": "'OARAN KET",
+        "pron": "[wa'ʁɑ̃ŋkət]",
+        "meaning": "j'sais pas (dialectal & relâché)"
+      },
+      {
+        "word": "MINTIN",
+        "pron": "['mintin] (pl. -où [min'ti.nu])",
+        "meaning": "matin"
+      },
+      {
+        "word": "RU°",
+        "pron": "['ʁy:] (pl. -ioù ['ʁyju])",
+        "meaning": "rue"
+      },
+      {
+        "word": "SELAOU",
+        "pron": "['se.ləw], ['ʃi.ləw]/['ʒi.ləw]",
+        "meaning": "écouter"
+      },
+      {
+        "word": "BISKOAZH C'HOAZH",
+        "pron": "[biskwas'xwas]",
+        "meaning": "du jamais vu !"
+      },
+      {
+        "word": "ILIZ°",
+        "pron": "['i.lis] (pl. -où [i'li.zu])",
+        "meaning": "église"
+      },
+      {
+        "word": "SALUDIÑ",
+        "pron": "[sa'ly.dĩ]",
+        "meaning": "saluer"
+      },
+      {
+        "word": "GWELLOC'H",
+        "pron": "['gwẹlɔx]/['gɥẹlɔx]",
+        "meaning": "mieux"
+      },
+      {
+        "word": "DONT",
+        "pron": "['dɔ̃n]",
+        "meaning": "venir"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Divin piv 'm eus gwelet 'vale 'ba'r ru er mintin-mañ ?",
+        "written": "Divin piv em eus gwelet o vale er ru er mintin-mañ ?",
+        "fr": "Devine qui j'ai vu se promener dans la rue ce matin ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Oaran ket.",
+        "written": "N'ouzon ket.",
+        "fr": "Je ne sais pas."
+      },
+      {
+        "speaker": "a",
+        "oral": "James Brown ! James Brown 'ba' Karaez, biskoazh c'hoazh !",
+        "written": "James Brown ! James Brown e Karaez, biskoazh c'hoazh !",
+        "fr": "James Brown ! James Brown à Carhaix, du jamais vu !"
+      },
+      {
+        "speaker": "b",
+        "oral": "P'lec'h 'teus gwelet 'ne'añ ?",
+        "written": "Pelec'h ec'h eus gwelet anezhañ ?",
+        "fr": "Où est-ce que tu l'as vu ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "'Kichen an iliz.",
+        "written": "E-kichen an iliz.",
+        "fr": "À côté de l'église."
+      },
+      {
+        "speaker": "b",
+        "oral": "Hag eñ 'neus gwelet 'hanout ?",
+        "written": "Hag eñ en deus gwelet ac'hanout ?",
+        "fr": "Et lui, il t'a vu ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Gwelloc'h 'neus graet ! Saludet 'neus 'hanon.",
+        "written": "Gwelloc'h en deus graet ! Saludet en deus ac'hanon.",
+        "fr": "Mieux que ça ! Il m'a salué."
+      },
+      {
+        "speaker": "b",
+        "oral": "Jezus !",
+        "written": "Jezus !",
+        "fr": "Jésus !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 10,
+    "title": "dek",
+    "vocabulary": [
+      {
+        "word": "LIV",
+        "pron": "['liw] (pl. -ioù ['liwju])",
+        "meaning": "couleur"
+      },
+      {
+        "word": "BLEV",
+        "pron": "['blew] (sing. blevenn° ['blewən])",
+        "meaning": "(des) cheveux"
+      },
+      {
+        "word": "LAGAD",
+        "pron": "['la.gat] (duel : daoulagad [dɔw'la.gat])",
+        "meaning": "œil"
+      },
+      {
+        "word": "GWREG°",
+        "pron": "['gʁwek] (pl. gwragez ['gʁwa.ge])",
+        "meaning": "femme (épouse)"
+      },
+      {
+        "word": "DENTOUR",
+        "pron": "['dẹntuʁ] (pl. -ien [dẹn'tuʁjən])",
+        "meaning": "dentiste"
+      },
+      {
+        "word": "BUGEL",
+        "pron": "['by.gəl] (pl. bugale [by'ga.le])",
+        "meaning": "enfant"
+      },
+      {
+        "word": "TROC'HAÑ",
+        "pron": "['tʁɔhɑ̃]",
+        "meaning": "couper"
+      },
+      {
+        "word": "SEVEL",
+        "pron": "['sé.vəl]/['zé.vəl]",
+        "meaning": "(se) lever"
+      },
+      {
+        "word": "PENN",
+        "pron": "['pẹn] (pl. -où ['pẹnu])",
+        "meaning": "tête, bout"
+      },
+      {
+        "word": "HEMAÑ",
+        "pron": "['hemɑ̃]/['hemə]",
+        "meaning": "celui-ci"
+      },
+      {
+        "word": "HIR",
+        "pron": "['hi:ʁ]",
+        "meaning": "long"
+      },
+      {
+        "word": "DANT",
+        "pron": "['dɑ̃nᵗ] (pl. dent ['dẹnᵗ])",
+        "meaning": "dent"
+      },
+      {
+        "word": "DU",
+        "pron": "['dy:]",
+        "meaning": "noir"
+      },
+      {
+        "word": "BREUR",
+        "pron": "['bʁø:ʁ] (pl. breudeur ['bʁø.dəʁ])",
+        "meaning": "frère"
+      },
+      {
+        "word": "HOMAÑ",
+        "pron": "['hɔ̃mɑ̃]/['hɔ̃mə]",
+        "meaning": "celle-ci"
+      },
+      {
+        "word": "GLAS",
+        "pron": "['gla:s]",
+        "meaning": "bleu & vert naturel"
+      },
+      {
+        "word": "GWAZ",
+        "pron": "['gwa:s] (pl. -ed ['gwa.zət])",
+        "meaning": "mari, homme"
+      },
+      {
+        "word": "MELEN",
+        "pron": "['me.lən]",
+        "meaning": "jaune"
+      },
+      {
+        "word": "AC'HANTA",
+        "pron": "['hɑ̃nta]",
+        "meaning": "eh bien ?"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Divin piv eo hemañ, e vlev zo hir, e zent zo melen hag e zaoulagad zo du.",
+        "written": "Divin piv eo hemañ, e vlev zo hir, e zent zo melen hag e zaoulagad zo du.",
+        "fr": "Devine qui c'est, celui-ci : il a les cheveux longs, les dents jaunes et les yeux noirs."
+      },
+      {
+        "speaker": "b",
+        "oral": "Divinet 'm eus, da vreur 'ni eo.",
+        "written": "Divinet em eus, da vreur an hini eo.",
+        "fr": "J'ai deviné, c'est ton frère."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, ma breur 'ni eo, divin piv eo homañ, he blev zo melen, he daoulagad zo glas, hag he gwaz zo dentour...",
+        "written": "Ya, ma breur an hini eo, divin piv eo homañ, he blev zo melen, he daoulagad zo glas, hag he gwaz zo dentour...",
+        "fr": "Oui, c'est mon frère. Devine qui c'est, celle-ci : elle a les cheveux blonds, les yeux bleus, et son mari est dentiste..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Kavet 'm eus...",
+        "written": "Kavet em eus...",
+        "fr": "J'ai trouvé..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ac'hanta ?",
+        "written": "Ac'hanta ?",
+        "fr": "Eh bien ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Gwreg an dentour 'ni eo !",
+        "written": "Gwreg an dentour an hini eo !",
+        "fr": "C'est la femme du dentiste !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 11,
+    "title": "unnek",
+    "vocabulary": [
+      {
+        "word": "DEUS",
+        "pron": "['døs]",
+        "meaning": "viens"
+      },
+      {
+        "word": "ETA/'TA",
+        "pron": "['ta]",
+        "meaning": "donc"
+      },
+      {
+        "word": "SERRIÑ",
+        "pron": "['sɛʁĩ]/['zɛʁĩ]",
+        "meaning": "fermer"
+      },
+      {
+        "word": "BEG",
+        "pron": "['bek] (pl. -où ['begu])",
+        "meaning": "bouche"
+      },
+      {
+        "word": "GWALC'HIÑ",
+        "pron": "['gwalhĩ]",
+        "meaning": "laver"
+      },
+      {
+        "word": "DORN",
+        "pron": "['dɔʁn] (duel : daouarn ['dɔwaʁn])",
+        "meaning": "main"
+      },
+      {
+        "word": "BEZ",
+        "pron": "['be]",
+        "meaning": "sois"
+      },
+      {
+        "word": "FUR",
+        "pron": "['fy:ʁ]/['vy:ʁ]",
+        "meaning": "sage, prudent, sensé"
+      },
+      {
+        "word": "KERZH",
+        "pron": "['kẹʁs]",
+        "meaning": "va"
+      },
+      {
+        "word": "NAON",
+        "pron": "['nɑ̃wn]",
+        "meaning": "faim"
+      },
+      {
+        "word": "CHIT ! / CHIK !",
+        "pron": "['ʃit]/['ʃic]",
+        "meaning": "chut !"
+      },
+      {
+        "word": "RO PEOC'H !",
+        "pron": "[ʁo'pœx]",
+        "meaning": "la paix !"
+      },
+      {
+        "word": "MARNAONIET",
+        "pron": "[maʁ'nɑ̃wɲət]",
+        "meaning": "affamé"
+      },
+      {
+        "word": "FIDAMDOUE / FITEDOU",
+        "pron": "[fidəm'du.ə]/[fitə'du:]",
+        "meaning": "nom de Dieu !"
+      },
+      {
+        "word": "TRAWALC'H",
+        "pron": "[tʁa'wax]",
+        "meaning": "assez"
+      },
+      {
+        "word": "UN DRA BENNAK(ET)",
+        "pron": "[be'naᵊk]/[bə'nẹkət]",
+        "meaning": "quelque chose"
+      },
+      {
+        "word": "DIHANAÑ",
+        "pron": "[di'hɑ̃.nɑ̃]",
+        "meaning": "arrêter"
+      },
+      {
+        "word": "PAOUEZ",
+        "pron": "['pɔwəs]",
+        "meaning": "arrêter"
+      },
+      {
+        "word": "EZHOMM",
+        "pron": "['e.ɔ̃m]/['ẹm]",
+        "meaning": "besoin"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Naon 'm eus...",
+        "written": "Naon am eus...",
+        "fr": "J'ai faim..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Chit !",
+        "written": "Chik !",
+        "fr": "Chut !"
+      },
+      {
+        "speaker": "a",
+        "oral": "Naon-du 'm eus...",
+        "written": "Naon-du am eus...",
+        "fr": "J'ai une faim de loup..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ro peoc'h, mar plij.",
+        "written": "Ro peoc'h, mar plij.",
+        "fr": "La paix, s'il te plaît."
+      },
+      {
+        "speaker": "a",
+        "oral": "Marnaoniet on...",
+        "written": "Marnaoniet on...",
+        "fr": "Je suis affamé..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Fitedou ! 'Teus ket debret trawalc'h ?",
+        "written": "Fidamdoue ! N'ec'h eus ket debret trawalc'h ?",
+        "fr": "Nom de Dieu ! Tu n'as pas assez mangé ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Geo, met naon 'm eus 'mes tra.",
+        "written": "Eo, met naon am eus memes tra.",
+        "fr": "Si, mais j'ai faim quand même."
+      },
+      {
+        "speaker": "b",
+        "oral": "Kerzh da zebriñ un dra bennaket ha dihan d'ober trouz, skuizh on hag ezhomm 'm eus da gousket !",
+        "written": "Kerzh da zebriñ un dra bennak ha paouez d'ober trouz, skuizh on hag ezhomm em eus da gousket !",
+        "fr": "Va manger quelque chose et arrête de faire du bruit, je suis fatigué et j'ai besoin de dormir !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 12,
+    "title": "daouzek",
+    "vocabulary": [
+      {
+        "word": "A",
+        "pron": "[a]/[ə]",
+        "meaning": "particule verbale relative"
+      },
+      {
+        "word": "KALZ",
+        "pron": "['kals]",
+        "meaning": "beaucoup"
+      },
+      {
+        "word": "RE",
+        "pron": "['ʁe]",
+        "meaning": "trop"
+      },
+      {
+        "word": "ALIES",
+        "pron": "[a'li.əs]",
+        "meaning": "souvent"
+      },
+      {
+        "word": "KOMPREN",
+        "pron": "['kɔ̃mpʁən]",
+        "meaning": "comprendre"
+      },
+      {
+        "word": "BUTUNAT",
+        "pron": "[by'ty.nat]",
+        "meaning": "fumer"
+      },
+      {
+        "word": "SAOZNEG",
+        "pron": "['soznək]/['zoznək]",
+        "meaning": "anglais (langue)"
+      },
+      {
+        "word": "GLAV",
+        "pron": "['glaw]/['glo:]",
+        "meaning": "(de la) pluie"
+      },
+      {
+        "word": "HEOL",
+        "pron": "['hẹwl]/['hjo:l]",
+        "meaning": "(du) soleil"
+      },
+      {
+        "word": "ERC'H",
+        "pron": "['ɛx]",
+        "meaning": "(de la) neige"
+      },
+      {
+        "word": "BEZAÑ KAT DA",
+        "pron": "['kat]",
+        "meaning": "être capable de (langue parlée uniquement)"
+      },
+      {
+        "word": "BEZAÑ GOUEST DA",
+        "pron": "['gwest]",
+        "meaning": "être capable de"
+      },
+      {
+        "word": "A-WEZHIOÙ",
+        "pron": "[(ə)'weʃu]/[(ə)'weʒu]",
+        "meaning": "parfois"
+      },
+      {
+        "word": "START",
+        "pron": "['staʁt]",
+        "meaning": "dur"
+      },
+      {
+        "word": "DOMAJ",
+        "pron": "['dɔ̃maʃ]",
+        "meaning": "dommage"
+      },
+      {
+        "word": "RAK",
+        "pron": "[ʁak]",
+        "meaning": "car"
+      },
+      {
+        "word": "KAR (KA')",
+        "pron": "[kaʁ]/[ka]",
+        "meaning": "car (langue parlée uniquement)"
+      },
+      {
+        "word": "BEAJIÑ",
+        "pron": "[be'a.ʒĩ]",
+        "meaning": "voyager"
+      },
+      {
+        "word": "DRE AR BED",
+        "pron": "[dʁeə'bé:t]",
+        "meaning": "de par le monde"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Komz 'rit saozneg ?",
+        "written": "Komz a rit saozneg ?",
+        "fr": "Vous parlez anglais ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, komz 'ran mat 'walc'h. Na c'hwi ?",
+        "written": "Ya, komz a ran mat a-walc'h. Na c'hwi ?",
+        "fr": "Oui, je le parle assez bien. Et vous ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "'Ran ket, met selaou 'ran ar BBC alies, ha kompren mat 'ran.",
+        "written": "Ne ran ket, met selaou a ran ar BBC alies, ha kompren mat a ran.",
+        "fr": "Non, mais j'écoute souvent la BBC, et je comprends bien."
+      },
+      {
+        "speaker": "b",
+        "oral": "N'oc'h ket kat da gomz gant an dud ?",
+        "written": "N'oc'h ket gouest da gomz gant an dud ?",
+        "fr": "Vous n'êtes pas capable de parler avec les gens ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Nann siwazh, klask 'ran 'wezhioù met kavout 'ran se start.",
+        "written": "Nann siwazh, klask a ran a-wezhioù met kavout a ran se start.",
+        "fr": "Non hélas, j'essaie parfois, mais je trouve ça difficile."
+      },
+      {
+        "speaker": "b",
+        "oral": "Domaj eo...",
+        "written": "Domaj eo...",
+        "fr": "C'est dommage..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, domaj eo, ka' beajiñ 'ran alies dre ar bed...",
+        "written": "Ya, domaj eo, rak beajiñ a ran alies dre ar bed...",
+        "fr": "Oui, c'est dommage, car je voyage souvent de par le monde..."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 13,
+    "title": "trizek",
+    "vocabulary": [
+      {
+        "word": "SANTOUT",
+        "pron": "['sɑ̃ntut]/['zɑ̃ntut]",
+        "meaning": "sentir"
+      },
+      {
+        "word": "C'HOARI",
+        "pron": "['xwa.ʁi]/['hwa.i]",
+        "meaning": "jouer"
+      },
+      {
+        "word": "SOÑJAL",
+        "pron": "['sɔ̃:ʒal]/['zɔ̃:ʒal]",
+        "meaning": "penser"
+      },
+      {
+        "word": "KEN",
+        "pron": "['ken]",
+        "meaning": "plus"
+      },
+      {
+        "word": "BETEK BREMAÑ",
+        "pron": "[bete'bʁẹmə]",
+        "meaning": "jusqu'à présent"
+      },
+      {
+        "word": "NE RAN NEMET",
+        "pron": "[neʁɑ̃nnemet]",
+        "meaning": "je ne fais que"
+      },
+      {
+        "word": "NE RAN KEN MET",
+        "pron": "[ⁿᵉʁɑ̃ŋkemet]",
+        "meaning": "je ne fais que"
+      },
+      {
+        "word": "'RAN KET MET",
+        "pron": "['ʁɑ̃ŋkəme]",
+        "meaning": "je ne fais que (langue parlée)"
+      },
+      {
+        "word": "N'A KET",
+        "pron": "['nakət]/[na'ket]",
+        "meaning": "il/elle/ça ne va pas"
+      },
+      {
+        "word": "RE VAT",
+        "pron": "['ʁevat]",
+        "meaning": "trop bien"
+      },
+      {
+        "word": "A BON",
+        "pron": "[a'bɔn]",
+        "meaning": "ah bon..."
+      },
+      {
+        "word": "TAPOUT",
+        "pron": "['taput]",
+        "meaning": "attraper, prendre"
+      },
+      {
+        "word": "ANOUED",
+        "pron": "[ɑ̃'nu.ət]",
+        "meaning": "froid"
+      },
+      {
+        "word": "'M EUS AON",
+        "pron": "[mø'zɑ̃wn]/[mə'zɔwn]",
+        "meaning": "je crains, je pense"
+      },
+      {
+        "word": "STREVIAL",
+        "pron": "['stʁevjal]",
+        "meaning": "éternuer"
+      },
+      {
+        "word": "PASAAT",
+        "pron": "[pa'sa:t]",
+        "meaning": "tousser"
+      },
+      {
+        "word": "KEMER",
+        "pron": "['keməʁ]",
+        "meaning": "prendre"
+      },
+      {
+        "word": "LOUZOÙ",
+        "pron": "['lu.zu] (pl. louzeier [lu'zẹjəʁ])",
+        "meaning": "médicament"
+      },
+      {
+        "word": "EFEDUS",
+        "pron": "[e'fe.dys]",
+        "meaning": "efficace"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Penaos 'mañ kont ?",
+        "written": "Penaos emañ kont ?",
+        "fr": "Comment ça va ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'a ket re vat...",
+        "written": "Ned a ket re vat...",
+        "fr": "Pas très bien..."
+      },
+      {
+        "speaker": "a",
+        "oral": "A bon...",
+        "written": "A bon...",
+        "fr": "Ah bon..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, 'ran ket met strevial ha pasaat, tapet 'm eus anoued 'm eus aon.",
+        "written": "Ya, ne ran ken met strevial ha pasaat, tapet am eus anoued 'm eus aon.",
+        "fr": "Oui, je ne fais qu'éternuer et tousser, j'ai attrapé froid, je crois."
+      },
+      {
+        "speaker": "a",
+        "oral": "'Gemerez ket louzeier ?",
+        "written": "Ne gemerez ket louzeier ?",
+        "fr": "Tu ne prends pas de médicaments ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Geo, met betek bremañ n'int ket bet gwall efedus.",
+        "written": "Eo, met betek bremañ n'int ket bet gwall efedus.",
+        "fr": "Si, mais jusqu'à présent ils n'ont pas été très efficaces."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 14,
+    "title": "pevarzek",
+    "vocabulary": [
+      {
+        "word": "A",
+        "pron": "[a]/[ə]",
+        "meaning": "particule verbale (& « pronom » relatif)"
+      },
+      {
+        "word": "YEZH°",
+        "pron": "['je:s] (pl. -où ['je.zu])",
+        "meaning": "langue"
+      },
+      {
+        "word": "BREZHONEG",
+        "pron": "[bʁe'zɔ̃.nək]",
+        "meaning": "breton (langue)"
+      },
+      {
+        "word": "GALLEG",
+        "pron": "['galək]",
+        "meaning": "français (langue)"
+      },
+      {
+        "word": "DA GREISTEIZ",
+        "pron": "[dəgʁẹj'ste]",
+        "meaning": "à midi"
+      },
+      {
+        "word": "LAVARET / LÂRET",
+        "pron": "[la'va.ʁət]/['la.ʁət]",
+        "meaning": "dire"
+      },
+      {
+        "word": "AR PEZH A",
+        "pron": "[aʁ'pe.za]/['pe.zə]",
+        "meaning": "ce que"
+      },
+      {
+        "word": "HERVEZ KONT",
+        "pron": "[hẹʁve'kɔ̃n]",
+        "meaning": "à ce qu'on raconte"
+      },
+      {
+        "word": "KIG",
+        "pron": "['kik]",
+        "meaning": "(de la) viande"
+      },
+      {
+        "word": "ABAOE",
+        "pron": "[ə'bɔwə]/['bwe]",
+        "meaning": "depuis"
+      },
+      {
+        "word": "MIZ",
+        "pron": "['mi:s] (pl. -ioù ['miʒu])",
+        "meaning": "mois"
+      },
+      {
+        "word": "BREMAÑ",
+        "pron": "['bʁẹmə]",
+        "meaning": "maintenant"
+      },
+      {
+        "word": "UI / VI",
+        "pron": "['ɥi:]/['vi:] (pl. -ioù ['ɥi.u])",
+        "meaning": "œuf"
+      },
+      {
+        "word": "LEGUMAJ",
+        "pron": "[le'gymaʃ]",
+        "meaning": "(des) légumes"
+      },
+      {
+        "word": "DREIST-HOLL",
+        "pron": "[dʁẹjs'tɔl]",
+        "meaning": "surtout"
+      },
+      {
+        "word": "SURTOUT",
+        "pron": "[syʁ'tut]",
+        "meaning": "surtout (dans un style relâché)"
+      },
+      {
+        "word": "PESK",
+        "pron": "['pesk] (pl. -ed ['peskət])",
+        "meaning": "poisson"
+      },
+      {
+        "word": "PESKED",
+        "pron": "['peskət]",
+        "meaning": "(du) poisson"
+      },
+      {
+        "word": "UR WEZH AN AMZER",
+        "pron": "[ᵊʁveʒᵊn'ɑ̃mzəʁ]",
+        "meaning": "une fois de temps en temps"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Gwir eo 'pezh 'glevan lâret ?",
+        "written": "Gwir eo ar pezh a glevan lavaret ?",
+        "fr": "C'est vrai, ce que j'entends dire ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Oaran ket... petra 'glevez lâret ?",
+        "written": "N'ouzon ket... petra a glevez lavaret ?",
+        "fr": "Je ne sais pas... qu'est-ce que tu entends dire ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Hervez kont 'zebrez ket kig ken...",
+        "written": "Hervez kont ne zebrez ket kig ken.",
+        "fr": "À ce qu'on raconte, tu ne manges plus de viande..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, gwir eo, 'm eus ket debret kig 'baoe miz bremañ.",
+        "written": "Ya, gwir eo, n'em eus ket debret kig abaoe miz bremañ.",
+        "fr": "Oui, c'est vrai, je n'ai pas mangé de viande depuis un mois maintenant."
+      },
+      {
+        "speaker": "a",
+        "oral": "Na petra 'zebrez neuze ?",
+        "written": "Petra a zebrez neuze ?",
+        "fr": "Et qu'est-ce que tu manges, alors ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Uioù ha legumaj surtout...",
+        "written": "Vioù ha legumaj dreist-holl.",
+        "fr": "Des œufs et des légumes, surtout..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Na pesked ?",
+        "written": "Na pesked ?",
+        "fr": "Et du poisson ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Pesked 'zebran c'hoazh ur wezh an amzer, met 'ran ket alies.",
+        "written": "Pesked a zebran c'hoazh ur wezh an amzer, met ne ran ket alies.",
+        "fr": "Du poisson, j'en mange encore de temps en temps, mais pas souvent."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 15,
+    "title": "pemzek",
+    "vocabulary": [
+      {
+        "word": "A",
+        "pron": "[a]/[ə]",
+        "meaning": "particule verbale (& « pronom » relatif)"
+      },
+      {
+        "word": "(a) OAR",
+        "pron": "['wa:ʁ]",
+        "meaning": "sait (savoir)"
+      },
+      {
+        "word": "GOUZOUT",
+        "pron": "['gu.zut]",
+        "meaning": "savoir"
+      },
+      {
+        "word": "GOÛT",
+        "pron": "['gu.t]/['gut]",
+        "meaning": "savoir"
+      },
+      {
+        "word": "SPAGNOLEG",
+        "pron": "[spɑ̃'ɲolək]",
+        "meaning": "espagnol (langue)"
+      },
+      {
+        "word": "KANAÑ",
+        "pron": "['kɑ̃.nɑ̃]",
+        "meaning": "chanter"
+      },
+      {
+        "word": "SKRIVAÑ",
+        "pron": "['skʁi.vɑ̃]",
+        "meaning": "écrire"
+      },
+      {
+        "word": "BRAV",
+        "pron": "['bʁaw]",
+        "meaning": "bien, beau"
+      },
+      {
+        "word": "AR RE",
+        "pron": "[ə'ʁe]",
+        "meaning": "ceux, celles"
+      },
+      {
+        "word": "EN DA",
+        "pron": "[ẹnda]",
+        "meaning": "dans ton, dans ta, dans tes (style relâché)"
+      },
+      {
+        "word": "EZ",
+        "pron": "[ẹs]",
+        "meaning": "dans ton, dans ta, dans tes (style soutenu)"
+      },
+      {
+        "word": "JAPANEG",
+        "pron": "[ʒa'pɑ̃.nək]",
+        "meaning": "japonais (langue)"
+      },
+      {
+        "word": "E MOD EBET",
+        "pron": "[e'mo.dbet]",
+        "meaning": "d'aucune façon"
+      },
+      {
+        "word": "MERC'H°",
+        "pron": "['mẹx] (pl. -ed ['mẹhət])",
+        "meaning": "fille (daughter)"
+      },
+      {
+        "word": "UN TAMMIG",
+        "pron": "[œn'tɑ̃mic]/[ɔ̃n'tɑ̃mic]",
+        "meaning": "un peu"
+      },
+      {
+        "word": "MAB",
+        "pron": "['ma:p] (pl. -où ['ma.bu])",
+        "meaning": "fils"
+      },
+      {
+        "word": "TOUT",
+        "pron": "[tut]",
+        "meaning": "tout"
+      },
+      {
+        "word": "MANN EBET",
+        "pron": "['mɑ̃nbet]",
+        "meaning": "rien"
+      },
+      {
+        "word": "JAMES",
+        "pron": "['ʒɑ̃məs]",
+        "meaning": "jamais"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Piv 'gomz brezhoneg en da familh ?",
+        "written": "Piv a gomz brezhoneg ez familh ?",
+        "fr": "Qui parle breton dans ta famille ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ma zad ha me.",
+        "written": "Ma zad ha me.",
+        "fr": "Mon père et moi."
+      },
+      {
+        "speaker": "a",
+        "oral": "Da vamm 'oar ket ?",
+        "written": "Da vamm ne oar ket ?",
+        "fr": "Ta mère ne sait pas ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann, japaneg 'oar mat met brezhoneg 'oar ket e mod ebet.",
+        "written": "Nann, japaneg a oar mat met brezhoneg ne oar ket e mod ebet.",
+        "fr": "Non, elle sait bien le japonais, mais le breton, pas du tout."
+      },
+      {
+        "speaker": "a",
+        "oral": "Sell 'ta ! Ha da vugale 'gomzont ket brezhoneg ?",
+        "written": "Sell 'ta ! Ha da vugale ne gomzont ket brezhoneg ?",
+        "fr": "Tiens donc ! Et tes enfants ne parlent pas breton ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann. Ar verc'h 'gompren un tammig met ar mab 'ra ket.",
+        "written": "Nann. Ar verc'h a gompren un tammig met ar mab ne ra ket.",
+        "fr": "Non. Ma fille comprend un peu, mais mon fils non."
+      },
+      {
+        "speaker": "a",
+        "oral": "Na da gi ?",
+        "written": "Na da gi ?",
+        "fr": "Et ton chien ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Hennezh 'gompren tout met 'lâr ket mann 'bet james.",
+        "written": "Hennezh a gompren tout met ne lavar ket mann ebet james.",
+        "fr": "Lui, il comprend tout, mais il ne dit jamais rien."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 16,
+    "title": "c'hwezek",
+    "vocabulary": [
+      {
+        "word": "E",
+        "pron": "[e]/[ə]",
+        "meaning": "particule verbale"
+      },
+      {
+        "word": "EZ = EC'H",
+        "pron": "[ez] = [əh]",
+        "meaning": "(cette même particule devant voyelle)"
+      },
+      {
+        "word": "BEMDEZ",
+        "pron": "['bẹmde]",
+        "meaning": "tous les jours"
+      },
+      {
+        "word": "DONT",
+        "pron": "['dɔ̃nᵗ] (base verbale DEU ['dø])",
+        "meaning": "venir"
+      },
+      {
+        "word": "MONT",
+        "pron": "['mɔ̃nᵗ] (base verbale A ['a])",
+        "meaning": "aller"
+      },
+      {
+        "word": "DA",
+        "pron": "[də]",
+        "meaning": "à (avec mouvement) (cf. to en anglais)"
+      },
+      {
+        "word": "PA",
+        "pron": "[pə]",
+        "meaning": "quand (conjonction)"
+      },
+      {
+        "word": "TRA",
+        "pron": "['tʁa:] (pl. -où ['tʁɔw]/['tʁẹw])",
+        "meaning": "chose"
+      },
+      {
+        "word": "KAER",
+        "pron": "['kɛ:ʁ]",
+        "meaning": "beau, très beau"
+      },
+      {
+        "word": "DLEOUT",
+        "pron": "['gle.ʷ]",
+        "meaning": "devoir"
+      },
+      {
+        "word": "BEZAÑ",
+        "pron": "['be.ɑ̃]",
+        "meaning": "être"
+      },
+      {
+        "word": "BRO°",
+        "pron": "['bʁó:] (pl. -ioù ['bʁóju])",
+        "meaning": "pays"
+      },
+      {
+        "word": "UR GAER A VRO",
+        "pron": "[oˌgɛ.ʁə'vʁó:]",
+        "meaning": "un pays magnifique"
+      },
+      {
+        "word": "KAS",
+        "pron": "['kas]",
+        "meaning": "envoyer, passer (le temps)"
+      },
+      {
+        "word": "WAR AR SIZHUN",
+        "pron": "[waʁ'zœ:n]",
+        "meaning": "en semaine"
+      },
+      {
+        "word": "FOTO°",
+        "pron": "[fo'to:]/['foto] (pl. -ioù [fo'toju])",
+        "meaning": "photo"
+      },
+      {
+        "word": "DA SUL",
+        "pron": "[də'zy:l]",
+        "meaning": "le dimanche"
+      },
+      {
+        "word": "LUC'HSKEUDENN°",
+        "pron": "[lyx'skø.dən] (pl. -où)",
+        "meaning": "photographie"
+      },
+      {
+        "word": "UR WEZH AR BLOAZ",
+        "pron": "[oˌveʒə'bla]",
+        "meaning": "une fois par an"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Penaos 'h a an traoù 'ba'r Groenland ?",
+        "written": "Penaos ez a an traoù e Groenland ?",
+        "fr": "Comment ça se passe au Groenland ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Mat 'walc'h.",
+        "written": "Mat a-walc'h.",
+        "fr": "Assez bien."
+      },
+      {
+        "speaker": "a",
+        "oral": "Kaer 'tle bezañ ar vro...",
+        "written": "Kaer e tle bezañ ar vro...",
+        "fr": "Le pays doit être beau..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, ur gaer a vro eo met 'wezhioù 'kavan hir an amzer 'mes tra.",
+        "written": "Ya, ur gaer a vro eo met a-wezhioù e kavan hir an amzer memes tra.",
+        "fr": "Oui, c'est un pays magnifique, mais parfois je trouve le temps long quand même."
+      },
+      {
+        "speaker": "a",
+        "oral": "Penaos 'kasez da amzer eno ?",
+        "written": "Penaos e kasez da amzer eno ?",
+        "fr": "Comment passes-tu ton temps là-bas ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "War ar s'un 'h an d'o'r fotoioù, ha da Sul 'choman da lenn 'ba' ma igloo.",
+        "written": "War ar sizhun ez an d'ober luc'hskeudennoù, ha da Sul e choman da lenn em igloo.",
+        "fr": "En semaine, je vais faire des photos, et le dimanche je reste lire dans mon igloo."
+      },
+      {
+        "speaker": "a",
+        "oral": "Da wreg 'welez ur wezh an amzer ?",
+        "written": "Ha da wreg a welez ur wezh an amzer ?",
+        "fr": "Et ta femme, tu la vois de temps en temps ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, ur wezh ar bloaz 'teu da welet 'hanon.",
+        "written": "Ya, ur wezh ar bloaz e teu da welet ac'hanon.",
+        "fr": "Oui, une fois par an, elle vient me voir."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 17,
+    "title": "seitek",
+    "vocabulary": [
+      {
+        "word": "EMAÑ",
+        "pron": "['ma]/['mɑ̃]",
+        "meaning": "est (se trouve)"
+      },
+      {
+        "word": "KEGIN°",
+        "pron": "['ké.gin] (pl. -où [ke'gi.nu])",
+        "meaning": "cuisine"
+      },
+      {
+        "word": "ER-MAEZ",
+        "pron": "[eʁ'mẹ:s]",
+        "meaning": "dehors"
+      },
+      {
+        "word": "DINDAN",
+        "pron": "[din'dɑ̃:n]",
+        "meaning": "sous"
+      },
+      {
+        "word": "TAOL°",
+        "pron": "['to:l] (pl. -ioù ['tolju])",
+        "meaning": "table"
+      },
+      {
+        "word": "EMAINT",
+        "pron": "['maɲᶜ]/['mɑ̃ɲᶜ]",
+        "meaning": "sont (se trouvent)"
+      },
+      {
+        "word": "OUZH",
+        "pron": "[us]",
+        "meaning": "contre, à = DEUZH [døs] (relâché)"
+      },
+      {
+        "word": "WAR",
+        "pron": "[waʁ]",
+        "meaning": "sur"
+      },
+      {
+        "word": "KADOR°",
+        "pron": "['ka:dɔʁ] (pl. -ioù [ka'dɔʁju])",
+        "meaning": "chaise"
+      },
+      {
+        "word": "TI-GAR",
+        "pron": "[ti'ga:ʁ] (pl. tiez-gar [tie'ga:ʁ])",
+        "meaning": "gare"
+      },
+      {
+        "word": "TI-POST",
+        "pron": "[ti'pɔst] (pl. tiez-post [tie'pɔst])",
+        "meaning": "poste"
+      },
+      {
+        "word": "TI-KÊR",
+        "pron": "[ti'kẹ:ʁ] (pl. tiez-kêr [tie'kẹ:ʁ])",
+        "meaning": "mairie"
+      },
+      {
+        "word": "MAR PLIJ",
+        "pron": "[maʁ'pliʃ]",
+        "meaning": "s'il te plaît, s'il vous plaît"
+      },
+      {
+        "word": "LUNEDOÙ",
+        "pron": "[ly'ne:du]",
+        "meaning": "(paire de) lunettes"
+      },
+      {
+        "word": "NEBLEC'H",
+        "pron": "[ne'blex]",
+        "meaning": "nulle part"
+      },
+      {
+        "word": "'BLEC'H 'BET",
+        "pron": "['blehbet]",
+        "meaning": "nulle part (relâché)"
+      },
+      {
+        "word": "GWELE",
+        "pron": "['gwe.le] (pl. -où [gwe'le.u])",
+        "meaning": "lit"
+      },
+      {
+        "word": "CHUPENN°",
+        "pron": "['ʃypən] (pl. -où [ʃy'pẹnu])",
+        "meaning": "veste"
+      },
+      {
+        "word": "KAZH",
+        "pron": "['ka:s] (pl. kizhier ['kiʒəʁ])",
+        "meaning": "chat"
+      },
+      {
+        "word": "AZE",
+        "pron": "['a:ze]/['ahə]",
+        "meaning": "là"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "'Teus ket gwelet ma lunedoù ?",
+        "written": "N'ec'h eus ket gwelet ma lunedoù ?",
+        "fr": "Tu n'as pas vu mes lunettes ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann.",
+        "written": "Nann.",
+        "fr": "Non."
+      },
+      {
+        "speaker": "a",
+        "oral": "'Gavan ket 'nê 'blec'h 'bet.",
+        "written": "Ne gavan anezho neblec'h.",
+        "fr": "Je ne les trouve nulle part."
+      },
+      {
+        "speaker": "b",
+        "oral": "'Maint ket dindan ar gwele ?",
+        "written": "N'emaint ket dindan ar gwele ?",
+        "fr": "Elles ne sont pas sous le lit ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Nann.",
+        "written": "Nann.",
+        "fr": "Non."
+      },
+      {
+        "speaker": "b",
+        "oral": "Klasket 'teus en da chupenn ?",
+        "written": "Klasket ec'h eus ez chupenn ?",
+        "fr": "Tu as cherché dans ta veste ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "'M eus ket. P'lec'h 'mañ ?",
+        "written": "N'em eus ket. Pelec'h emañ ?",
+        "fr": "Non. Où est-elle ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "War ar gador aze, 'kichen ar c'hazh.",
+        "written": "War ar gador aze, e-kichen ar c'hazh.",
+        "fr": "Sur la chaise, là, à côté du chat."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 18,
+    "title": "triwec'h",
+    "vocabulary": [
+      {
+        "word": "O",
+        "pron": "[o]",
+        "meaning": "particule verbale (« -ing » en anglais)"
+      },
+      {
+        "word": "OC'H",
+        "pron": "[oh]",
+        "meaning": "= O devant une voyelle (oc'h ober)"
+      },
+      {
+        "word": "DAÑSAL",
+        "pron": "['dɑ̃.sal]",
+        "meaning": "danser"
+      },
+      {
+        "word": "REDEK",
+        "pron": "['ʁé.dək]",
+        "meaning": "courir"
+      },
+      {
+        "word": "BEZAÑ O CHOM",
+        "pron": "[ˌbé.ɑ̃'ʃɔ̃m]",
+        "meaning": "habiter"
+      },
+      {
+        "word": "LABOURAT",
+        "pron": "[la'bu.ʁat]",
+        "meaning": "travailler"
+      },
+      {
+        "word": "DESKIÑ",
+        "pron": "['deskĩ]",
+        "meaning": "apprendre"
+      },
+      {
+        "word": "SANT-BRIEG",
+        "pron": "[zɑ̃m'bʁi.ək]",
+        "meaning": "Saint-Brieuc"
+      },
+      {
+        "word": "ROAZHON",
+        "pron": "['ʁwa.ɔ̃n]",
+        "meaning": "Rennes"
+      },
+      {
+        "word": "NAONED",
+        "pron": "['nɑ̃wnət]",
+        "meaning": "Nantes"
+      },
+      {
+        "word": "DRE AMAÑ",
+        "pron": "[dʁe'ɑ̃mɑ̃]",
+        "meaning": "par ici"
+      },
+      {
+        "word": "BUS",
+        "pron": "['bys] (pl. -où ['bysu])",
+        "meaning": "bus"
+      },
+      {
+        "word": "PELL ZO",
+        "pron": "[pẹl'zo]",
+        "meaning": "il y a longtemps (que)"
+      },
+      {
+        "word": "ERRU",
+        "pron": "['ẹʁy]/['aj]",
+        "meaning": "arrivé"
+      },
+      {
+        "word": "A'I",
+        "pron": "['aj]",
+        "meaning": "= ERRU (forme parlée à éviter à l'écrit)"
+      },
+      {
+        "word": "AMAÑ E-GIZ-MAÑ",
+        "pron": "[ɑ̃mɑ̃'gimɑ̃]",
+        "meaning": "ici même"
+      },
+      {
+        "word": "KREIZ-KÊR",
+        "pron": "[kʁẹjs'kẹ:ʁ]",
+        "meaning": "le centre-ville"
+      },
+      {
+        "word": "SELL !",
+        "pron": "['sẹl]/['sẹ]",
+        "meaning": "tiens !"
+      },
+      {
+        "word": "ALE",
+        "pron": "[a'le]",
+        "meaning": "allez (interj.)"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "'H ober petra 'maout dre amañ ?",
+        "written": "Oc'h ober petra emaout dre amañ ?",
+        "fr": "Qu'est-ce que tu fais par ici ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'C'hortoz ar bus 'maon.",
+        "written": "O c'hortoz ar bus emaon.",
+        "fr": "J'attends le bus."
+      },
+      {
+        "speaker": "a",
+        "oral": "P'lec'h 'maout 'chom ?",
+        "written": "Pelec'h emaout o chom ?",
+        "fr": "Où est-ce que tu habites ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Ba' Ploufragan...",
+        "written": "E Ploufragan...",
+        "fr": "À Ploufragan..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Pell zo 'maout 'c'hortoz 'n'añ ?",
+        "written": "Pell zo emaout o c'hortoz anezhañ ?",
+        "fr": "Ça fait longtemps que tu l'attends ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, a'i on skuizh ! Na te, p'lec'h 'maout 'chom ?",
+        "written": "Ya, erru on skuizh ! Na te, pelec'h emaout o chom ?",
+        "fr": "Oui, j'en ai assez ! Et toi, où est-ce que tu habites ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Me zo 'chom amañ 'giz-mañ, 'ba' kreiz-kêr.",
+        "written": "Me zo o chom amañ e-giz-mañ, e kreiz-kêr.",
+        "fr": "Moi, j'habite juste ici, au centre-ville."
+      },
+      {
+        "speaker": "b",
+        "oral": "Chañs 'teus... se', 'mañ ar bus 'tont ! Ale, kenavo !",
+        "written": "Chañs ac'h eus... Sell, emañ ar bus o tont ! Ale, kenavo !",
+        "fr": "Tu as de la chance... Tiens, voilà le bus qui arrive ! Allez, au revoir !"
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 19,
+    "title": "naontek",
+    "vocabulary": [
+      {
+        "word": "DEC'H",
+        "pron": "['dẹx]",
+        "meaning": "hier"
+      },
+      {
+        "word": "EN NOZ-SE",
+        "pron": "[ə'nóse]",
+        "meaning": "cette nuit-là"
+      },
+      {
+        "word": "DEC'H DA NOZ",
+        "pron": "[dẹhdə'nó:s]",
+        "meaning": "hier soir"
+      },
+      {
+        "word": "PREST",
+        "pron": "['pʁest]",
+        "meaning": "prêt"
+      },
+      {
+        "word": "DEIZ",
+        "pron": "['dé:] (pl. -ioù ['deju])",
+        "meaning": "jour"
+      },
+      {
+        "word": "DISUL",
+        "pron": "[di'sy:l]",
+        "meaning": "dimanche passé"
+      },
+      {
+        "word": "DISADORN",
+        "pron": "[di'sa.dəⁿn]",
+        "meaning": "samedi passé"
+      },
+      {
+        "word": "FARSAL",
+        "pron": "['faʁsal]",
+        "meaning": "plaisanter"
+      },
+      {
+        "word": "SEVEL",
+        "pron": "['sé.vəl]/['zé.vəl]",
+        "meaning": "se lever"
+      },
+      {
+        "word": "DISKUIZHAÑ",
+        "pron": "[di'skwi.zɑ̃]/[di'skɥi.zɑ̃]",
+        "meaning": "se reposer"
+      },
+      {
+        "word": "ALO",
+        "pron": "[a'lo]",
+        "meaning": "allô"
+      },
+      {
+        "word": "SALUD",
+        "pron": "['sa.lyt]",
+        "meaning": "salut"
+      },
+      {
+        "word": "TOULL-NOZ",
+        "pron": "[tul'nó:s] (pl. -où-noz)",
+        "meaning": "« boîte » (branché)"
+      },
+      {
+        "word": "BOEST-NOZ°",
+        "pron": "[bwest'nó:s] (pl. -où-noz)",
+        "meaning": "boîte de nuit"
+      },
+      {
+        "word": "NEVEZ-DIGORET",
+        "pron": "[ˌne.vedi'gó.ʁət]",
+        "meaning": "nouvellement ouvert"
+      },
+      {
+        "word": "BETEK",
+        "pron": "[beteᵏ]",
+        "meaning": "jusque"
+      },
+      {
+        "word": "PET EUR",
+        "pron": "['pedəʁ]",
+        "meaning": "quelle heure"
+      },
+      {
+        "word": "ERRUOUT",
+        "pron": "[e'ʁy:ut]/['ajut]",
+        "meaning": "arriver"
+      },
+      {
+        "word": "SAVET",
+        "pron": "['sa.vət]/['za.vət]",
+        "meaning": "levé"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Alo Bob ?",
+        "written": "Alo Bob ?",
+        "fr": "Allô, Bob ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, me 'ni eo.",
+        "written": "Ya, me an hini eo.",
+        "fr": "Oui, c'est moi."
+      },
+      {
+        "speaker": "a",
+        "oral": "Salud, amañ eo Yann, 'oas ket 'labourat 'michañs ?",
+        "written": "Salud, amañ eo Yann, ne oas ket o labourat emichañs ?",
+        "fr": "Salut, c'est Yann. Tu n'étais pas en train de travailler, j'espère ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann, 'tiskuizhañ 'oan.",
+        "written": "Nann, o tiskuizhañ e oan.",
+        "fr": "Non, je me reposais."
+      },
+      {
+        "speaker": "a",
+        "oral": "P'lec'h 'oas dec'h da noz ?",
+        "written": "Pelec'h e oas dec'h da noz ?",
+        "fr": "Où étais-tu hier soir ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Ba'n toull-noz zo nevez-digoret 'ba' kreiz-kêr.",
+        "written": "Er voest-noz zo nevez-digoret e kreiz-kêr.",
+        "fr": "Dans la boîte qui vient d'ouvrir au centre-ville."
+      },
+      {
+        "speaker": "a",
+        "oral": "Betek pet eur 'oas chomet eno ?",
+        "written": "Betek pet eur e oas chomet eno ?",
+        "fr": "Jusqu'à quelle heure es-tu resté là-bas ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "'Oaran ket kaer, met savet 'oa an heol pa oan erruet 'ba'r gêr.",
+        "written": "N'ouzon ket kaer, met savet e oa an heol pa oan erruet er gêr.",
+        "fr": "Je ne sais pas trop, mais le soleil était levé quand je suis rentré à la maison."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 20,
+    "title": "ugent",
+    "vocabulary": [
+      {
+        "word": "DIMEURZH",
+        "pron": "[di'mœʁs]",
+        "meaning": "mardi passé"
+      },
+      {
+        "word": "DIMERC'HER",
+        "pron": "[di'mẹhəʁ]",
+        "meaning": "mercredi passé"
+      },
+      {
+        "word": "DIRIAOU",
+        "pron": "['diʁjɔw]",
+        "meaning": "jeudi passé"
+      },
+      {
+        "word": "DIGWENER",
+        "pron": "[di'gwẽ.nəʁ]",
+        "meaning": "vendredi passé"
+      },
+      {
+        "word": "BLOAZ",
+        "pron": "['blwa]/['bla:] (pl. -ioù)",
+        "meaning": "an"
+      },
+      {
+        "word": "ER BLOAZ-SE",
+        "pron": "[əᵊ'blwase]/[əᵊ'blase]",
+        "meaning": "cette année-là"
+      },
+      {
+        "word": "DEIZ",
+        "pron": "['de:] (pl. -ioù ['de.ju])",
+        "meaning": "jour"
+      },
+      {
+        "word": "DILUN VINTIN",
+        "pron": "[di'ly:n]/[di'lœ:n] ['vintin]",
+        "meaning": "lundi matin"
+      },
+      {
+        "word": "(DILUN) DA NOZ",
+        "pron": "[də'nó:s]",
+        "meaning": "(lundi) soir"
+      },
+      {
+        "word": "AON",
+        "pron": "['ɑ̃wn]",
+        "meaning": "peur"
+      },
+      {
+        "word": "EVIT",
+        "pron": "[e'vit]/['vit]",
+        "meaning": "pour, ce (devant un complément de temps)"
+      },
+      {
+        "word": "DIBENN-SIZHUN",
+        "pron": "[diben'zy:n]",
+        "meaning": "week-end"
+      },
+      {
+        "word": "MANN NEMET",
+        "pron": "[mɑ̃nⁿᵉ'meᵗ]",
+        "meaning": "rien que"
+      },
+      {
+        "word": "SELLET",
+        "pron": "['sẹlət]/['zẹlət]",
+        "meaning": "regarder"
+      },
+      {
+        "word": "TELE",
+        "pron": "['tele]/[te'le:]",
+        "meaning": "télé"
+      },
+      {
+        "word": "SKINWEL",
+        "pron": "['skinwəl]",
+        "meaning": "télévision"
+      },
+      {
+        "word": "SIZHUNVEZH°",
+        "pron": "['sy.nvəs]/['zy.nvəs]",
+        "meaning": "(durée d'une) semaine"
+      },
+      {
+        "word": "OTO°",
+        "pron": "['oto]/[o'to:]",
+        "meaning": "« auto » (style relâché)"
+      },
+      {
+        "word": "AOD",
+        "pron": "['o:t] (pl. -ioù ['o.ʒu])",
+        "meaning": "côte"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Petra 'poa graet 'vit an dibenn-s'un ?",
+        "written": "Petra ho poa graet evit an dibenn-sizhun ?",
+        "fr": "Qu'est-ce que vous aviez fait ce week-end ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Disadorn 'moamp ket graet mann 'met sellet deuzh an tele ha lenn.",
+        "written": "Disadorn n'hor boa ket graet mann nemet sellet ouzh an tele ha lenn.",
+        "fr": "Samedi, nous n'avions rien fait d'autre que regarder la télé et lire."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ezhomm 'poa da ziskuizhañ moarvat...",
+        "written": "Ezhomm ho poa da ziskuizhañ moarvat...",
+        "fr": "Vous aviez sans doute besoin de vous reposer..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, ur s'unvezh start 'moamp bet.",
+        "written": "Ya, ur sizhunvezh start hor boa bet.",
+        "fr": "Oui, nous avions eu une semaine difficile."
+      },
+      {
+        "speaker": "a",
+        "oral": "Na disul, petra 'poa graet ?",
+        "written": "Na disul, petra ho poa graet ?",
+        "fr": "Et dimanche, qu'est-ce que vous aviez fait ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Tapet 'moamp an oto ha mont betek an aod da vale.",
+        "written": "Tapet hor boa ar c'harr ha mont betek an aod da vale.",
+        "fr": "Nous avions pris la voiture pour aller nous promener jusqu'à la côte."
+      },
+      {
+        "speaker": "a",
+        "oral": "Amzer gaer 'poa bet ?",
+        "written": "Amzer gaer ho poa bet ?",
+        "fr": "Vous aviez eu beau temps ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, chañs 'moamp bet.",
+        "written": "Ya, chañs hor boa bet.",
+        "fr": "Oui, nous avions eu de la chance."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 21,
+    "title": "unan warn-ugent",
+    "vocabulary": [
+      {
+        "word": "KOUEZHAÑ",
+        "pron": "['kwe.ɑ̃]",
+        "meaning": "tomber"
+      },
+      {
+        "word": "GWERZHAÑ",
+        "pron": "['gwẹʁzɑ̃]",
+        "meaning": "vendre"
+      },
+      {
+        "word": "D'AR GÊR",
+        "pron": "[dəʁ'gẹ:ʁ]",
+        "meaning": "à la maison (avec mouvement)"
+      },
+      {
+        "word": "DIJA",
+        "pron": "[di'ʒa:]",
+        "meaning": "déjà"
+      },
+      {
+        "word": "EIZH",
+        "pron": "['ẹjs]",
+        "meaning": "huit"
+      },
+      {
+        "word": "EUR°",
+        "pron": "['ø:ʁ] (pl. -ioù ['øʁju])",
+        "meaning": "heure"
+      },
+      {
+        "word": "MARV",
+        "pron": "['ma.ʁo]",
+        "meaning": "mort"
+      },
+      {
+        "word": "SKUIZH-MARV",
+        "pron": "[skɥiz'ma.ʁo]",
+        "meaning": "très fatigué"
+      },
+      {
+        "word": "BON",
+        "pron": "['bɔn]",
+        "meaning": "bon"
+      },
+      {
+        "word": "MA",
+        "pron": "['ma]",
+        "meaning": "bon"
+      },
+      {
+        "word": "GALLOUT",
+        "pron": "['galut]",
+        "meaning": "pouvoir"
+      },
+      {
+        "word": "N'HALLAN KET",
+        "pron": "[na'lɑ̃ŋkət]",
+        "meaning": "je ne peux pas"
+      },
+      {
+        "word": "A-RAOK",
+        "pron": "[ᵊ'ʁɔk]",
+        "meaning": "avant"
+      },
+      {
+        "word": "NAV",
+        "pron": "['naw]",
+        "meaning": "neuf"
+      },
+      {
+        "word": "GELVER",
+        "pron": "['gẹlvəʁ]",
+        "meaning": "appeler"
+      },
+      {
+        "word": "GALVET",
+        "pron": "['galvət]",
+        "meaning": "appelé"
+      },
+      {
+        "word": "TAKSI",
+        "pron": "['taksi]/[tak'si:] (pl. -où [tak'si.u])",
+        "meaning": "taxi"
+      },
+      {
+        "word": "NOZVEZH VAT",
+        "pron": "[nozəs'va:t]",
+        "meaning": "bonne nuit"
+      },
+      {
+        "word": "DIT",
+        "pron": "['dit]",
+        "meaning": "à toi"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "'Vont da b'lec'h 'maout ?",
+        "written": "O vont da belec'h emaout ?",
+        "fr": "Où vas-tu ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "D'ar gêr... 'Maon 'vont da gousket.",
+        "written": "D'ar gêr... Emaon o vont da gousket.",
+        "fr": "À la maison... Je vais me coucher."
+      },
+      {
+        "speaker": "a",
+        "oral": "Dija ! N'eo ket eizh eur...",
+        "written": "Dija ! N'eo ket eizh eur...",
+        "fr": "Déjà ! Il n'est pas huit heures..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Goût a ran... Met skuizh-marv on.",
+        "written": "Gouzout a ran... Met skuizh-marv on.",
+        "fr": "Je sais... Mais je suis mort de fatigue."
+      },
+      {
+        "speaker": "a",
+        "oral": "Bon, met piv zo 'vont da gas 'hanout ? Ka' me n'hallan ket ober 'raok nav eur.",
+        "written": "Bon, met piv zo o vont da gas ac'hanout ? Rak me ne c'hallan ket ober a-raok nav eur.",
+        "fr": "Bon, mais qui va te raccompagner ? Parce que moi, je ne peux pas avant neuf heures."
+      },
+      {
+        "speaker": "b",
+        "oral": "Mat eo, galvet 'm eus un taksi, sell, 'mañ 'tont aze, ale kenavo !",
+        "written": "Mat eo, galvet em eus un taksi, sell, emañ o tont aze, ale kenavo !",
+        "fr": "C'est bon, j'ai appelé un taxi, regarde, il arrive, allez, au revoir !"
+      },
+      {
+        "speaker": "a",
+        "oral": "Kenavo ha nozvezh vat dit.",
+        "written": "Kenavo ha nozvezh vat dit.",
+        "fr": "Au revoir, et bonne nuit."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 22,
+    "title": "daou warn-ugent",
+    "vocabulary": [
+      {
+        "word": "N'EUS KET",
+        "pron": "[nøs'ket]/['nøskət]",
+        "meaning": "il n'y a pas"
+      },
+      {
+        "word": "HOLEN",
+        "pron": "['ho:lən]",
+        "meaning": "(du) sel"
+      },
+      {
+        "word": "EOUL",
+        "pron": "['ewl]/['iwl]",
+        "meaning": "(de l') huile"
+      },
+      {
+        "word": "N'EUS (KET) TRA",
+        "pron": "[nøska'tʁa]",
+        "meaning": "il n'y a absolument rien"
+      },
+      {
+        "word": "AVEL",
+        "pron": "['a.vəl]/['a:wəl]",
+        "meaning": "(du) vent"
+      },
+      {
+        "word": "EN UN TU BENNAK",
+        "pron": "[nəntybe'na.k]",
+        "meaning": "quelque part"
+      },
+      {
+        "word": "BOUTAILHAD°",
+        "pron": "[bu'tajat] (pl. -où [buta'jadu])",
+        "meaning": "bouteille"
+      },
+      {
+        "word": "BEZ' EZ EUS",
+        "pron": "[be'zøs]",
+        "meaning": "il y a (effectivement)"
+      },
+      {
+        "word": "BEZ' ZO",
+        "pron": "[be'so:]",
+        "meaning": "il y a (effectivement)"
+      },
+      {
+        "word": "DAR°",
+        "pron": "['da:ʁ] (pl. -ioù ['daʁju])",
+        "meaning": "évier"
+      },
+      {
+        "word": "KOULSKOUDE",
+        "pron": "[kus'ku.de]",
+        "meaning": "pourtant, cependant"
+      },
+      {
+        "word": "WARC'HOAZH",
+        "pron": "[waᵊ'hwas]/[aᵊ'hwas]",
+        "meaning": "demain"
+      },
+      {
+        "word": "MA / MAR",
+        "pron": "[ma]/[maᵊ]",
+        "meaning": "si"
+      },
+      {
+        "word": "N'EUS NEMET",
+        "pron": "[nøzneme]",
+        "meaning": "il n'y a que"
+      },
+      {
+        "word": "N'EUS KE' ME'",
+        "pron": "[nøskəme]",
+        "meaning": "il n'y a que (style parlé)"
+      },
+      {
+        "word": "BLEV-KEVNID",
+        "pron": "[blẹw'kẽwnit]",
+        "meaning": "(des) toiles d'araignées"
+      },
+      {
+        "word": "N'EUS KET KEN",
+        "pron": "[nøskə'ken]",
+        "meaning": "il n'y a plus"
+      },
+      {
+        "word": "KAOC'H-KI",
+        "pron": "[kɔx'ki:]",
+        "meaning": "chiotte !"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "'Maon 'vont d'ober pop-corn, eoul zo 'ba'n tu bennak ?",
+        "written": "Emaon o vont d'ober pop-corn, eoul zo en un tu bennak ?",
+        "fr": "Je vais faire du pop-corn, il y a de l'huile quelque part ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ya, bez' zo ur voutailhad dindan an dar.",
+        "written": "Ya, bez' ez eus ur voutailhad dindan an dar.",
+        "fr": "Oui, il y a une bouteille sous l'évier."
+      },
+      {
+        "speaker": "a",
+        "oral": "N'eus ket, n'eus ket tra dindan an dar...",
+        "written": "N'eus ket, n'eus tra dindan an dar...",
+        "fr": "Non, il n'y a rien du tout sous l'évier..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Sur out ? Dec'h 'oa boutailhadoù koulskoude...",
+        "written": "Sur out ? Dec'h e oa boutailhadoù koulskoude...",
+        "fr": "Tu es sûr ? Il y avait pourtant des bouteilles hier..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Deus da welet ma' 'teus c'hoant, sell ! n'eus ke' me' blev-kevnid.",
+        "written": "Deus da welet mar ec'h eus c'hoant, sell ! n'eus nemet blev-kevnid.",
+        "fr": "Viens voir si tu veux, regarde ! Il n'y a que des toiles d'araignées."
+      },
+      {
+        "speaker": "b",
+        "oral": "Goût 'rez petra...",
+        "written": "Gouzout a rez petra...",
+        "fr": "Tu sais quoi..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Petra ?",
+        "written": "Petra ?",
+        "fr": "Quoi ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'eus ket eoul ken...",
+        "written": "N'eus ket eoul ken...",
+        "fr": "Il n'y a plus d'huile..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Kaoc'h-ki...",
+        "written": "Kaoc'h-ki...",
+        "fr": "Chiotte..."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 23,
+    "title": "tri warn-ugent",
+    "vocabulary": [
+      {
+        "word": "ALC'HWEZ",
+        "pron": "['alxwe]/['alve]",
+        "meaning": "clé"
+      },
+      {
+        "word": "GRIP",
+        "pron": "['gʁip]",
+        "meaning": "grippe"
+      },
+      {
+        "word": "STILO",
+        "pron": "['stilo] (pl. -ioù [sti'loju])",
+        "meaning": "stylo"
+      },
+      {
+        "word": "KONTELL°",
+        "pron": "['kɔ̃ntəl] (pl. -où [kɔ̃n'tẹlu])",
+        "meaning": "couteau"
+      },
+      {
+        "word": "TAMM",
+        "pron": "['tɑ̃m] (pl. -où ['tɑ̃mu])",
+        "meaning": "morceau"
+      },
+      {
+        "word": "PAPER",
+        "pron": "['papəʁ]",
+        "meaning": "(du) papier"
+      },
+      {
+        "word": "ARC'HANT (pl.)",
+        "pron": "['aᵊhɑ̃nᵗ]",
+        "meaning": "(de l') argent"
+      },
+      {
+        "word": "C'HWEZH°",
+        "pron": "['xwe:s]/['hɥe:s]",
+        "meaning": "odeur"
+      },
+      {
+        "word": "BOUED",
+        "pron": "['bwet]",
+        "meaning": "nourriture"
+      },
+      {
+        "word": "PEBR",
+        "pron": "['pep]",
+        "meaning": "(du) poivre"
+      },
+      {
+        "word": "DEN EBET",
+        "pron": "['dẽnbet]",
+        "meaning": "personne"
+      },
+      {
+        "word": "HOLEN",
+        "pron": "['ho.lən]",
+        "meaning": "(du) sel"
+      },
+      {
+        "word": "DAL",
+        "pron": "['da.l]/['dẹl]",
+        "meaning": "tiens"
+      },
+      {
+        "word": "MERSI",
+        "pron": "[meʁ'si:]",
+        "meaning": "merci (style relâché)"
+      },
+      {
+        "word": "TRUGAREZ",
+        "pron": "[tʁy'ga.ʁe]",
+        "meaning": "merci (style plus soutenu)"
+      },
+      {
+        "word": "BLAZ",
+        "pron": "['bla:s]",
+        "meaning": "goût"
+      },
+      {
+        "word": "PATATEZ",
+        "pron": "[pa'tatəs]",
+        "meaning": "(des) pommes de terre"
+      },
+      {
+        "word": "MOGED",
+        "pron": "['mo.gət]",
+        "meaning": "fumée"
+      },
+      {
+        "word": "RANKOUT",
+        "pron": "['ʁɑ̃ŋkut]",
+        "meaning": "falloir, être obligé"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Gant piv 'mañ ar pebr ?",
+        "written": "Gant piv emañ ar pebr ?",
+        "fr": "Qui a le poivre ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Gant den 'bet, n'eus ket pebr ken...",
+        "written": "Gant den ebet, n'eus ket pebr ken...",
+        "fr": "Personne, il n'y a plus de poivre..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Nag an holen ?",
+        "written": "Nag an holen ?",
+        "fr": "Et le sel ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ganin 'mañ, dal...",
+        "written": "Ganin emañ, dal...",
+        "fr": "C'est moi qui l'ai, tiens..."
+      },
+      {
+        "speaker": "a",
+        "oral": "Mersi. Blaz drol zo gant ar patatez, n'eus ket ?",
+        "written": "Trugarez. Blaz drol zo gant ar patatez, n'eus ket ?",
+        "fr": "Merci. Les pommes de terre ont un drôle de goût, non ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Geo, blaz ar moged zo ganto...",
+        "written": "Geo, blaz ar moged zo ganto...",
+        "fr": "Si, elles ont un goût de fumée..."
+      },
+      {
+        "speaker": "a",
+        "oral": "N'eus ket deuet den 'bet da zebriñ ganit hiziv ?",
+        "written": "N'eus ket deuet den ebet da zebriñ ganit hiziv ?",
+        "fr": "Personne n'est venu manger avec toi aujourd'hui ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Nann, ar verc'h zo klañv hag ar wreg 'neus ranket chom ganti.",
+        "written": "Nann, ar verc'h zo klañv hag ar wreg he deus ranket chom ganti.",
+        "fr": "Non, ma fille est malade et ma femme a dû rester avec elle."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 24,
+    "title": "pevar warn-ugent",
+    "vocabulary": [
+      {
+        "word": "AN HINI",
+        "pron": "[ə'ni]",
+        "meaning": "le + adjectif"
+      },
+      {
+        "word": "AN HINI°",
+        "pron": "[ə'ni]",
+        "meaning": "la + adjectif (mutations par adoucissement)"
+      },
+      {
+        "word": "AR RE",
+        "pron": "[əʁe]",
+        "meaning": "les + adjectifs (mutations par adoucissement)"
+      },
+      {
+        "word": "UNAN",
+        "pron": "['ynɑ̃n]",
+        "meaning": "un + adjectif"
+      },
+      {
+        "word": "UNAN°",
+        "pron": "['ynɑ̃n]",
+        "meaning": "une + adjectif (mutations par adoucissement)"
+      },
+      {
+        "word": "RE",
+        "pron": "[ʁe]",
+        "meaning": "des + adjectifs (mutations par adoucissement)"
+      },
+      {
+        "word": "REOÙ",
+        "pron": "['ʁew]",
+        "meaning": "des + adjectifs (relâché), idem"
+      },
+      {
+        "word": "STAMMENN°",
+        "pron": "['stɑ̃mᵊən] (pl. -où [stɑ̃ᵊ'mẹnu])",
+        "meaning": "pull"
+      },
+      {
+        "word": "TOMM",
+        "pron": "['tɔm]",
+        "meaning": "chaud"
+      },
+      {
+        "word": "TREMEN",
+        "pron": "['tʁẹmən]",
+        "meaning": "passer"
+      },
+      {
+        "word": "GOAÑV",
+        "pron": "['gwɑ̃:]",
+        "meaning": "hiver"
+      },
+      {
+        "word": "E-PIGN",
+        "pron": "[e'piɲ]",
+        "meaning": "suspendu"
+      },
+      {
+        "word": "GWELL EO GANIN",
+        "pron": "[ˌgwẹlẹgə'nin]",
+        "meaning": "je préfère"
+      },
+      {
+        "word": "GLOAN",
+        "pron": "['glwɑ̃:n]",
+        "meaning": "(de la) laine"
+      },
+      {
+        "word": "ESAEAÑ",
+        "pron": "[e'sẹ:ɑ̃]",
+        "meaning": "essayer"
+      },
+      {
+        "word": "GLAS",
+        "pron": "['gla:s]",
+        "meaning": "bleu, vert, gris"
+      },
+      {
+        "word": "PEGEMENT",
+        "pron": "[pe'gemənᵗ]",
+        "meaning": "combien (en quantité, « how much »)"
+      },
+      {
+        "word": "KANT",
+        "pron": "['kɑ̃nᵗ]",
+        "meaning": "cent"
+      },
+      {
+        "word": "LUR",
+        "pron": "['ly:ʁ] (pl. -ioù ['lyʁju])",
+        "meaning": "franc, livre"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Petra 'peus ezhomm ?",
+        "written": "Petra hoc'h eus ezhomm ?",
+        "fr": "De quoi avez-vous besoin ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ur stammenn. Unan domm da dremen ar goañv.",
+        "written": "Ur stammenn. Unan domm da dremen ar goañv.",
+        "fr": "D'un pull. Un pull chaud pour passer l'hiver."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ha petra 'soñjit deus ar re zo e-pign aze ?",
+        "written": "Ha petra a soñjit eus ar re zo e-pign aze ?",
+        "fr": "Et que pensez-vous de ceux qui sont suspendus là ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Kaer int, met gwell eo ganin ar re zo war an daol.",
+        "written": "Kaer int, met gwell eo ganin ar re zo war an daol.",
+        "fr": "Ils sont beaux, mais je préfère ceux qui sont sur la table."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, ar re-mañ zo gloan...",
+        "written": "Ya, ar re-mañ zo gloan...",
+        "fr": "Oui, ceux-ci sont en laine..."
+      },
+      {
+        "speaker": "b",
+        "oral": "Pegement eo ?",
+        "written": "Pegement eo ?",
+        "fr": "C'est combien ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Kant lur.",
+        "written": "Kant lur.",
+        "fr": "Cent francs."
+      },
+      {
+        "speaker": "b",
+        "oral": "Gall' 'ran esaeañ an 'ni c'hlas ?",
+        "written": "Gallout a ran esaeañ an hini c'hlas ?",
+        "fr": "Je peux essayer le bleu ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, ma' 'peus c'hoant.",
+        "written": "Ya, mar hoc'h eus c'hoant.",
+        "fr": "Oui, si vous voulez."
+      }
+    ]
+  },
+  {
+    "book": 1,
+    "lesson": 25,
+    "title": "pemp warn-ugent",
+    "vocabulary": [
+      {
+        "word": "EVIT",
+        "pron": "[ᵉ'viᵗ]",
+        "meaning": "pour/que (avec un comparatif de supériorité)"
+      },
+      {
+        "word": "EGET",
+        "pron": "[e'get]",
+        "meaning": "que (langage soutenu)"
+      },
+      {
+        "word": "FIN",
+        "pron": "['fi:n]",
+        "meaning": "fin, intelligent"
+      },
+      {
+        "word": "GWELLOC'H",
+        "pron": "['gwẹlɔx]",
+        "meaning": "mieux (comparatif)"
+      },
+      {
+        "word": "GWASHOC'H",
+        "pron": "['gwasɔx]",
+        "meaning": "pire (comparatif)"
+      },
+      {
+        "word": "GWELLAÑ",
+        "pron": "['gwẹlɑ̃]",
+        "meaning": "mieux (superlatif)"
+      },
+      {
+        "word": "GWASHAÑ",
+        "pron": "['gwasɑ̃]",
+        "meaning": "pire (superlatif)"
+      },
+      {
+        "word": "KEN ... HA",
+        "pron": "[ken] ... [a]",
+        "meaning": "aussi... que"
+      },
+      {
+        "word": "TEV",
+        "pron": "['tẹʷ]",
+        "meaning": "gros"
+      },
+      {
+        "word": "OAD",
+        "pron": "['wat] (pl. -où ['waʒu])",
+        "meaning": "âge"
+      },
+      {
+        "word": "UGENT",
+        "pron": "['y.gən]",
+        "meaning": "vingt"
+      },
+      {
+        "word": "BLOAZ",
+        "pron": "['blwa:] (pl. -où ['blwaju])",
+        "meaning": "an"
+      },
+      {
+        "word": "PELL",
+        "pron": "['pẹl]",
+        "meaning": "loin, beaucoup (plus)"
+      },
+      {
+        "word": "YAOUANK",
+        "pron": "['jɔwɑ̃ŋk]",
+        "meaning": "jeune"
+      },
+      {
+        "word": "SAÑSET EO",
+        "pron": "['sɑ̃sə'dẹ]",
+        "meaning": "bien évidemment (que suis-je bête)"
+      },
+      {
+        "word": "HANTERKANT",
+        "pron": "[hɑ̃ntə'kɑ̃n]",
+        "meaning": "cinquante"
+      },
+      {
+        "word": "TRI-UGENT",
+        "pron": "[tʁi'y.gən]",
+        "meaning": "soixante"
+      },
+      {
+        "word": "HINI",
+        "pron": "['hi.ni]",
+        "meaning": "mien, tien, sien, nôtre, vôtre, leur (après un possessif)"
+      },
+      {
+        "word": "MEMES",
+        "pron": "['mẹməs]",
+        "meaning": "même"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Peseurt oad 'neus da vreur Fañch ?",
+        "written": "Pe oad eo da vreur Fañch ?",
+        "fr": "Quel âge a ton frère Fañch ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ugent vloaz er bloaz-mañ. Pell yaouankoc'h eo 'vidon.",
+        "written": "Ugent vloaz er bloaz-mañ. Pell yaouankoc'h eo evidon.",
+        "fr": "Vingt ans cette année. Il est bien plus jeune que moi."
+      },
+      {
+        "speaker": "a",
+        "oral": "Te eo an 'ni koshañ er familh ?",
+        "written": "Te eo an hini koshañ er familh ?",
+        "fr": "C'est toi l'aîné de la famille ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "N'eo ket, ma zad ha ma mamm zo un tammig koshoc'h 'vidon.",
+        "written": "N'eo ket, ma zad ha ma mamm zo un tammig koshoc'h evidon.",
+        "fr": "Non, mon père et ma mère sont un peu plus âgés que moi."
+      },
+      {
+        "speaker": "a",
+        "oral": "Ya, sañset eo... peseurt oad 'neunt ?",
+        "written": "Ya, sañset eo... pe oad int ?",
+        "fr": "Ah oui, évidemment, suis-je bête... Quel âge ont-ils ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Ma mamm 'neus hanterkant vloaz, ha ma zad 'neus tri-ugent.",
+        "written": "Ma mamm zo hanterkant vloaz, ha ma zad zo tri-ugent.",
+        "fr": "Ma mère a cinquante ans, et mon père soixante."
+      },
+      {
+        "speaker": "a",
+        "oral": "Da dad zo ken kozh ha ma hini.",
+        "written": "Da dad zo ken kozh ha ma hini.",
+        "fr": "Ton père est aussi vieux que le mien."
+      },
+      {
+        "speaker": "b",
+        "oral": "Sell 'ta... Peseurt oad 'neus da hini ?",
+        "written": "Sell 'ta... Pe oad eo da hini ?",
+        "fr": "Tiens donc... Quel âge a le tien ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Memes oad gant da dad... Tri-ugent vloaz !!",
+        "written": "Memes oad gant da dad... Tri-ugent vloaz !!",
+        "fr": "Le même âge que ton père... Soixante ans !!"
+      }
+    ]
+  },
+  {
+    "book": 2,
     "lesson": 1,
     "title": "unan",
     "vocabulary": [
@@ -151,6 +3943,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 2,
     "title": "daou",
     "vocabulary": [
@@ -302,6 +4095,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 3,
     "title": "tri",
     "vocabulary": [
@@ -447,6 +4241,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 4,
     "title": "pevar",
     "vocabulary": [
@@ -598,6 +4393,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 5,
     "title": "pemp",
     "vocabulary": [
@@ -749,6 +4545,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 6,
     "title": "c'hwec'h",
     "vocabulary": [
@@ -900,6 +4697,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 7,
     "title": "seizh",
     "vocabulary": [
@@ -1051,6 +4849,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 8,
     "title": "eizh",
     "vocabulary": [
@@ -1202,6 +5001,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 9,
     "title": "nav",
     "vocabulary": [
@@ -1341,6 +5141,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 10,
     "title": "dek",
     "vocabulary": [
@@ -1492,6 +5293,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 11,
     "title": "unnek",
     "vocabulary": [
@@ -1637,6 +5439,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 12,
     "title": "daouzek",
     "vocabulary": [
@@ -1788,6 +5591,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 13,
     "title": "trizek",
     "vocabulary": [
@@ -1939,6 +5743,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 14,
     "title": "pevarzek",
     "vocabulary": [
@@ -2090,6 +5895,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 15,
     "title": "pemzek",
     "vocabulary": [
@@ -2235,6 +6041,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 16,
     "title": "c'hwezek",
     "vocabulary": [
@@ -2386,6 +6193,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 17,
     "title": "seitek",
     "vocabulary": [
@@ -2537,6 +6345,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 18,
     "title": "triwec'h",
     "vocabulary": [
@@ -2688,6 +6497,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 19,
     "title": "naontek",
     "vocabulary": [
@@ -2833,6 +6643,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 20,
     "title": "ugent",
     "vocabulary": [
@@ -2972,6 +6783,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 21,
     "title": "unan warn-ugent",
     "vocabulary": [
@@ -3117,6 +6929,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 22,
     "title": "daou warn-ugent",
     "vocabulary": [
@@ -3262,6 +7075,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 23,
     "title": "tri warn-ugent",
     "vocabulary": [
@@ -3407,6 +7221,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 24,
     "title": "pevar warn-ugent",
     "vocabulary": [
@@ -3558,6 +7373,7 @@
     ]
   },
   {
+    "book": 2,
     "lesson": 25,
     "title": "pemp warn-ugent",
     "vocabulary": [

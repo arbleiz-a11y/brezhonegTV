@@ -29,6 +29,17 @@ body {
     gap: 0.75rem;
 }
 
+/* Mise en scène au-dessus du dialogue (ex. « Yann ha Gloutroñ zo en ur pub. ») */
+.scene {
+    text-align: center;
+    font-style: italic;
+    padding-bottom: 0.25rem;
+}
+
+.scene .v-fr {
+    font-size: 0.875rem;
+}
+
 .replik {
     display: flex;
     align-items: flex-start;

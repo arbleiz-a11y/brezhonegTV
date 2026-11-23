@@ -112,7 +112,9 @@ const lessonPrevBtn = document.getElementById('lesson-prev');
 const lessonNextBtn = document.getElementById('lesson-next');
 const dialogueTitleEl = document.getElementById('dialogue-title');
 const dialogueLinesEl = document.getElementById('dialogue-lines');
+const dialogueNoteEl = document.getElementById('dialogue-note');
 const vocabBodyEl = document.getElementById('vocab-body');
+const bookRadios = document.querySelectorAll('input[name="book"]');
 const versionToggles = {
     oral: document.getElementById('show-oral'),
     written: document.getElementById('show-written'),
@@ -120,7 +122,13 @@ const versionToggles = {
 };
 
 let dialogues = null; // chargé à la première ouverture de l'onglet
+let currentBook = 1;
 let currentLesson = 1;
+const lastLessonByBook = {}; // dernière leçon vue dans chaque livre
+
+function bookLessons() {
+    return dialogues.filter(d => d.book === currentBook);
+}
 
 function escapeHtml(str) {
     return String(str).replace(/[&<>"']/g, c => (
@@ -133,10 +141,10 @@ function typo(html) {
     return html.replace(/ ([?!:;»])/g, ' $1').replace(/« /g, '« ');
 }
 
-// Garde l'onglet et la leçon dans l'URL (#dialogues/5) pour pouvoir y revenir
+// Garde l'onglet, le livre et la leçon dans l'URL (#dialogues/1/5) pour pouvoir y revenir
 function updateHash() {
     const onDialogues = !tabSections.dialogues.classList.contains('d-none');
-    const url = onDialogues ? `#dialogues/${currentLesson}` : location.pathname + location.search;
+    const url = onDialogues ? `#dialogues/${currentBook}/${currentLesson}` : location.pathname + location.search;
     history.replaceState(null, '', url);
 }
 
@@ -166,16 +174,30 @@ async function openDialogues() {
             console.error(error);
             return;
         }
-        lessonPickerEl.innerHTML = dialogues.map(d => `
-            <button type="button" class="btn btn-sm btn-outline-primary" data-lesson="${d.lesson}"
-                    title="Kentel ${d.lesson} (${escapeHtml(d.title)})">${d.lesson}</button>`).join('');
     }
-    showLesson(currentLesson);
+    showBook(currentBook, currentLesson);
+}
+
+// Affiche un livre : reconstruit les boutons de leçons, puis ouvre la leçon demandée
+// (à défaut, la dernière vue dans ce livre, ou la première)
+function showBook(book, lessonNum) {
+    if (!dialogues.some(d => d.book === book)) book = dialogues[0].book;
+    currentBook = book;
+    bookRadios.forEach(radio => { radio.checked = Number(radio.value) === book; });
+
+    const lessons = bookLessons();
+    lessonPickerEl.innerHTML = lessons.map(d => `
+        <button type="button" class="btn btn-sm btn-outline-primary" data-lesson="${d.lesson}"
+                title="Kentel ${d.lesson} (${escapeHtml(d.title)})">${d.lesson}</button>`).join('');
+
+    showLesson(lessonNum ?? lastLessonByBook[book] ?? lessons[0].lesson);
 }
 
 function showLesson(num) {
-    const lesson = dialogues.find(d => d.lesson === num) || dialogues[0];
+    const lessons = bookLessons();
+    const lesson = lessons.find(d => d.lesson === num) || lessons[0];
     currentLesson = lesson.lesson;
+    lastLessonByBook[currentBook] = currentLesson;
 
     lessonPickerEl.querySelectorAll('[data-lesson]').forEach(btn => {
         const active = Number(btn.dataset.lesson) === currentLesson;
@@ -183,12 +205,19 @@ function showLesson(num) {
         btn.classList.toggle('btn-outline-primary', !active);
         btn.setAttribute('aria-pressed', String(active));
     });
-    lessonPrevBtn.disabled = currentLesson === dialogues[0].lesson;
-    lessonNextBtn.disabled = currentLesson === dialogues[dialogues.length - 1].lesson;
+    lessonPrevBtn.disabled = currentLesson === lessons[0].lesson;
+    lessonNextBtn.disabled = currentLesson === lessons[lessons.length - 1].lesson;
 
     dialogueTitleEl.textContent = `Kentel ${lesson.lesson} (${lesson.title})`;
 
-    dialogueLinesEl.innerHTML = lesson.dialogue.map(line => `
+    // Mise en scène éventuelle (ex. « Yann ha Gloutroñ zo en ur pub. »)
+    const intro = lesson.intro ? `
+        <div class="scene">
+            <p class="mb-0">${typo(escapeHtml(lesson.intro.br))}</p>
+            <p class="v-fr mb-0">${typo(escapeHtml(lesson.intro.fr))}</p>
+        </div>` : '';
+
+    dialogueLinesEl.innerHTML = intro + lesson.dialogue.map(line => `
         <div class="replik replik-${line.speaker}">
             <span class="speaker" aria-label="Locuteur ${line.speaker.toUpperCase()}">${line.speaker.toUpperCase()}</span>
             <div class="bubble">
@@ -197,6 +226,9 @@ function showLesson(num) {
                 <p class="v-fr"><span class="v-label">FR</span><span>${typo(escapeHtml(line.fr))}</span></p>
             </div>
         </div>`).join('');
+
+    dialogueNoteEl.innerHTML = lesson.note ? typo(escapeHtml(lesson.note)) : '';
+    dialogueNoteEl.classList.toggle('d-none', !lesson.note);
 
     vocabBodyEl.innerHTML = lesson.vocabulary.map(v => `
         <tr>
@@ -227,12 +259,23 @@ lessonPickerEl.addEventListener('click', (e) => {
 });
 lessonPrevBtn.addEventListener('click', () => showLesson(currentLesson - 1));
 lessonNextBtn.addEventListener('click', () => showLesson(currentLesson + 1));
+bookRadios.forEach(radio => radio.addEventListener('change', () => {
+    if (dialogues) showBook(Number(radio.value));
+    else currentBook = Number(radio.value); // données pas encore chargées : appliqué à l'ouverture
+}));
 Object.values(versionToggles).forEach(input => input.addEventListener('change', onVersionToggle));
 
-// Ouvrir directement l'onglet Dialogues si l'URL le demande (#dialogues ou #dialogues/5)
-const hashMatch = location.hash.match(/^#dialogues(?:\/(\d+))?$/);
+// Ouvrir directement l'onglet Dialogues si l'URL le demande :
+// #dialogues, #dialogues/1/5 (livre 1, leçon 5), ou l'ancien format #dialogues/5 (livre 2)
+const hashMatch = location.hash.match(/^#dialogues(?:\/(\d+)(?:\/(\d+))?)?$/);
 if (hashMatch) {
-    if (hashMatch[1]) currentLesson = Number(hashMatch[1]);
+    if (hashMatch[2]) {
+        currentBook = Number(hashMatch[1]);
+        currentLesson = Number(hashMatch[2]);
+    } else if (hashMatch[1]) {
+        currentBook = 2;
+        currentLesson = Number(hashMatch[1]);
+    }
     showTab('dialogues');
 }
 
