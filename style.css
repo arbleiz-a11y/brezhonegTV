@@ -120,20 +120,23 @@ body {
     font-size: 0.68rem;
     font-weight: 700;
     letter-spacing: 0.03em;
+    font-style: normal; /* l'étiquette (ORAL, ÉCRIT, FR) reste droite */
     text-transform: uppercase;
     color: #6c757d;
 }
 
+/* Oral en gras, écrit en normal, français en italique */
 .v-oral {
-    font-style: italic;
+    font-weight: 700;
     color: #495057;
 }
 
 .v-written {
-    font-weight: 500;
+    font-weight: 400;
 }
 
 .v-fr {
+    font-style: italic;
     color: #6c757d;
 }
 
