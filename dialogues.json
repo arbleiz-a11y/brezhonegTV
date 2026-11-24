@@ -1,6 +1,104 @@
 [
   {
     "book": 1,
+    "lesson": 0,
+    "title": "mann",
+    "audio": "audio/livre1/kentel-00.m4a",
+    "vocabulary": [
+      {
+        "word": "SALUD",
+        "pron": "['salyt]",
+        "meaning": "salut"
+      },
+      {
+        "word": "MAT AR JEU ?",
+        "pron": "[ma.də'ʒø]",
+        "meaning": "ça va ?"
+      },
+      {
+        "word": "MAT-KAER",
+        "pron": "[maᵗ'kɛ:ʁ]",
+        "meaning": "très bien"
+      },
+      {
+        "word": "PESEURT ANV 'PEUS ?",
+        "pron": "[pesə'ʰɑ̃no'pøs]",
+        "meaning": "vous vous appelez comment ?"
+      },
+      {
+        "word": "ME EO...",
+        "pron": "[ˌme'ẹ]",
+        "meaning": "moi, je suis & moi c'est..."
+      },
+      {
+        "word": "DEUS BREST",
+        "pron": "[dəz'bʁest]",
+        "meaning": "de Brest"
+      },
+      {
+        "word": "PETRA 'PO ?",
+        "pron": "[petə'po]",
+        "meaning": "qu'est-ce que vous voulez boire ?"
+      },
+      {
+        "word": "UR BANNE",
+        "pron": "[oʶ'bɑ̃ne]",
+        "meaning": "un verre de"
+      },
+      {
+        "word": "MAR PLIJ",
+        "pron": "[maʁ'pliʃ]",
+        "meaning": "s'il te plaît, s'il vous plaît"
+      }
+    ],
+    "dialogue": [
+      {
+        "speaker": "a",
+        "oral": "Salud ! Mat ar jeu ?",
+        "written": "Salud ! Mat ar jeu ?",
+        "fr": "Salut ! Ça va ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Mat-kaer.",
+        "written": "Mat-kaer.",
+        "fr": "Très bien."
+      },
+      {
+        "speaker": "a",
+        "oral": "Peseurt anv 'peus ?",
+        "written": "Pe anv oc'h ?",
+        "fr": "Vous vous appelez comment ?"
+      },
+      {
+        "speaker": "b",
+        "oral": "Bob.",
+        "written": "Bob.",
+        "fr": "Bob."
+      },
+      {
+        "speaker": "a",
+        "oral": "Me eo Sharon deus Brest.",
+        "written": "Me eo Sharon eus Brest.",
+        "fr": "Moi, c'est Sharon, de Brest."
+      },
+      {
+        "speaker": "b",
+        "oral": "Petra 'po ?",
+        "written": "Petra ho po ?",
+        "fr": "Qu'est-ce que vous voulez boire ?"
+      },
+      {
+        "speaker": "a",
+        "oral": "Ur banne kilkenny, mar plij.",
+        "written": "Ur banne kilkenny, mar plij.",
+        "fr": "Un verre de Kilkenny, s'il vous plaît."
+      }
+    ],
+    "note": "Le livre ne donne ici que la version parlée ; l'écrit est reconstitué d'après les autres leçons : « Peseurt anv 'peus ? » = « Pe anv oc'h ? » et « deus Brest » = « eus Brest » (Kentel 7) ; « 'po » = « ho po »."
+  },
+  {
+    "book": 1,
     "lesson": 1,
     "title": "unan",
     "audio": "audio/livre1/kentel-01.m4a",

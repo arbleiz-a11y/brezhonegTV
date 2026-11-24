@@ -128,7 +128,7 @@ const versionToggles = {
 
 let dialogues = null; // chargé à la première ouverture de l'onglet
 let currentBook = 1;
-let currentLesson = 1;
+let currentLesson = null; // null : première leçon du livre (Kentel 0 pour le livre 1)
 const lastLessonByBook = {}; // dernière leçon vue dans chaque livre
 
 function bookLessons() {
