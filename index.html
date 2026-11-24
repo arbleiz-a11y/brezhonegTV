@@ -117,6 +117,14 @@
                         <label class="btn btn-outline-primary" for="show-fr">Français</label>
                     </div>
                 </div>
+                <!-- Enregistrement du dialogue (livre 1) -->
+                <div id="audio-player" class="audio-player mb-3 d-none">
+                    <button id="audio-toggle" type="button" class="btn btn-primary btn-sm">Écouter</button>
+                    <input id="audio-seek" type="range" class="form-range" min="0" max="0" step="0.1" value="0"
+                           aria-label="Position dans l'enregistrement">
+                    <span id="audio-time" class="small text-muted">0:00</span>
+                    <audio id="audio-el" preload="metadata"></audio>
+                </div>
                 <div id="dialogue-lines" class="dialogue"></div>
                 <p id="dialogue-note" class="small text-muted mt-3 mb-0 d-none"></p>
             </div>

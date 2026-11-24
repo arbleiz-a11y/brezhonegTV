@@ -29,6 +29,32 @@ body {
     gap: 0.75rem;
 }
 
+/* Lecteur audio du dialogue */
+.audio-player {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.audio-player .btn {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    min-width: 6.75rem;
+}
+
+.audio-player .form-range {
+    flex: 1 1 auto;
+    min-width: 0;
+}
+
+#audio-time {
+    flex: 0 0 auto;
+    font-variant-numeric: tabular-nums;
+}
+
 /* Mise en scène au-dessus du dialogue (ex. « Yann ha Gloutroñ zo en ur pub. ») */
 .scene {
     text-align: center;

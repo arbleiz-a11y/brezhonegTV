@@ -115,6 +115,11 @@ const dialogueLinesEl = document.getElementById('dialogue-lines');
 const dialogueNoteEl = document.getElementById('dialogue-note');
 const vocabBodyEl = document.getElementById('vocab-body');
 const bookRadios = document.querySelectorAll('input[name="book"]');
+const audioPlayerEl = document.getElementById('audio-player');
+const audioEl = document.getElementById('audio-el');
+const audioToggleBtn = document.getElementById('audio-toggle');
+const audioSeekEl = document.getElementById('audio-seek');
+const audioTimeEl = document.getElementById('audio-time');
 const versionToggles = {
     oral: document.getElementById('show-oral'),
     written: document.getElementById('show-written'),
@@ -159,6 +164,7 @@ function showTab(name) {
     if (name === 'dialogues') {
         openDialogues();
     } else {
+        audioEl.pause();
         updateHash();
         if (!userInputEl.disabled) userInputEl.focus();
     }
@@ -209,6 +215,7 @@ function showLesson(num) {
     lessonNextBtn.disabled = currentLesson === lessons[lessons.length - 1].lesson;
 
     dialogueTitleEl.textContent = `Kentel ${lesson.lesson} (${lesson.title})`;
+    loadLessonAudio(lesson);
 
     // Mise en scène éventuelle (ex. « Yann ha Gloutroñ zo en ur pub. »)
     const intro = lesson.intro ? `
@@ -242,6 +249,72 @@ function showLesson(num) {
 
     updateHash();
 }
+
+// --- Enregistrement du dialogue (seules les leçons avec un champ "audio" en ont un) ---
+function formatTime(seconds) {
+    if (!Number.isFinite(seconds)) return '0:00';
+    return `${Math.floor(seconds / 60)}:${String(Math.floor(seconds % 60)).padStart(2, '0')}`;
+}
+
+// Icônes en SVG : sur iPhone, ▶ et ⏸ s'afficheraient en emoji
+const AUDIO_ICONS = {
+    play: '<path d="M4 2.5v11l9-5.5z"/>',
+    pause: '<path d="M4 2.5h3v11H4zm5 0h3v11H9z"/>',
+    replay: '<path fill-rule="evenodd" d="M8 3a5 5 0 1 1-4.546 2.914.5.5 0 0 0-.908-.417A6 6 0 1 0 8 2z"/>'
+        + '<path d="M8 4.466V.534a.25.25 0 0 0-.41-.192L5.23 2.308a.25.25 0 0 0 0 .384l2.36 1.966A.25.25 0 0 0 8 4.466"/>',
+};
+
+function setAudioButton(icon, label) {
+    audioToggleBtn.innerHTML = `<svg viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true">${AUDIO_ICONS[icon]}</svg>${label}`;
+}
+
+function updateAudioUi() {
+    const playing = !audioEl.paused && !audioEl.ended;
+    if (playing) setAudioButton('pause', 'Pause');
+    else if (audioEl.ended) setAudioButton('replay', 'Réécouter');
+    else setAudioButton('play', 'Écouter');
+    audioToggleBtn.setAttribute('aria-label', playing ? "Mettre l'enregistrement en pause" : 'Écouter le dialogue');
+
+    const duration = Number.isFinite(audioEl.duration) ? audioEl.duration : 0;
+    audioSeekEl.max = duration;
+    audioSeekEl.value = audioEl.currentTime;
+    audioTimeEl.textContent = duration
+        ? `${formatTime(audioEl.currentTime)} / ${formatTime(duration)}`
+        : formatTime(audioEl.currentTime);
+}
+
+// Change de piste en changeant de leçon (la lecture s'arrête) ; cache le lecteur s'il n'y a pas d'audio
+function loadLessonAudio(lesson) {
+    audioEl.pause();
+    audioPlayerEl.classList.toggle('d-none', !lesson.audio);
+    if (lesson.audio) {
+        if (audioEl.getAttribute('src') !== lesson.audio) audioEl.src = lesson.audio;
+    } else if (audioEl.hasAttribute('src')) {
+        audioEl.removeAttribute('src');
+        audioEl.load();
+    }
+    updateAudioUi();
+}
+
+audioToggleBtn.addEventListener('click', () => {
+    if (audioEl.paused || audioEl.ended) {
+        audioEl.play().catch(error => {
+            if (error.name !== 'AbortError') console.error(error); // AbortError : leçon changée pendant le chargement
+        });
+    } else {
+        audioEl.pause();
+    }
+});
+audioSeekEl.addEventListener('input', () => {
+    audioEl.currentTime = Number(audioSeekEl.value);
+    updateAudioUi(); // affiche tout de suite la nouvelle position, même en pause
+});
+['play', 'pause', 'ended', 'timeupdate', 'seeked', 'durationchange', 'emptied'].forEach(type => {
+    audioEl.addEventListener(type, updateAudioUi);
+});
+audioEl.addEventListener('error', () => {
+    if (audioEl.hasAttribute('src')) audioTimeEl.textContent = 'Audio indisponible';
+});
 
 // Afficher/masquer oral, écrit, français (au moins une version reste visible)
 function onVersionToggle(event) {

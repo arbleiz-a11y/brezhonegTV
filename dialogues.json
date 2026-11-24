@@ -3,6 +3,7 @@
     "book": 1,
     "lesson": 1,
     "title": "unan",
+    "audio": "audio/livre1/kentel-01.m4a",
     "vocabulary": [
       {
         "word": "PIV",
@@ -165,6 +166,7 @@
     "book": 1,
     "lesson": 2,
     "title": "daou",
+    "audio": "audio/livre1/kentel-02.m4a",
     "vocabulary": [
       {
         "word": "SKUIZH",
@@ -305,6 +307,7 @@
     "book": 1,
     "lesson": 3,
     "title": "tri",
+    "audio": "audio/livre1/kentel-03.m4a",
     "vocabulary": [
       {
         "word": "KOZH",
@@ -456,6 +459,7 @@
     "book": 1,
     "lesson": 4,
     "title": "pevar",
+    "audio": "audio/livre1/kentel-04.m4a",
     "vocabulary": [
       {
         "word": "KOUSKET",
@@ -622,6 +626,7 @@
     "book": 1,
     "lesson": 5,
     "title": "pemp",
+    "audio": "audio/livre1/kentel-05.m4a",
     "vocabulary": [
       {
         "word": "OBER",
@@ -768,6 +773,7 @@
     "book": 1,
     "lesson": 6,
     "title": "c'hwec'h",
+    "audio": "audio/livre1/kentel-06.m4a",
     "vocabulary": [
       {
         "word": "PLAC'H°",
@@ -919,6 +925,7 @@
     "book": 1,
     "lesson": 7,
     "title": "seizh",
+    "audio": "audio/livre1/kentel-07.m4a",
     "vocabulary": [
       {
         "word": "KAOUT",
@@ -1071,6 +1078,7 @@
     "book": 1,
     "lesson": 8,
     "title": "eizh",
+    "audio": "audio/livre1/kentel-08.m4a",
     "vocabulary": [
       {
         "word": "PEGOULZ",
@@ -1223,6 +1231,7 @@
     "book": 1,
     "lesson": 9,
     "title": "nav",
+    "audio": "audio/livre1/kentel-09.m4a",
     "vocabulary": [
       {
         "word": "AC'HANON ('HANON)",
@@ -1380,6 +1389,7 @@
     "book": 1,
     "lesson": 10,
     "title": "dek",
+    "audio": "audio/livre1/kentel-10.m4a",
     "vocabulary": [
       {
         "word": "LIV",
@@ -1520,6 +1530,7 @@
     "book": 1,
     "lesson": 11,
     "title": "unnek",
+    "audio": "audio/livre1/kentel-11.m4a",
     "vocabulary": [
       {
         "word": "DEUS",
@@ -1672,6 +1683,7 @@
     "book": 1,
     "lesson": 12,
     "title": "daouzek",
+    "audio": "audio/livre1/kentel-12.m4a",
     "vocabulary": [
       {
         "word": "A",
@@ -1818,6 +1830,7 @@
     "book": 1,
     "lesson": 13,
     "title": "trizek",
+    "audio": "audio/livre1/kentel-13.m4a",
     "vocabulary": [
       {
         "word": "SANTOUT",
@@ -1958,6 +1971,7 @@
     "book": 1,
     "lesson": 14,
     "title": "pevarzek",
+    "audio": "audio/livre1/kentel-14.m4a",
     "vocabulary": [
       {
         "word": "A",
@@ -2110,6 +2124,7 @@
     "book": 1,
     "lesson": 15,
     "title": "pemzek",
+    "audio": "audio/livre1/kentel-15.m4a",
     "vocabulary": [
       {
         "word": "A",
@@ -2262,6 +2277,7 @@
     "book": 1,
     "lesson": 16,
     "title": "c'hwezek",
+    "audio": "audio/livre1/kentel-16.m4a",
     "vocabulary": [
       {
         "word": "E",
@@ -2414,6 +2430,7 @@
     "book": 1,
     "lesson": 17,
     "title": "seitek",
+    "audio": "audio/livre1/kentel-17.m4a",
     "vocabulary": [
       {
         "word": "EMAÑ",
@@ -2571,6 +2588,7 @@
     "book": 1,
     "lesson": 18,
     "title": "triwec'h",
+    "audio": "audio/livre1/kentel-18.m4a",
     "vocabulary": [
       {
         "word": "O",
@@ -2723,6 +2741,7 @@
     "book": 1,
     "lesson": 19,
     "title": "naontek",
+    "audio": "audio/livre1/kentel-19.m4a",
     "vocabulary": [
       {
         "word": "DEC'H",
@@ -2875,6 +2894,7 @@
     "book": 1,
     "lesson": 20,
     "title": "ugent",
+    "audio": "audio/livre1/kentel-20.m4a",
     "vocabulary": [
       {
         "word": "DIMEURZH",
@@ -3027,6 +3047,7 @@
     "book": 1,
     "lesson": 21,
     "title": "unan warn-ugent",
+    "audio": "audio/livre1/kentel-21.m4a",
     "vocabulary": [
       {
         "word": "KOUEZHAÑ",
@@ -3173,6 +3194,7 @@
     "book": 1,
     "lesson": 22,
     "title": "daou warn-ugent",
+    "audio": "audio/livre1/kentel-22.m4a",
     "vocabulary": [
       {
         "word": "N'EUS KET",
@@ -3326,6 +3348,7 @@
     "book": 1,
     "lesson": 23,
     "title": "tri warn-ugent",
+    "audio": "audio/livre1/kentel-23.m4a",
     "vocabulary": [
       {
         "word": "ALC'HWEZ",
@@ -3478,6 +3501,7 @@
     "book": 1,
     "lesson": 24,
     "title": "pevar warn-ugent",
+    "audio": "audio/livre1/kentel-24.m4a",
     "vocabulary": [
       {
         "word": "AN HINI",
@@ -3636,6 +3660,7 @@
     "book": 1,
     "lesson": 25,
     "title": "pemp warn-ugent",
+    "audio": "audio/livre1/kentel-25.m4a",
     "vocabulary": [
       {
         "word": "EVIT",
@@ -3794,6 +3819,7 @@
     "book": 2,
     "lesson": 1,
     "title": "unan",
+    "audio": "audio/livre2/kentel-01.m4a",
     "vocabulary": [
       {
         "word": "DA",
@@ -3946,6 +3972,7 @@
     "book": 2,
     "lesson": 2,
     "title": "daou",
+    "audio": "audio/livre2/kentel-02.m4a",
     "vocabulary": [
       {
         "word": "PLIJOUT",
@@ -4098,6 +4125,7 @@
     "book": 2,
     "lesson": 3,
     "title": "tri",
+    "audio": "audio/livre2/kentel-03.m4a",
     "vocabulary": [
       {
         "word": "RET",
@@ -4244,6 +4272,7 @@
     "book": 2,
     "lesson": 4,
     "title": "pevar",
+    "audio": "audio/livre2/kentel-04.m4a",
     "vocabulary": [
       {
         "word": "LEIN°",
@@ -4396,6 +4425,7 @@
     "book": 2,
     "lesson": 5,
     "title": "pemp",
+    "audio": "audio/livre2/kentel-05.m4a",
     "vocabulary": [
       {
         "word": "WARC'HOAZH",
@@ -4548,6 +4578,7 @@
     "book": 2,
     "lesson": 6,
     "title": "c'hwec'h",
+    "audio": "audio/livre2/kentel-06.m4a",
     "vocabulary": [
       {
         "word": "SIKOUR",
@@ -4700,6 +4731,7 @@
     "book": 2,
     "lesson": 7,
     "title": "seizh",
+    "audio": "audio/livre2/kentel-07.m4a",
     "vocabulary": [
       {
         "word": "SISTR",
@@ -4852,6 +4884,7 @@
     "book": 2,
     "lesson": 8,
     "title": "eizh",
+    "audio": "audio/livre2/kentel-08.m4a",
     "vocabulary": [
       {
         "word": "DIGERIÑ",
@@ -5004,6 +5037,7 @@
     "book": 2,
     "lesson": 9,
     "title": "nav",
+    "audio": "audio/livre2/kentel-09.m4a",
     "vocabulary": [
       {
         "word": "GWEZHALL",
@@ -5144,6 +5178,7 @@
     "book": 2,
     "lesson": 10,
     "title": "dek",
+    "audio": "audio/livre2/kentel-10.m4a",
     "vocabulary": [
       {
         "word": "MARC'H",
@@ -5296,6 +5331,7 @@
     "book": 2,
     "lesson": 11,
     "title": "unnek",
+    "audio": "audio/livre2/kentel-11.m4a",
     "vocabulary": [
       {
         "word": "SEIZH",
@@ -5442,6 +5478,7 @@
     "book": 2,
     "lesson": 12,
     "title": "daouzek",
+    "audio": "audio/livre2/kentel-12.m4a",
     "vocabulary": [
       {
         "word": "PEROKED",
@@ -5594,6 +5631,7 @@
     "book": 2,
     "lesson": 13,
     "title": "trizek",
+    "audio": "audio/livre2/kentel-13.m4a",
     "vocabulary": [
       {
         "word": "MIZ GENVER",
@@ -5746,6 +5784,7 @@
     "book": 2,
     "lesson": 14,
     "title": "pevarzek",
+    "audio": "audio/livre2/kentel-14.m4a",
     "vocabulary": [
       {
         "word": "*DEUZH",
@@ -5898,6 +5937,7 @@
     "book": 2,
     "lesson": 15,
     "title": "pemzek",
+    "audio": "audio/livre2/kentel-15.m4a",
     "vocabulary": [
       {
         "word": "*DEUS",
@@ -6044,6 +6084,7 @@
     "book": 2,
     "lesson": 16,
     "title": "c'hwezek",
+    "audio": "audio/livre2/kentel-16.m4a",
     "vocabulary": [
       {
         "word": "ENOEET",
@@ -6196,6 +6237,7 @@
     "book": 2,
     "lesson": 17,
     "title": "seitek",
+    "audio": "audio/livre2/kentel-17.m4a",
     "vocabulary": [
       {
         "word": "E-GIZ-SE",
@@ -6348,6 +6390,7 @@
     "book": 2,
     "lesson": 18,
     "title": "triwec'h",
+    "audio": "audio/livre2/kentel-18.m4a",
     "vocabulary": [
       {
         "word": "GWISKET",
@@ -6500,6 +6543,7 @@
     "book": 2,
     "lesson": 19,
     "title": "naontek",
+    "audio": "audio/livre2/kentel-19.m4a",
     "vocabulary": [
       {
         "word": "POAN-GEIN°",
@@ -6646,6 +6690,7 @@
     "book": 2,
     "lesson": 20,
     "title": "ugent",
+    "audio": "audio/livre2/kentel-20.m4a",
     "vocabulary": [
       {
         "word": "BEP TRO",
@@ -6786,6 +6831,7 @@
     "book": 2,
     "lesson": 21,
     "title": "unan warn-ugent",
+    "audio": "audio/livre2/kentel-21.m4a",
     "vocabulary": [
       {
         "word": "A",
@@ -6932,6 +6978,7 @@
     "book": 2,
     "lesson": 22,
     "title": "daou warn-ugent",
+    "audio": "audio/livre2/kentel-22.m4a",
     "vocabulary": [
       {
         "word": "ME A GAV DIN",
@@ -7078,6 +7125,7 @@
     "book": 2,
     "lesson": 23,
     "title": "tri warn-ugent",
+    "audio": "audio/livre2/kentel-23.m4a",
     "vocabulary": [
       {
         "word": "POURMEN",
@@ -7224,6 +7272,7 @@
     "book": 2,
     "lesson": 24,
     "title": "pevar warn-ugent",
+    "audio": "audio/livre2/kentel-24.m4a",
     "vocabulary": [
       {
         "word": "POURMENADENN°",
@@ -7376,6 +7425,7 @@
     "book": 2,
     "lesson": 25,
     "title": "pemp warn-ugent",
+    "audio": "audio/livre2/kentel-25.m4a",
     "vocabulary": [
       {
         "word": "SIRK",
